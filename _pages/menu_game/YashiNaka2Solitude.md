@@ -16,7 +16,7 @@ breadcrumb:
 
 ---
 
-[「ヤシなか2 ソリチュード」のダウンロード(zip)](http://www.omoshiro-game.com/soft/YashiNaka2Solitude/YashiNaka2_Solitude.zip "シミュレーションRPG「ヤシなか2 ソリチュード」のダウンロード (無料)")  
+[「ヤシなか2 ソリチュード」のダウンロード(zip)](/soft/YashiNaka2Solitude/YashiNaka2_Solitude.zip "シミュレーションRPG「ヤシなか2 ソリチュード」のダウンロード (無料)")  
 
 ゲームタイトル：　ヤシなか2 ソリチュード  
 バージョン　　：　1.62  

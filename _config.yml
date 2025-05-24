@@ -22,22 +22,24 @@ excerpt_separator: "<!--more-->"
 collections:
   pages:
     output: true
+    permalink: /:path/
   pages_en:
     output: true
+    permalink: /en/:path/
 
 defaults:
   - scope:
       path: '_pages_en/'
       type: pages_en
     values:
-      permalink: '/en/:path/'
+      # permalink: '/en/:path/'
       lang: en
       layout: default
   - scope:
       path: '_pages/'
       type: pages
     values:
-      permalink: '/:path/'
+      # permalink: '/:path/'
       lang: ja
       layout: default
   

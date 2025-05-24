@@ -26,7 +26,7 @@ breadcrumb:
 
 ---
 
-[「シミュレーユ」のダウンロード(zip)](http://www.omoshiro-game.com/soft/Simulayu/Simulayu.zip "シミュレーションRPG「シミュレーユ」のダウンロード (無料)")  
+[「シミュレーユ」のダウンロード(zip)](/soft/Simulayu/Simulayu.zip "シミュレーションRPG「シミュレーユ」のダウンロード (無料)")  
 
 ゲームタイトル：　シミュレーユ  
 バージョン　　：　4.41  
