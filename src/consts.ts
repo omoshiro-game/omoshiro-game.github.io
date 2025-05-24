@@ -3,3 +3,7 @@
 
 export const SITE_TITLE = 'Astro Blog';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const HOME_TEXT = {
+    ja: 'おもしろゲーム神殿TOP',
+    en: 'Home',
+}

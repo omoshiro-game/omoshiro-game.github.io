@@ -1,0 +1,165 @@
+---
+import sections from "../data/sidebar.json";
+import { normalize } from "../i18n/utils";
+const { pathname } = Astro.url;
+const lang = pathname.startsWith("/en/") ? "en" : "ja";
+
+const prefix = lang === "en" ? "/en" : "";
+---
+<div id="sidebar">
+  {sections.map((sec) => (
+    <div class="menu">
+      {sec.title && <div class="title"><p>{sec.title[lang]}</p></div>}
+      {sec.type === "links" && <ul class={sec.links?.some(l => l.html || "") ? "ranking" : ""}>
+        {sec.links?.map((link) => (
+          <li class={link.noborder ? "noborder" : ""}>
+            <p>
+              <a
+                href={link.url.startsWith("/") ? prefix + normalize(link.url) : link.url}
+                title={link.title?.[lang]}
+                rel={link.rel}
+              >
+                {link.name[lang]}
+              </a>
+              {link.html && <span innerHTML={link.html} />}
+            </p>
+          </li>
+        ))}
+      </ul>}
+      {sec.type === "twitter" && <a
+        class="twitter-timeline"
+        href={`https://twitter.com/${sec.username}?ref_src=twsrc%5Etfw`}
+        height={`${sec.height}px"`}
+        data-chrome="transparent"
+      >
+        Tweets by {sec.username}
+      </a>}
+    </div>
+  ))}
+</div>
+
+<style>
+
+div#sidebar{
+	display: inline;
+	float: left;
+	overflow: hidden;
+}
+
+
+/*サイドバー内のPタグ*/
+div#sidebar p{
+	margin: 15px;
+	font-size: 90%;
+}
+
+
+/*サイドバーの枠線＆マージン*/
+div#sidebar .menu,
+div#sidebar .menu-mtwp,
+div#sidebar .contents{
+	margin: 0 0 10px 10px;
+	border: 1px solid #333;
+}
+
+
+/*サイドバーのタイトル帯の背景色*/
+div#sidebar .title{
+	background: url(/images/bg-sub/bg-sub-white.jpg) left center;
+}
+
+/*サイドバーのタイトル帯の文字色*/
+div#sidebar .title p{
+	margin: 0 10px;
+	padding: 5px 0;
+	font-weight: bold;
+	color: #333;
+}
+
+div#sidebar .title p a{ text-decoration: none; }
+div#sidebar .title p a:link{ color: #333; }
+div#sidebar .title p a:visited{ color: #333; }
+div#sidebar .title p a:hover{ color: #990000; }
+
+div#sidebar .title p img{
+	vertical-align: middle!important;
+}
+
+
+/*親メニューリスト*/
+div#sidebar ul{ margin: 5px 15px; }
+div#sidebar li{
+	list-style-type: none;
+	list-style-position: outside;
+	margin: 15px 0;
+	padding-left: 16px;
+	background: url(../images/icon/icon-menu01-r-black.gif) 0 3px no-repeat;
+	font-size: 105%;
+	font-weight: bold;
+}
+
+/*子メニューリスト*/
+div#sidebar ul.sub{ margin: 10px 0 20px 0; }
+div#sidebar ul.sub li{
+	margin: 10px 0;
+	background: url(../images/icon/icon-menu10-black.gif) 0 3px no-repeat;
+	font-size: 90%;
+	font-weight: normal;
+}
+
+/*ランキングリスト*/
+div#sidebar ul.ranking li{
+	margin-bottom: 20px;
+	padding: 0;
+	border-bottom: 1px dotted #333;
+	background: none;
+	font-weight: normal;
+}
+
+div#sidebar ul.ranking li.end{ border: none; }
+div#sidebar ul.ranking p{ margin: 10px 0; }
+
+
+.no1,.no2,.no3,.no4,.no5,.no6,.no7,.no8,.no9,.no10{
+	height: 24px!important;
+	padding: 5px 0 0 30px!important;
+}
+
+
+/*ベスト3は赤文字*/
+.no1,.no2,.no3{
+	font-size: 1.2em!important;
+	font-weight: bold!important;
+	color: #ff0000!important;
+}
+
+
+
+/*王冠画像*/
+.no1{ background: url(../images/icon/icon-rank01-01.gif) left top no-repeat; }
+.no2{ background: url(../images/icon/icon-rank01-02.gif) left top no-repeat; }
+.no3{ background: url(../images/icon/icon-rank01-03.gif) left top no-repeat; }
+.no4{ background: url(../images/icon/icon-rank01-04.gif) left top no-repeat; }
+.no5{ background: url(../images/icon/icon-rank01-05.gif) left top no-repeat; }
+.no6{ background: url(../images/icon/icon-rank01-06.gif) left top no-repeat; }
+.no7{ background: url(../images/icon/icon-rank01-07.gif) left top no-repeat; }
+.no8{ background: url(../images/icon/icon-rank01-08.gif) left top no-repeat; }
+.no9{ background: url(../images/icon/icon-rank01-09.gif) left top no-repeat; }
+.no10{ background: url(../images/icon/icon-rank01-10.gif) left top no-repeat; }
+
+
+/*MT＆WordPressで使用*/
+div#sidebar .menu-mtwp li{
+	font-size: 90%;
+	font-weight: normal;
+	background: url(../images/icon/icon-menu01-r-black.gif) 0 4px no-repeat;
+}
+
+div#sidebar .menu-mtwp li ul{ margin: 10px 0 20px 0; }
+div#sidebar .menu-mtwp li ul li{
+	margin: 10px 0;
+	background: url(../images/icon/icon-menu10-black.gif) 0 3px no-repeat;
+	font-size: 90%;
+	font-weight: normal;
+}
+</style>

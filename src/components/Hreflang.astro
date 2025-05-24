@@ -1,0 +1,26 @@
+---
+// Hreflang.astro
+const { pathname } = Astro.url;
+const rawSiteUrl = `${Astro.site}` || "https://omoshiro-game.github.io";
+const siteUrl = rawSiteUrl.replace(/\/+$/, "");
+
+// Normalize helper: collapse multiple slashes, ensure leading+trailing slash
+const clean = (u) =>
+ u == "/" ? "/" :
+  "/" + u
+    .replace(/\/+/g, "/")       // collapse any sequence of "/" to one
+    .replace(/^\/|\/$/g, "")    // strip leading/trailing slash
+    + "/";
+
+let jpPath, enPath;
+if (pathname.startsWith("/en/")) {
+  jpPath = clean(pathname.replace(/^\/en/, ""));
+  enPath = clean(pathname);
+} else {
+  jpPath = clean(pathname);
+  enPath = clean("/en" + pathname);
+}
+---
+<link rel="alternate" href={`${siteUrl}${jpPath}`} hreflang="ja" />
+<link rel="alternate" href={`${siteUrl}${enPath}`} hreflang="en" />
+<link rel="alternate" href={`${siteUrl}${enPath}`} hreflang="x-default" />

@@ -1,0 +1,39 @@
+[
+  {
+    "type": "links",
+    "title": { "ja": "メインメニュー", "en": "Main Menu" },
+    "links": [
+      { "name": { "ja": "ゲームのダウンロード", "en": "Game Downloads" }, "url": "/menu_game/", "title": { "ja": "ゲームのダウンロード(無料)", "en": "Download games (free)" }, "rel": "nofollow" },
+      { "name": { "ja": "ゲーム制作ソフト", "en": "Game Creation Tools" }, "url": "/menu_gametool/", "title": { "ja": "ゲーム制作ソフトのダウンロード(無料)", "en": "Download creation tools (free)" }, "rel": "nofollow" },
+      { "name": { "ja": "宣伝BBS", "en": "Promotional BBS" }, "url": "/joyful_publicity/joyful.cgi", "title": { "ja": "ゲーム・サイト・イベントの宣伝", "en": "Promote games/sites/events" }, "rel": "nofollow" },
+      { "name": { "ja": "サポート", "en": "Support" }, "url": "/menu_support/", "title": { "ja": "ゲームのサポート", "en": "Game support" }, "rel": "nofollow" },
+      { "name": { "ja": "ゲーム攻略", "en": "Game Guides" }, "url": "/menu_game_capture/", "title": { "ja": "ゲームの攻略", "en": "Game walkthroughs" }, "rel": "nofollow" },
+      { "name": { "ja": "募集事項", "en": "Announcements" }, "url": "/menu_collect/", "title": { "ja": "募集事項", "en": "Announcements" }, "rel": "nofollow" },
+      { "name": { "ja": "MIDIダウンロード", "en": "MIDI Downloads" }, "url": "/menu_midi/", "title": { "ja": "MIDIのダウンロード", "en": "Download MIDI" }, "rel": "nofollow" },
+      { "name": { "ja": "管理人へメール", "en": "Contact Admin" }, "url": "/menu_mail/", "title": { "ja": "管理人へメール", "en": "Email the Admin" }, "rel": "nofollow" },
+      { "name": { "ja": "リンク集", "en": "Links" }, "url": "/menu_link/", "title": { "ja": "ゲーム関係のサイトのリンク集", "en": "Game-related links" }, "rel": "nofollow" }
+    ]
+  },
+  {
+    "type": "twitter",
+    "username": "antongame",
+    "height": 400
+  },
+  {
+    "type": "links",
+    "title": { "ja": "おすすめリンク集", "en": "Recommended Links" },
+    "links": [
+      { "name": { "ja": "新アクエディBBSなど", "en": "New ActionEditor BBS etc." }, "url": "http://ae4directory.web.fc2.com/index.html", "rel": "nofollow" , "html": "<br>アクエディシリーズのBBS" }
+    ]
+  },
+  {
+    "type": "links",
+    "title": { "ja": "おもしろゲーム集", "en": "Fun Games Collection" },
+    "links": [
+      { "name": { "ja": "SRPGエディター2", "en": "SRPG Editor 2" }, "url": "/menu_game/SRPGEditor2/", "title": { "ja": "無料シミュレーションRPG制作ソフト シミュレーションRPGエディター2", "en": "Free simulation RPG creation software" }, "rel": "nofollow", "html": "<br>プログラミング不要のシミュレーションRPG制作ソフト。キャラのスカウト機能や対戦トレーニング搭載" },
+      { "name": { "ja": "アクションエディター4", "en": "Action Editor 4" }, "url": "/menu_game/ActionEditor4/", "title": { "ja": "無料アクションゲーム制作ソフト アクションエディター4", "en": "Free action game creator" }, "rel": "nofollow", "html": "<br>手軽に楽しくアクションゲームが作れるソフト" },
+      { "name": { "ja": "アクエディ4 ゲーム集", "en": "AE4 Game Collection" }, "url": "/menu_game/ActionEditor4/index.html#GAME_DL", "title": { "ja": "アクエディ4 ゲーム集", "en": "AE4 Game Collection" }, "rel": "nofollow", "html": "<br>アクション、シューティング、アクションRPGなど" },
+      { "name": { "ja": "ヤシーユとなかま2", "en": "Yashiyu and Friends 2" }, "url": "/menu_game/index.html#NAKAMA2", "title": { "ja": "無料シミュレーションRPG ヤシーユとなかま2", "en": "Free SRPG: Yashiyu and Friends 2" }, "rel": "nofollow", "html": "<br>戦闘重視のシミュレーションRPG。周回プレイ可" }
+    ]
+  }
+]

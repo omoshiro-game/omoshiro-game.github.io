@@ -1,0 +1,34 @@
+---
+
+const { pathname } = Astro.url;
+
+// Strip trailing slash variants and collapse multiple slashes
+const normalize = (u) =>
+ u == "/" ? "/" :
+  "/" + u
+    .replace(/\/+/g, "/")       // collapse runs of “/”
+    .replace(/^\/|\/$/g, "")    // remove leading/trailing “/”
+    + "/";
+
+const cleanPath = normalize(pathname);
+
+let targetPath, label;
+
+if (cleanPath.startsWith("/en/")) {
+  // Currently English → switch to Japanese
+  targetPath = normalize(cleanPath.replace(/^\/en/, ""));
+  label = "日本語";
+} else {
+  // Currently Japanese → switch to English
+  targetPath = normalize("/en" + cleanPath);
+  label = "English";
+}
+
+// Prepend the site origin if you need absolute URLs, e.g. Astro.site
+// const siteUrl = (Astro.site || "").replace(/\/+$/, "");
+// const href = `${siteUrl}${targetPath}`;
+const href = targetPath;
+---
+<a href={href} class="lang-switcher">
+  {label}
+</a>

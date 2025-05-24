@@ -1,0 +1,71 @@
+---
+import { HOME_TEXT } from "../consts";
+
+const { pathname } = Astro.url;
+
+// 1. simple lang detector
+const lang = pathname.startsWith('/en/') ? 'en' : 'ja';
+
+// 2. helper to clean up URL slashes
+const normalize = (u) =>
+u == "/" ? "/" : 
+  '/' + u.replace(/\/+/g, '/').replace(/^\/|\/$/g, '') + '/';
+
+// 3. pull in the breadcrumb array from frontmatter
+//    expect something like: [{ name: 'About', url: '/about/' }, …]
+const crumbs = Astro.props.breadcrumb ?? [];
+
+// 4. read home text from your site config
+const homeLabel = HOME_TEXT?.[lang] ?? HOME_TEXT?.ja ?? 'Home';
+
+// 5. compute base href for home
+const homeHref = lang === 'en' ? normalize('/en/') : normalize('/');
+---
+
+<div id="navi">
+  <p>
+    <!-- Home link -->
+    <a href={homeHref}>
+      {homeLabel}
+    </a>
+
+    <!-- loop over crumbs -->
+    {crumbs.map((crumb) => {
+      // 6. compute per-crumb href, prefixing /en if needed
+      const href = lang === 'en'
+        ? normalize('/en' + crumb.url)
+        : normalize(crumb.url);
+      return (
+        <>
+          {' '}→{' '}
+          <a href={href}>{crumb.name}</a>
+        </>
+      );
+    })}
+  </p>
+</div>
+
+<style>
+    div#navi{
+	position: absolute;
+	top: 180px;/*■縦位置*/
+	height: 34px;
+	/*background: #fff;*/
+}
+
+div#navi p{
+	margin: 9px 0 0 16px;
+	font-size: 8.5pt;
+	line-height: 14pt;
+}
+
+div#navi_w{
+	/*background: #fff;*/
+}
+
+div#navi_w p{
+	margin: 10px 3px 10px 16px;
+	/*font-size: 10.5pt;*/
+	line-height: 24pt;
+}
+</style>

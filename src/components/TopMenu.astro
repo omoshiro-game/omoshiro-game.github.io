@@ -1,0 +1,32 @@
+---
+import { normalize } from "../i18n/utils";
+
+const { pathname } = Astro.url;
+const lang = pathname.startsWith('/en/') ? 'en' : 'ja';
+
+// Compute counterpart URL without altering trailing slash
+let switchUrl;
+if (lang === 'ja') {
+  // Japanese page: switch to English variant
+  switchUrl = normalize('/en' + pathname);
+} else {
+  // English page: switch to Japanese variant
+  switchUrl = normalize(pathname.replace(/^\/en/, ''));
+}
+// Sitemap URL
+const sitemapPath = lang === 'ja' ? normalize('/sitemap/') : normalize('/en/sitemap/');
+---
+<div id="header">
+  <ul id="top-menu">
+    <li>
+      <a href={switchUrl}>
+        {lang === 'ja' ? 'English' : '日本語'}
+      </a>
+    </li>
+    <li>
+      <a href={sitemapPath}>
+        {lang === 'ja' ? 'サイトマップ' : 'Sitemap'}
+      </a>
+    </li>
+  </ul>
+</div>

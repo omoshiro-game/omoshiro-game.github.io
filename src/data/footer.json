@@ -1,0 +1,23 @@
+{
+  "menus": [
+    [
+      { "name": { "ja": "TOPページへ", "en": "Home" }, "url": "/", "rel": "nofollow" },
+      { "name": { "ja": "ゲームのダウンロード", "en": "Game Downloads" }, "url": "/menu_game/", "rel": "nofollow" },
+      { "name": { "ja": "ゲーム制作ソフト", "en": "Game Creation Tools" }, "url": "/menu_gametool/", "rel": "nofollow" },
+      { "name": { "ja": "宣伝BBS", "en": "Promotional BBS" }, "url": "/joyful_publicity/joyful.cgi", "rel": "nofollow" },
+      { "name": { "ja": "サポート", "en": "Support" }, "url": "/menu_support/", "rel": "nofollow" },
+      { "name": { "ja": "ゲーム攻略", "en": "Game Guides" }, "url": "/menu_game_capture/", "rel": "nofollow" }
+    ],
+    [
+      { "name": { "ja": "募集事項", "en": "Announcements" }, "url": "/menu_collect/", "rel": "nofollow" },
+      { "name": { "ja": "MIDIのダウンロード", "en": "MIDI Downloads" }, "url": "/menu_midi/", "rel": "nofollow" },
+      { "name": { "ja": "管理人へメール", "en": "Contact Admin" }, "url": "/menu_mail/", "rel": "nofollow" },
+      { "name": { "ja": "リンク集", "en": "Links" }, "url": "/menu_link/", "rel": "nofollow" },
+      { "name": { "ja": "サイトマップ", "en": "Sitemap" }, "url": "/sitemap/", "rel": "nofollow" }
+    ]
+  ],
+  "copyright": {
+    "ja": "「おもしろゲーム神殿 ～アクションゲーム＆シミュレーションRPGをつくろう～」は全てのページがリンクフリーです。<br>もしよろしければ、サイト及びゲームのご紹介をよろしくお願いします！<br>管理人 アントン &copy; ",
+    "en": "Omoshiro Game Sanctuary – All pages are link-free. Please feel free to share our site and games!<br>Admin Anton &copy; "
+  }
+}
