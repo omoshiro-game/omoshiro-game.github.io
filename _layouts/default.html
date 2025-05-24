@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+{% assign no_en = page.url | remove_first: '/en' %}
+{% assign jp_url = page.url | replace_first:'/en','' %}
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{% if page.title %}{{ page.title }} | {% endif %} {{ site.title[page.lang] | default: site.title.en }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% else %}
+  <meta name="description" content="{{ page.content | strip_html |remove:'\n'|trim|truncate:80,'' }}">
+  {% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+  {% assign timestamp = site.time | date:"%m%d%H%M" %}
+
+  <!-- hreflang links -->
+  <link rel="alternate" href="{{ jp_url }}" hreflang="ja" />
+  <link rel="alternate" href="{{ jp_url | prepend:'/en' }}" hreflang="en" />
+  <link rel="alternate" href="{{ jp_url | prepend:'/en' }}" hreflang="x-default" />
+
+  <link rel="stylesheet" href="{{ '/css/style_import.css' }}">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <meta http-equiv="Cache-Control" content="no-transform" />
+  <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <meta name="theme-color" content="#f3f3f3">
+  {% include init.html %}
+  
+</head>
+<body>
+  <div id="container">
+    <h1>{{ page.title }}</h1>
+
+    <!--▼ナビ-->
+    {% include breadcrumb.html %}
+    <!--▲ナビ-->
+
+    <!--▼メイン-->
+    <div id="main">
+      <!--▽メインコンテンツ-->
+      <div id="main-contents">
+        {{ content }}
+      </div>
+
+      <!--▽サイドバー-->
+      {% if page.lang == 'ja' %}
+        {% include sidebar.html %}
+      {% else %}
+        {% include sidebar.en.html %}
+      {% endif %}
+      <!--△サイドバー-->
+
+
+      <!--▽サイドバー-->
+      {% if page.lang == 'ja' %}
+        {% include footer.html %}
+      {% else %}
+        {% include footer.en.html %}
+      {% endif %}
+
+      
+      <!--△フッター-->
+    </div>
+    <!--▲メイン-->
+    
+
+    {% include header-logo.html %}
+    
+
+    {% include header.html %}
+
+
+
+  </div>
+
+  <!-- <div>Lang: {{ page.lang }}</div>
+  <div>URL: {{ page.url }}</div>
+  <div>no_en: {{ page.url | remove_first: '/en' }}</div>
+  <div>relative no_en: {{ page.url | remove_first: '/en'  | relative_url }}</div> -->
+
+   
+</body>
+</html>

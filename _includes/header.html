@@ -1,0 +1,29 @@
+<div id="header">
+  <ul id="top-menu">
+      <!-- simple language switcher -->
+    <li>
+        {% if page.lang == 'ja' %}
+        <a href="{{ page.url | prepend: '/en' | relative_url }}">English</a>
+        {% else %}
+        <a href="{{ no_en }}">日本語</a>
+        {% endif %}
+    </li>
+    <li>
+      <a 
+        href="
+          {% if page.lang == 'ja' %}
+            {{ '/sitemap/' | relative_url }}
+          {% else %}
+            {{ '/sitemap/' | prepend: '/en' | relative_url }}
+          {% endif %}
+        "
+      >
+        {% if page.lang == 'ja' %}
+          サイトマップ
+        {% else %}
+          Sitemap
+        {% endif %}
+      </a>
+    </li>
+  </ul>
+</div>
