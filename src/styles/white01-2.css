@@ -6,7 +6,7 @@
 /*背景画像設定*/
 body{
 	margin: 0;
-	/*background: url(../images/bg/bg02-white.jpg) #fff center top repeat-x fixed;*/
+	/*background: url(/images/bg/bg02-white.jpg) #fff center top repeat-x fixed;*/
 	background: #EAEAEA;
 	text-align: center;
 }
@@ -17,8 +17,8 @@ body#w{
 }
 
 /*
-初期設定の背景：background: url(../images/bg/bg02-white.jpg) #fff center top repeat-x fixed;
-任意の画像の背景：background: url(../images/bg/bg-photo.jpg) left top repeat fixed;
+初期設定の背景：background: url(/images/bg/bg02-white.jpg) #fff center top repeat-x fixed;
+任意の画像の背景：background: url(/images/bg/bg-photo.jpg) left top repeat fixed;
 単色の背景：background: #000;
 */
 
@@ -65,7 +65,7 @@ div#container_w h1{
 	position: relative;
 	margin: 4px 5px 0 0px;
 	line-height: 18px;
-	/*background: url(../images/bg-h2/bg01-h2-white.jpg) left center repeat-x;*/
+	/*background: url(/images/bg-h2/bg01-h2-white.jpg) left center repeat-x;*/
 	background: #CCCCCC;
 }
 
@@ -83,7 +83,7 @@ h2,h2.p1{
 	margin: 0 0 1.0em 0;
 	padding: 0.2em 14px;
 	border: 3px solid #999;
-	background: url(../images/bg-h2/bg01-h2-white.jpg) left center repeat-x;
+	background: url(/images/bg-h2/bg01-h2-white.jpg) left center repeat-x;
 	font-size: 1.2em;
 	font-weight: bold;
 	line-height: 1.4em;
@@ -100,20 +100,20 @@ h2 a:hover,h2.p1 a:hover{ color: #cc6600; }
 /*h2のパターン2*/
 h2.p2{
 	padding: 0.6em 40px;
-	background: url(../images/bg-h2/bg02-h2-white.jpg) left center repeat-x;
+	background: url(/images/bg-h2/bg02-h2-white.jpg) left center repeat-x;
 	font-size: 1.4em;
 	color: #333;
 }
 
 /*h2のパターン3*/
 h2.p3{
-	background: url(../images/bg-h2/bg03-h2-white.jpg) left center repeat-x;
+	background: url(/images/bg-h2/bg03-h2-white.jpg) left center repeat-x;
 }
 
 /*h2のパターン4*/
 h2.p4{
 	border: 0;
-	background: url(../images/bg-h2/bg04-h2-white.jpg) left bottom repeat-x;
+	background: url(/images/bg-h2/bg04-h2-white.jpg) left bottom repeat-x;
 	color: #333;
 }
 
@@ -123,7 +123,7 @@ h3{
 	margin: 0 10px 1.0em 0px;
 	padding: 0.3em 10px 0.3em 10px;
 	border: 1px solid #7070ba;
-	background: url(../images/bg-h3/bg-h3-white.jpg) left bottom repeat-x;
+	background: url(/images/bg-h3/bg-h3-white.jpg) left bottom repeat-x;
 	font-size: 1.0em;
 	font-weight: bold;
 	line-height: 1.4em;
@@ -210,7 +210,7 @@ div#main-contents_w{
 
 div#header{
 	height: 30px;
-	background: center url(../images/bg-sub/bg-sub-white.jpg);
+	background: center url(/images/bg-sub/bg-sub-white.jpg);
 }
 
 div#header #top-menu{
@@ -244,7 +244,7 @@ div#header-logo{
 	height: 150px;/*■ロゴの高さ*/
 	border-top: 1px solid #333;
 	border-bottom: 1px solid #333;
-	background: url(../images/bg-logo/logo01-white.jpg);
+	background: url(/images/bg-logo/logo01-white.jpg);
 	text-align: left;
 }
 
@@ -364,7 +364,7 @@ div#sidebar .contents{
 
 /*サイドバーのタイトル帯の背景色*/
 div#sidebar .title{
-	background: url(../images/bg-sub/bg-sub-white.jpg) left center;
+	background: url(/images/bg-sub/bg-sub-white.jpg) left center;
 }
 
 /*サイドバーのタイトル帯の文字色*/
@@ -392,7 +392,7 @@ div#sidebar li{
 	list-style-position: outside;
 	margin: 15px 0;
 	padding-left: 16px;
-	background: url(../images/icon/icon-menu01-r-black.gif) 0 3px no-repeat;
+	background: url(/images/icon/icon-menu01-r-black.gif) 0 3px no-repeat;
 	font-size: 105%;
 	font-weight: bold;
 }
@@ -401,7 +401,7 @@ div#sidebar li{
 div#sidebar ul.sub{ margin: 10px 0 20px 0; }
 div#sidebar ul.sub li{
 	margin: 10px 0;
-	background: url(../images/icon/icon-menu10-black.gif) 0 3px no-repeat;
+	background: url(/images/icon/icon-menu10-black.gif) 0 3px no-repeat;
 	font-size: 90%;
 	font-weight: normal;
 }
@@ -434,29 +434,29 @@ div#sidebar ul.ranking p{ margin: 10px 0; }
 
 
 /*王冠画像*/
-.no1{ background: url(../images/icon/icon-rank01-01.gif) left top no-repeat; }
-.no2{ background: url(../images/icon/icon-rank01-02.gif) left top no-repeat; }
-.no3{ background: url(../images/icon/icon-rank01-03.gif) left top no-repeat; }
-.no4{ background: url(../images/icon/icon-rank01-04.gif) left top no-repeat; }
-.no5{ background: url(../images/icon/icon-rank01-05.gif) left top no-repeat; }
-.no6{ background: url(../images/icon/icon-rank01-06.gif) left top no-repeat; }
-.no7{ background: url(../images/icon/icon-rank01-07.gif) left top no-repeat; }
-.no8{ background: url(../images/icon/icon-rank01-08.gif) left top no-repeat; }
-.no9{ background: url(../images/icon/icon-rank01-09.gif) left top no-repeat; }
-.no10{ background: url(../images/icon/icon-rank01-10.gif) left top no-repeat; }
+.no1{ background: url(/images/icon/icon-rank01-01.gif) left top no-repeat; }
+.no2{ background: url(/images/icon/icon-rank01-02.gif) left top no-repeat; }
+.no3{ background: url(/images/icon/icon-rank01-03.gif) left top no-repeat; }
+.no4{ background: url(/images/icon/icon-rank01-04.gif) left top no-repeat; }
+.no5{ background: url(/images/icon/icon-rank01-05.gif) left top no-repeat; }
+.no6{ background: url(/images/icon/icon-rank01-06.gif) left top no-repeat; }
+.no7{ background: url(/images/icon/icon-rank01-07.gif) left top no-repeat; }
+.no8{ background: url(/images/icon/icon-rank01-08.gif) left top no-repeat; }
+.no9{ background: url(/images/icon/icon-rank01-09.gif) left top no-repeat; }
+.no10{ background: url(/images/icon/icon-rank01-10.gif) left top no-repeat; }
 
 
 /*MT＆WordPressで使用*/
 div#sidebar .menu-mtwp li{
 	font-size: 90%;
 	font-weight: normal;
-	background: url(../images/icon/icon-menu01-r-black.gif) 0 4px no-repeat;
+	background: url(/images/icon/icon-menu01-r-black.gif) 0 4px no-repeat;
 }
 
 div#sidebar .menu-mtwp li ul{ margin: 10px 0 20px 0; }
 div#sidebar .menu-mtwp li ul li{
 	margin: 10px 0;
-	background: url(../images/icon/icon-menu10-black.gif) 0 3px no-repeat;
+	background: url(/images/icon/icon-menu10-black.gif) 0 3px no-repeat;
 	font-size: 90%;
 	font-weight: normal;
 }
@@ -580,7 +580,7 @@ article#main-contents ul.checklist{
 
 article#main-contents ul.checklist li{
 	padding-left: 24px;
-	background: url(../images/icon/icon-check02-blue.gif) no-repeat 0 8px;
+	background: url(/images/icon/icon-check02-blue.gif) no-repeat 0 8px;
 	line-height: 2.5em;
 }
 
@@ -642,8 +642,8 @@ article#main-contents blockquote{
 }
 
 /*矢印画像*/
-.link-next a{ background: url(../images/icon/icon-menu01-r-black.gif) 0 3px no-repeat; }
-.link-back a{ background: url(../images/icon/icon-menu01-l-black.gif) 0 3px no-repeat; }
+.link-next a{ background: url(/images/icon/icon-menu01-r-black.gif) 0 3px no-repeat; }
+.link-back a{ background: url(/images/icon/icon-menu01-l-black.gif) 0 3px no-repeat; }
 
 
 
@@ -653,7 +653,7 @@ article#main-contents .menu{
 	border: 1px solid #333;
 }
 
-article#main-contents .menu .title{ background: url(../images/bg-sub/bg-sub-white.jpg) left center; }
+article#main-contents .menu .title{ background: url(/images/bg-sub/bg-sub-white.jpg) left center; }
 article#main-contents .menu .title p{
 	margin: 0 10px;
 	padding: 5px 0;
@@ -789,7 +789,7 @@ footer#footer #copyright{
 	width: 100%;
 	margin-top: 1.0em;
 	padding: 1.0em 0 1 1;
-	background: url(../images/bg-sub/bg-sub-white.jpg) left center;
+	background: url(/images/bg-sub/bg-sub-white.jpg) left center;
 	font-size: 10pt;
 	line-height: 14pt;
 	color: #333;
