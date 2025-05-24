@@ -1,6 +1,6 @@
 ---
 title: Test
-layout: ../../layouts/Base.astro
+layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Test
     url: /test/

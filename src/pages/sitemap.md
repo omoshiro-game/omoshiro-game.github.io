@@ -1,6 +1,6 @@
 ---
 title: サイトマップ
-layout: ../layouts/Base.astro
+layout: /src/layouts/Base.astro
 breadcrumb:
   - name: サイトマップ
     url: /sitemap/

@@ -1,7 +1,7 @@
 ---
 title: Home
 subtitle: "Create Action Games & Simulation RPGs"
-layout: ../layouts/Base.astro
+layout: /src/layouts/Base.astro
 breadcrumb: []
 ---
 
@@ -197,7 +197,7 @@ breadcrumb: []
     戻り値A：キャラの消滅数  
     戻り値B：ショットの消滅数  
       
-    ヘルプにも[戻り値の解説](http://omoshiro-game.com/menu_support/actioneditor4_help/word/#RETURN)を追加しました。  
+    ヘルプにも[戻り値の解説](/menu_support/actioneditor4_help/word/#RETURN)を追加しました。  
       
     ◆ゲーム：F2キーで１つ前のプレイをリプレイファイルとして保存する機能がありますが、１つ前ではなく最新のプレイを保存してしまうバグを修正（F1キーとF2キーが同じになっていた）。これはバージョン9.50～9.67で起こるバグでした。  
     ◆ゲーム：バージョン9.00で実装されたフローのタイミング「ダメージを受けた時（受けたダメージが1以上）」、「衝撃を受けた時（受けた衝撃が1以上か-1以下）」、「アタックでダメージを与えた時（与えたダメージが1以上）」、「アタックで衝撃を与えた時（受けた衝撃が1以上か-1以下）」の4種が「タイミングに関わったキャラをターゲットにする」設定に対応していなかったバグを修正。  

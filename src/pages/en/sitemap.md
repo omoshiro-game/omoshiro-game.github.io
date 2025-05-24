@@ -1,6 +1,6 @@
 ---
 title: Sitemap
-layout: ../../layouts/Base.astro
+layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Sitemap
     url: /sitemap/

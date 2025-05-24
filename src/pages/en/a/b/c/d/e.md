@@ -1,6 +1,6 @@
 ---
 title: E
-layout: ../../../../../../layouts/Base.astro
+layout: /src/layouts/Base.astro
 breadcrumb:
   - name: A
     url: /a/
