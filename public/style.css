@@ -1,0 +1,223 @@
+ 
+BODY{
+  font-size : 15px;
+  line-height : 18px;
+  
+  
+
+  
+
+  color : #333333;
+  background-color : #d8d8bc;
+}
+H2{
+  font-size : 16px;
+  line-height : 20px;
+  
+  
+  font-weight : bold;
+  background-color : #c4c4a0;
+  
+border-style : solid solid solid solid;border-width : 1px 1px 1px 1px;
+  
+}
+H4{
+  font-size : 16px;
+  line-height : 20px;
+  
+  
+  font-weight : bold;
+  background-color : #c4c490;
+  
+border-style : solid solid solid solid;border-width : 1px 1px 1px 1px;
+  
+}
+TABLE{
+  
+  
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  
+  
+  
+  
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+
+  border-right-color : #333333;
+  border-bottom-color : #333333;border-style : solid solid solid solid;border-width : 0px 0px 0px 0px;
+  font-size : 15px;
+  border-top-color : #333333;
+  border-left-color : #333333;
+}
+STRONG{
+  
+  font-weight : bold;
+  line-height : 20px;
+  
+  letter-spacing : 0px;
+}
+H6{
+  
+  
+  
+  font-weight : normal;
+}
+.RenewalLogClass{
+  font-size : 85%;
+  line-height : 16px;
+  letter-spacing : 0px;
+  
+border-style : solid solid solid solid;border-color : #333333 #333333 #333333 #333333;border-width : 1px 1px 1px 1px;}
+H1{
+  font-size : 32px;
+  font-weight : bold;
+  line-height : 40px;
+  letter-spacing : 0px;
+  text-align : center;
+  
+  
+
+  background-color : #999999;
+border-width : 4px 4px 4px 4px;border-style : solid solid solid solid;border-color : silver silver silver silver;
+  color : white;
+}
+B{  
+  font-weight : 600;  
+}
+.b-blue{
+	font-weight : 600;
+	color : #3333ff;	
+}
+.b-violet{
+	font-weight : 580;
+	color : #9900ff;
+}
+.b-red{
+	font-weight : 600;
+	color : #ff3333;
+}
+.b-orrange{
+	font-weight : 580;
+	color : #ff6600;	
+}
+.b-green{
+	font-weight : 580;
+	color : #00aa00;
+}
+.SmallFontClass{
+  font-size : 12px;
+  line-height : 12px;
+  letter-spacing : 0px;
+}
+HR{
+  text-align : left;
+}
+.NewClass{
+  font-weight : bold;
+  color : red;
+  background-color : #ffff80;
+  text-decoration : blink;
+}
+.SinpleListClass{
+  line-height : 200%;
+  font-size : 16px;
+}
+.DataTableClass{
+  
+  font-size : 12px;
+  background-color : #ccffff;
+}
+.RankTableClass{
+  background-color : #cccccc;
+  text-align : center;
+border-width : 1px 1px 1px 1px;border-style : solid solid solid solid;border-color : navy navy navy navy;}
+.MenuTableClass{
+  text-align : left;
+  
+  
+  
+  
+  line-height : 30px;
+  
+  
+  
+  
+  
+
+  font-size : 16px;
+}
+.MenuTDClass{border-style : solid solid solid solid;
+border-width : 1px 1px 1px 1px;border-color : #333333 #333333 #333333 #333333;}
+
+.MenuTDClass2{border-style : solid solid solid solid;
+border-width : 0px 0px 0px 0px;border-color : #333333 #333333 #333333 #333333;
+font-size : 12px;}
+
+TH{
+  background-color : #c4c4a0;
+  color : black;
+  
+border-style : none none none none;
+  
+  
+}
+TD{
+  
+  
+  
+  
+  
+  border-right-color : #333333;
+  border-bottom-color : #333333;
+  
+
+  
+
+  
+  border-bottom-style : none;
+  
+  border-right-style : none;
+  border-top-style : none;
+  border-left-style : none;
+  border-top-color : #333333;
+  border-left-color : #333333;
+}
+.TDClass{
+  text-align : center;
+  border-right-width : 1px;
+  border-bottom-width : 1px;
+  border-right-style : solid;
+  border-bottom-style : solid;
+  
+  
+  border-top-style : none;
+  border-left-style : none;
+  border-right-color : #333333;
+  border-bottom-color : #333333;
+}
+.TableClass{
+  border-left-width : 1px;
+  border-left-style : solid;
+  
+  border-top-width : 1px;
+  border-top-style : solid;
+}
+.THClass{
+  text-align : center;
+  border-right-width : 1px;
+  border-bottom-width : 1px;border-style : none solid solid none;
+  border-right-color : #333333;
+  border-bottom-color : #333333;
+}
+.TDClass_L{
+  text-align : left;
+  border-right-width : 1px;
+  border-bottom-width : 1px;
+  border-right-style : solid;
+  border-bottom-style : solid;
+}
