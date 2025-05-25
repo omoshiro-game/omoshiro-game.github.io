@@ -106,7 +106,7 @@ Toggles the display/hide of the group information window.
 
 ● Stage Settings  
 Configures stage-wide settings, such as changing stage size.  
-# For details, refer to [Main Menu "Stage" > "Stage Settings"](/menu_support/actioneditor4_help/menu_stage_set/).  
+# For details, refer to [Main Menu "Stage" > "Stage Settings"](../menu_stage_set/).  
   
 ● Load Stage Palette  
 Loads a stage palette from an existing stage palette file (.plt4).  
@@ -136,19 +136,19 @@ Whether the stage scrolls horizontally or vertically with mouse wheel operation.
 
 ● Database  
 Sets up databases for animations, BGM, and more.  
-# For details, refer to [Main Menu "Project" > "Database"](/menu_support/actioneditor4_help/menu_project_database/).  
+# For details, refer to [Main Menu "Project" > "Database"](../menu_project_database/).  
   
 ● World Map  
 Edits the world map.  
-# For details, refer to [World Map Chip Placement](/menu_support/actioneditor4_help/worldmapchip/), [World Map Event Placement](/menu_support/actioneditor4_help/worldmapevent/), [World Map Menu](/menu_support/actioneditor4_help/worldmapmenu/).  
+# For details, refer to [World Map Chip Placement](../worldmapchip/), [World Map Event Placement](../worldmapevent/), [World Map Menu](../worldmapmenu/).  
   
 ● System  
 Configures the overall game system.  
-# For details, refer to [Main Menu "Project" > "System"](/menu_support/actioneditor4_help/menu_project_system/).  
+# For details, refer to [Main Menu "Project" > "System"](../menu_project_system/).  
   
 ● Project Options  
 Configures the editor's behavior for this game.  
-# For details, refer to [Main Menu "Project" > "Options"](/menu_support/actioneditor4_help/menu_project_option/).  
+# For details, refer to [Main Menu "Project" > "Options"](../menu_project_option/).  
 
 [Back to top of page](#TOP)
 
@@ -175,7 +175,7 @@ Tests the entire game.
 
 ● Bitmap Conversion Tool  
 **Converts any bitmap to a bitmap usable in Action Editor 4.**  
-# For details, refer to [Main Menu "Other" > "Bitmap Conversion Tool"](/menu_support/actioneditor4_help/menu_others_bmpconvert/).  
+# For details, refer to [Main Menu "Other" > "Bitmap Conversion Tool"](../menu_others_bmpconvert/).  
 
 [Back to top of page](#TOP)
 
@@ -183,6 +183,6 @@ Tests the entire game.
 
   
 
-[To Next Topic](/menu_support/actioneditor4_help/menu_stage_set/)
+[To Next Topic](../menu_stage_set/)
 
-[To Help Table of Contents](/menu_support/actioneditor4_help/)
+[To Help Table of Contents](../)

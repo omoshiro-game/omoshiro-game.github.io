@@ -10,6 +10,8 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/file/
 ---
 
+<a name="TOP"></a>
+
 ## File Explanation Table of Contents
 
 This section explains each file in Action Editor 4.  
@@ -115,7 +117,7 @@ Please put replay files in this folder.
 ● "bmp" folder  
 Contains images (.bmp) used by both the editor and the game.  
 The "Unused" folder contains images from older versions.  
-# For image standards, refer to ["Image Standards"](/menu_support/actioneditor4_help/bmp/).  
+# For image standards, refer to ["Image Standards"](../bmp/).  
   
 ● "e_bmp" folder  
 Contains images (.bmp) used only by the editor.  
@@ -131,12 +133,12 @@ Sound effects used in the game.
 **Only supports PCM wave format; other formats (such as ADPCM) will not play in the game even if they play in the editor.**  
 It is recommended to put your own files in this folder as well.  
 
-[Back to top of page](/menu_support/actioneditor4_help/file/)
+[Back to top of page](#TOP)
 
 ---
 
   
 
-[To Next Topic](/menu_support/actioneditor4_help/bmp/)
+[To Next Topic](../bmp/)
 
-[To Help Table of Contents](/menu_support/actioneditor4_help/)
+[To Help Table of Contents](../)

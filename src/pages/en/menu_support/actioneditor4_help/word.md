@@ -255,6 +255,6 @@ Note that due to this "independent for each flow" specification, "flow variables
 
   
 
-[To Next Topic](/menu_support/actioneditor4_help/sousa/)
+[To Next Topic](../sousa/)
 
-[To Help Table of Contents](/menu_support/actioneditor4_help/)
+[To Help Table of Contents](../)
