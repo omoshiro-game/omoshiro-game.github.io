@@ -16,6 +16,8 @@ It would be great if you could play the games with high "Interestingness" scores
 
 ※ If the gamepad (game controller) does not work, you may be able to solve the problem by following the instructions [here](/en/menu_support/gamepad_preferred_device/).
 
+<a name="START"></a>
+
 Game List
 |Game Title|Genre|Interestingness  <br>（1 Player）|Interestingness  <br>（2 Players）|
 |---|---|---|---|
@@ -59,6 +61,8 @@ The Tough Enemy Series has the following features:
 ※ Games released after "Yashiyu and Friends 2" cannot be downloaded below.  
 Please download from the [Game List](#START).
 
+<a name="NAKAMA2"></a>
+
 | Yashiyu and Friends 2 [Download(zip)](/soft/YashiyuToNakama2/YashiyuToNakama2.zip) |   |
 |---|---|
 | Version | 1.92 |
@@ -71,6 +75,8 @@ Please download from the [Game List](#START).
 | Comments | This is a battle-focused SRPG created with the [Simulation RPG Editor](/en/menu_game/SRPGEditor/index.html).  <br>The growth system employs random growth & random skill acquisition, as in the previous game.  <br>You can see the enemy's battle AI on the map, so the simulation aspect is slightly stronger than the previous game. (← This is very important)  <br>However, there isn't too much information required for攻略, so I would recommend it even to those who are not good at simulation games.  <br>You can also play multiple times. |
 
 [To Game List](#START)
+
+<a name="JIGOKU2PLUS"></a>
 
 | Yashiyu's Hell Action 2+ [Download(zip)](/soft/YashiyuNoJigokuAction2Plus.zip) |   |
 |---|---|
@@ -85,6 +91,8 @@ Please download from the [Game List](#START).
 
 [To Game List](#START)
 
+<a name="LOY4"></a>
+
 | Tough Enemy Series #5: Legend of Yashiyu 4 [Download(zip)](/soft/LegendOfYashiyu4.zip) |   |
 |---|---|
 | Version | 1.55 |
@@ -98,6 +106,8 @@ Please download from the [Game List](#START).
 
 [To Game List](#START)
 
+<a name="LOY3_SOL"></a>
+
 | Tough Enemy Series #4: Re-Yashi 3 Solitude [Download(zip)](/soft/LegeYashi3_Solitude.zip) |   |
 |---|---|
 | Version | 1.42 |
@@ -110,6 +120,8 @@ Please download from the [Game List](#START).
 | Comments | Tough Enemy Series #4!  <br>This game is a significantly improved version of the Legend of Yashiyu 3 system.  <br>Unbelievably, a solo journey! |
 
 [To Game List](#START)
+
+<a name="JIGOKU2_ARG"></a>
 
 | Arranged Works of Yashiyu's Hell Action 2(+) |   |   |   |
 |---|---|---|---|
@@ -148,6 +160,8 @@ Please download from the [Game List](#START).
 
 [To Game List](#START)
 
+<a name="DORAKICHI"></a>
+
 | Dorakichi's Hell Action [Download(zip)](/soft/DorakichiNoJigokuAction.zip) |   |
 |---|---|
 | Version | 1.11 |
@@ -160,6 +174,8 @@ Please download from the [Game List](#START).
 | Comments | The normal mode and hell mode of "Yashiyu's Hell Action" have been modified by RAI.  <br>It's much more interesting than the original.  <br>  <br>※However, "Edit" cannot be played. |
 
 [To Game List](#START)
+
+<a name="LOY3"></a>
 
 | Tough Enemy Series #3: Legend of Yashiyu 3 [Download(zip)](/soft/LegendOfYashiyu3.zip) |   |
 |---|---|
@@ -174,6 +190,8 @@ Please download from the [Game List](#START).
 
 [To Game List](#START)
 
+<a name="ROLLING"></a>
+
 | Rolling Yashiyu [Download(zip)](/soft/RollingYashiyu.zip) |   |
 |---|---|
 | Version | 1.20 |
@@ -185,9 +203,9 @@ Please download from the [Game List](#START).
 | Latest Version Release Date | 2006/8/24 |
 | Comments | This is a simple action game where the winner is the one who blows the other off the screen.  <br>Please try playing against your friends in "Trick Battle" at least once.  <br>You'll be hooked for a while. |
 
-[To Game List
+[To Game List](#START)
 
-](#START)
+<a name="MARATHON"></a>
 
 | Marathon [Download(zip)](/soft/Marathon.zip) |   |
 |---|---|
@@ -200,9 +218,9 @@ Please download from the [Game List](#START).
 | Latest Version Release Date | 2010/8/21 |
 | Comments | This is a game where you just repeatedly press a button for a long time.  <br>There is no stamina gauge!  <br>Your physical strength is directly reflected in the game!  <br>If you raise the level of "Dead Heat" to a moderate level in the options, you can enjoy the strategy. |
 
-[To Game List
+[To Game List](#START)
 
-](#START)
+<a name="NAKAMA"></a>
 
 | Yashiyu and Friends [Download(zip)](/soft/YashiyuToNakama.zip) |   |
 |---|---|
@@ -215,9 +233,9 @@ Please download from the [Game List](#START).
 | Latest Version Release Date | 2005/2/25 |
 | Comments | This game was made quite a long time ago (around the 2nd or 3rd game in C language), so there are quite a few holes.  <br>However, I personally think it's a very playable work, and it's fun to train your friends.  <br>You can play multiple times, and you can also have your trained characters fight each other. |
 
-[To Game List
+[To Game List](#START)
 
-](#START)
+<a name="CASEBUT"></a>
 
 | Case Batting [Download(zip)](/soft/CaseButting.zip) |   |
 |---|---|
@@ -230,9 +248,9 @@ Please download from the [Game List](#START).
 | Latest Version Release Date | 2006/8/24 |
 | Comments | This is a mini-game.  <br>Basically, you only use two keys.  <br>It's more fun to play with two people than one. |
 
-[To Game List
+[To Game List](#START)
 
-](#START)
+<a name="NAGEKIKAI"></a>
 
 | Village of Lamentations: Kai [Download(to freem)](http://www.freem.ne.jp/game/win/g02030.html) |   |
 |---|---|
@@ -245,6 +263,8 @@ Please download from the [Game List](#START).
 | Comments | That "Village of Lamentations" has been reborn with Bj's artistic talent!  <br>The program is the same as the original! |
 
 [To Game List](#START)
+
+<a name="NAGEKIPLUS"></a>
 
 | Village of Lamentations+ [Download(zip)](/soft/NagekiNoMuraPlus.zip) |   |
 |---|---|
@@ -259,6 +279,8 @@ Please download from the [Game List](#START).
 
 [To Game List](#START)
 
+<a name="NAGEKI"></a>
+
 | Village of Lamentations [Download(zip)](/soft/NagekiNoMura.zip) |   |
 |---|---|
 | Version | 1.30 |
@@ -270,9 +292,9 @@ Please download from the [Game List](#START).
 | Latest Version Release Date | 2006/8/24 |
 | Comments | This is a Pac-Man-style action game.  <br>Avoid the ghosts and search for the "Sealing Ball" in the coffin.  <br>The screen getting darker as time passes is a small point.  <br>  <br>From Ver1.10, the seal record will remain. |
 
-[To Game List
+[To Game List](#START)
 
-](#START)
+<a name="JIGOKU"></a>
 
 | Yashiyu's Hell Action [Download(zip)](/soft/YashiyuNoJigokuAction.zip) |   |
 |---|---|
@@ -285,9 +307,9 @@ Please download from the [Game List](#START).
 | Latest Version Release Date | 2006/8/24 |
 | Comments | This is a simple action game with just jump and sword attack. |
 
-[To Game List
+[To Game List](#START)
 
-](#START)
+<a name="OJIBLO"></a>
 
 | Oji's Block Breaker [Download(zip)](/soft/OjiiNoBlockKuzushi.zip) |   |
 |---|---|
@@ -301,6 +323,8 @@ Please download from the [Game List](#START).
 | Comments | In plain terms, this is a "block breaker that can be aimed".  <br>Unfortunately, there is a pretty bad bug, but since it's a very old and dirty program, I couldn't remove it. (I don't feel like remaking it)  <br>Only "Baseball Mode" is recommended.  <br>  <br>**※VB6.0 runtime required**  <br>The VB6.0 runtime can be downloaded from [Vector](http://www.vector.co.jp/vpack/filearea/win95/util/runtime/index.html), etc.  <br>It may already be installed, so try playing the game first and get it if you can't. |
 
 [To Game List](#START)
+
+<a name="LOY2"></a>
 
 | Tough Enemy Series #2: Legend of Yashiyu 2 [Download(zip)](/soft/LegendOfYashiyu2.zip) |   |
 |---|---|

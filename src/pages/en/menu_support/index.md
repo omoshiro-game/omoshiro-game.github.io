@@ -20,18 +20,18 @@ Greetings like "Nice to meet you" are not necessary.
   
 [Action Editor 4 FAQ  
 ](/en/menu_support/actioneditor4_qa/)  
-[Action Editor 4 [Questions/Bug Reports] BBS](/en/menu_support/joyful_actioneditor4_q/joyful.cgi)  
+[Action Editor 4 [Questions/Bug Reports] BBS](/en/menu_support/joyful_actioneditor4_q/joyful/)  
   
-[Action Editor 4 [Requests] BBS](/en/menu_support/joyful_actioneditor4_d/joyful.cgi)  
+[Action Editor 4 [Requests] BBS](/en/menu_support/joyful_actioneditor4_d/joyful/)  
 *Request reception has ended. You can no longer post. For a period, we resumed accepting requests via the email form on this site, but that also ended on July 1, 2020. Thank you for your many requests.  
 
 ---
 
 [Simulation RPG Editor 2 Help](/en/menu_support/srpgeditor2_help/)  
   
-[Simulation RPG Editor 2 [Questions/Bug Reports] BBS](/en/menu_support/joyful_srpgeditor2_q/joyful.cgi)  
+[Simulation RPG Editor 2 [Questions/Bug Reports] BBS](/en/menu_support/joyful_srpgeditor2_q/joyful/)  
   
-[Simulation RPG Editor 2 [Requests] BBS](/en/menu_support/joyful_srpgeditor2_d/joyful.cgi)  
+[Simulation RPG Editor 2 [Requests] BBS](/en/menu_support/joyful_srpgeditor2_d/joyful/)  
 *Request reception has ended. You can no longer post.  
 
 ---
@@ -42,19 +42,19 @@ Greetings like "Nice to meet you" are not necessary.
 
 [Action Editor+ FAQ](/en/menu_support/actioneditorplus_qa/)  
   
-[Action Editor+ [Questions/Bug Reports] BBS](/en/menu_support/joyful_actioneditorplus_q/joyful.cgi)  
+[Action Editor+ [Questions/Bug Reports] BBS](/en/menu_support/joyful_actioneditorplus_q/joyful/)  
   
 
 ---
 
 [Simulation RPG Editor FAQ](/en/menu_support/srpgeditor_qa/)  
   
-[Simulation RPG Editor [Questions/Bug Reports] BBS](/en/menu_support/joyful_srpgeditor_q/joyful.cgi)  
+[Simulation RPG Editor [Questions/Bug Reports] BBS](/en/menu_support/joyful_srpgeditor_q/joyful/)  
   
 
 ---
 
-[Other Games [Questions/Bug Reports] BBS](/en/menu_support/joyful_others_q/joyful.cgi)  
+[Other Games [Questions/Bug Reports] BBS](/en/menu_support/joyful_others_q/joyful/)  
   
 
 ---
@@ -64,11 +64,13 @@ Greetings like "Nice to meet you" are not necessary.
 
 ---
 
-For game feedback, site requests, and other matters not covered by the existing BBS, please use email.  
-If you cannot use email, please send through the email form.  
+For feedback, site requests, and other matters please use the [New BBS issues tracker](https://github.com/omoshiro-game/bbs/issues)  
+
+~~For game feedback, site requests, and other matters not covered by the existing BBS, please use email.~~  
+~~If you cannot use email, please send through the email form.~~  
   
-[Email without using the email form](mailto:anton@omoshiro-game.github.io "Email to Administrator") (E-mail: anton@omoshiro-game.github.io) *Please note that we may not always be able to reply.  
-[To Email Form](/en/menu_mail/clipmail_main/clipmail.html) *Replies are not possible.  
+~~[Email without using the email form](mailto:anton@omoshiro-game.github.io "Email to Administrator") (E-mail: anton@omoshiro-game.github.io) *Please note that we may not always be able to reply.~~  
+~~[To Email Form](/en/menu_mail/clipmail_main/clipmail.html) *Replies are not possible.~~  
 
 ---
 

@@ -4,7 +4,7 @@
       { "name": { "ja": "TOPページへ", "en": "Home" }, "url": "/", "rel": "nofollow" },
       { "name": { "ja": "ゲームのダウンロード", "en": "Game Downloads" }, "url": "/menu_game/", "rel": "nofollow" },
       { "name": { "ja": "ゲーム制作ソフト", "en": "Game Creation Tools" }, "url": "/menu_gametool/", "rel": "nofollow" },
-      { "name": { "ja": "宣伝BBS", "en": "Promotional BBS" }, "url": "/joyful_publicity/joyful.cgi", "rel": "nofollow" },
+      { "name": { "ja": "宣伝BBS", "en": "Promotional BBS" }, "url": "/joyful_publicity/joyful", "rel": "nofollow" },
       { "name": { "ja": "サポート", "en": "Support" }, "url": "/menu_support/", "rel": "nofollow" },
       { "name": { "ja": "ゲーム攻略", "en": "Game Guides" }, "url": "/menu_game_capture/", "rel": "nofollow" }
     ],
