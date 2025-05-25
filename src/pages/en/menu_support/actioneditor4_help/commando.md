@@ -961,7 +961,7 @@ Faction is information used to distinguish between allies and enemies.
 ● Sword Type  
 This determines graphics, execution time, hit detection range, etc.  
 Can be specified from "Sword Type" in the database.  
-# For details on sword types, refer to [Main Menu "Project" > "Database"](../menu_database/#SWORDTYPE).  
+# For details on sword types, refer to [Main Menu "Project" > "Database"](../menu_project_database/#SWORDTYPE).  
   
 ● Scale  
 How many times to enlarge the sword.  

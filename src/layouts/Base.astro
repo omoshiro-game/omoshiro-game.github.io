@@ -14,10 +14,11 @@ import TopMenu from '../components/TopMenu.astro';
 
 const { frontmatter } = Astro.props;
 
+const lang = frontmatter.lang || Astro.props.url?.startsWith("/en/") ? "en" : "ja";
 // const { title, description } = Astro.props;
 ---
 
-<html lang={frontmatter.lang || "ja"}>
+<html lang={lang}>
 	<head>
 		<BaseHead title={frontmatter.title} description={frontmatter.description || frontmatter.subtitle || "??"} />
         <Hreflang />
