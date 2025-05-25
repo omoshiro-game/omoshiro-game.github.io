@@ -16,17 +16,17 @@ if (lang === 'ja') {
 // Sitemap URL
 const sitemapPath = lang === 'ja' ? normalize('/sitemap/') : normalize('/en/sitemap/');
 ---
-<div id="header">
-  <ul id="top-menu">
-    <li>
-      <a href={switchUrl}>
-        {lang === 'ja' ? 'English' : '日本語'}
-      </a>
-    </li>
-    <li>
-      <a href={sitemapPath}>
-        {lang === 'ja' ? 'サイトマップ' : 'Sitemap'}
-      </a>
-    </li>
-  </ul>
-</div>
+
+<ul id="top-menu">
+  <li>
+    <a href={switchUrl}>
+      {lang === 'ja' ? 'English' : '日本語'}
+    </a>
+  </li>
+  <li>
+    <a href={sitemapPath}>
+      {lang === 'ja' ? 'サイトマップ' : 'Sitemap'}
+    </a>
+  </li>
+</ul>
+

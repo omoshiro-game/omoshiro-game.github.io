@@ -54,7 +54,7 @@ a:hover{ color: #cc6600; }
 
 h1{
 	z-index: 1;
-	position: absolute;
+	/* position: absolute; */
 	margin: 7px 0 0 16px;
 	font-size: 8.5pt;
 	line-height: 18px;
@@ -83,7 +83,8 @@ h2,h2.p1{
 	margin: 0 0 1.0em 0;
 	padding: 0.2em 14px;
 	border: 3px solid #999;
-	background: url(/images/bg-h2/bg01-h2-white.jpg) left center repeat-x;
+	/* background: url(/images/bg-h2/bg01-h2-white.jpg) left center repeat-x; */
+	background: linear-gradient(180deg, #E0E0E0 0%, #D9D9D9 50%, #D0D0D0 75%, #CDCDCD 100%);
 	font-size: 1.2em;
 	font-weight: bold;
 	line-height: 1.4em;
@@ -153,6 +154,9 @@ h4{
 div#container{
 	margin: 0 auto;
 	text-align: left;
+
+	display: flex;
+    flex-direction: column;
 }
 
 /*左右の枠線*/
@@ -171,8 +175,7 @@ div#header,
 div#header-logo,
 div#navi,
 main#main{
-	width: 920px;
-	_width: 922px;/*IE6用（「全体」+「2px」）*/
+	min-width: 920px;
 }
 div#container_w,
 div#main_w{
@@ -185,7 +188,10 @@ div#header #top-menu{ width: 904px; }
 
 
 /*■サイドバーの横幅*/
-div#sidebar{ width: 240px; }
+div#sidebar{
+	width: 240px;
+	flex: 0 0 240px;
+}
 
 div#sidebar .menu,
 div#sidebar .menu-mtwp,
@@ -196,7 +202,7 @@ div#sidebar .contents{
 
 /*■本文の横幅*/
 article#main-contents{
-	width: 660px;/*「全体」-「サイドバー」-「20px」*/
+	min-width: 660px;/*「全体」-「サイドバー」-「20px」*/
 	_width: 680px;/*IE6用（「全体」-「サイドバー」）*/
 }
 div#main-contents_w{
@@ -214,7 +220,8 @@ div#header{
 }
 
 div#header #top-menu{
-	position: absolute;
+	/* position: absolute; */
+	margin: 7px 16px 0 auto;
 	top: 5px;
 	text-align: right;
 }
@@ -239,7 +246,7 @@ div#header #top-menu li a:hover{ color: #cc6600; }
 
 div#header-logo{
 	z-index: 1;
-	position: absolute;
+	/* position: absolute; */
 	top: 30px;
 	height: 150px;/*■ロゴの高さ*/
 	border-top: 1px solid #333;
@@ -282,7 +289,7 @@ p#logo-text a:hover{ color: #990000; }
 
 /*ヘッダー右側文章*/
 div#header-text{
-	position: absolute;
+	/* position: absolute; */
 	top: 112px;/*■縦位置*/
 	right: 20px;
 	width: 400px;
@@ -298,7 +305,7 @@ div#header-text{
 --------------------------------------------------------*/
 
 div#navi{
-	position: absolute;
+	/* position: absolute; */
 	top: 180px;/*■縦位置*/
 	height: 34px;
 	/*background: #fff;*/
@@ -327,11 +334,12 @@ div#navi_w p{
 --------------------------------------------------------*/
 
 main#main{
-	position: absolute;
-	top: 214px;/*■縦位置*/
+	/* position: absolute; */
+	/*top: 214px;*/ /*■縦位置*/
 	overflow: hidden;
 	/*background: #fff;*/
 	text-align: left;
+	display: flex;
 }
 
 
@@ -704,7 +712,7 @@ th,td{
 	padding: 0.8em;
 	border: 1px solid #333;
 	vertical-align: center;
-	white-space: nowrap;
+	/* white-space: nowrap; */
 }
 div#container_w td{
 	padding: 0.2em;

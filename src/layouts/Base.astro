@@ -25,7 +25,11 @@ const { frontmatter } = Astro.props;
 
 	<body>
         <div id="container">
-            <h1>{frontmatter.title || "???"}</h1>
+            <div id="header">
+                <h1>{frontmatter.title || "???"}</h1>
+                
+                <TopMenu />
+            </div>
 
             <HeaderLogo />
             
@@ -40,13 +44,19 @@ const { frontmatter } = Astro.props;
                 <article id="main-contents">
                     <slot />
                 </article>
+            </main>
 
                 <Footer />
-            </main>
-            
-            <TopMenu />
             
             
         </div>
 	</body>
 </html>
+
+<style>
+    #header {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+    }
+</style>

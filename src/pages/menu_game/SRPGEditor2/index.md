@@ -375,7 +375,7 @@ breadcrumb:
 今のところ、全てフリーソフト（無料）です。  
 ここでは完全版や最後まで遊べるオススメのゲームのみ紹介しています。  
 
-※ゲームパッド（ゲームコントローラー）が効かない場合は[こちら](http://omoshiro-game.com/menu_support/gamepad_preferred_device/)の方法で解決できる場合があります。
+※ゲームパッド（ゲームコントローラー）が効かない場合は[こちら](/menu_support/gamepad_preferred_device/)の方法で解決できる場合があります。
 
 ※これ以上作品を追加する予定はありません。  
 最近のシミュレーションRPGエディター製ゲームなら次のリンクから探すといいかもです。  
@@ -390,6 +390,6 @@ breadcrumb:
 
 登録：2015/6/21
 
-- [シミュレーユ](http://omoshiro-game.com/menu_game/Simulayu/)　作者：[アントン](http://omoshiro-game.com/)
+- [シミュレーユ](/menu_game/Simulayu/)　作者：[アントン](/)
 
 [このページの先頭へ](/menu_game/SRPGEditor2/#START)

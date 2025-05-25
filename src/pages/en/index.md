@@ -8,9 +8,9 @@ breadcrumb: []
 ## Recent Updates
 
 - -2020/12/24-  
-    [“Action Editor 4”](/menu_game/ActionEditor4/) updated (Ver. 10.20)
+    [“Action Editor 4”](/en/menu_game/ActionEditor4/) updated (Ver. 10.20)
     This version has also been applied to the sample game.
-    [“Yashiyu’s Hyper Ultra Action DX”](/menu_game/YashiyuNoHyperUltraActionDX/) updated (Ver. 5.10)
+    [“Yashiyu’s Hyper Ultra Action DX”](/en/menu_game/YashiyuNoHyperUltraActionDX/) updated (Ver. 5.10)
 
     Merry Christmas!
     But there are no surprise new features—just bug fixes. Sorry about that.
@@ -37,694 +37,691 @@ breadcrumb: []
     Honestly, I feel I’ve done everything I can on this issue so far. If you’re still troubled by these false positives, please contact the antivirus companies directly (in English). Even non‐developers can file inquiries. Sorry for the inconvenience.
 
 - -2020/9/26-  
-    [“Action Editor 4”](/menu_game/ActionEditor4/) updated (Ver. 10.10)
+    [“Action Editor 4”](/en/menu_game/ActionEditor4/) updated (Ver. 10.10)
     Fixed some instances where KeyConfig.exe was being detected as a threat by certain antivirus software.
     *Note: This fix is still incomplete, and some false‐positive triggers remain. The next version will aim for a more robust solution, but I can’t guarantee it. Explaining why I’m releasing this partial fix would take too long—so I’ll spare you the details…*
 
     
 - -2020/7/2-  <br/>
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver10.00)  
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver5.05)  
-      
-    以前からご要望が非常に多かったピクチャーの拡大率を縦横別々に設定できる機能と左右反転機能の2つをついに実装です。  
-    開発コストやモチベーションの問題でアクションエディター5開発の可能性が低くなってきたため、アクエディ5で実装する予定だったこの2つの機能をアクエディ4で実装する運びとなりました。  
-      
-    ただ、これがアクションエディター4ないしアクションエディターシリーズにおける最後の機能追加になるかもしれません。  
-    最後のつもりでこれまでの感謝の気持ちを込めて実装しました。  
-    気に入ってもらえると嬉しいです。  
-    
-    それから「サポート」ページも更新。  
-    2019年4月からアクションエディター4のご要望の受付を再開しておりましたが、本日をもって終了させていただきます。  
-    沢山のご要望ありがとうございました。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver10.00)  
+    This version is also applied to sample games.  
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.05)
+
+    We have finally implemented two functions that have been requested for a long time: a function that allows you to set the picture magnification rate vertically and horizontally separately, and a function that flips horizontally and horizontally.  
+    Due to development costs and motivation issues, the possibility of developing Action Editor 5 became low, so we decided to implement these two functions that were scheduled to be implemented in Aquedi 5 in Aquedi 4.
+
+    However, this may be the last feature addition in Action Editor 4 or the Action Editor series.  
+    I implemented this as a last resort and expressed my gratitude for what I have done so far.  
+    I'm glad you like it.
+
+    Also updated the "Support" page.  
+    We have resumed accepting requests for Action Editor 4 since April 2019, but this will end today.  
+    Thank you very much for your many requests.
     
 - -2020/3/9-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.97)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.97)
     
 - -2020/1/1-  
-    あけましておめでとうございます。  
-    今年もよろしくお願いします。  
-      
-    今年の予定は未定です。  
-    以前にアクションエディター5を作る可能性は将来的に50％と申し上げましたが、それよりさらに低くなったかもです…あれから色々と学んだり経験して今の時代にあったツールを作る大変さを理解しつつあるという状況ですね。  
+    Happy New Year.  
+    Thank you for your continued support this year.
+
+    This year's schedule has not yet been determined.  
+    I previously mentioned that the chances of creating Action Editor 5 will be 50% in the future, but it may be even lower than that. .. .. I've learned and experienced a lot since then, and I'm starting to understand the difficulty of creating tools that fit today's times. 
     
 - -2019/11/9-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.96)  
-      
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver5.04)  
-    
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.25)  
-      
-    サンプルゲームにもこのバージョンを適用。  
-    [「シミュレーユ」](/menu_game/Simulayu/)の更新(Ver4.41)  
-    
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.96)
+
+    This version is also applied to sample games.  
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.04)
+
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update (Ver5.25)
+
+    This version is also applied to sample games.  
+    ["Simulayre"](/en/menu_game/Simulayu/)Update (Ver4.41)
+        
 - -2019/10/26-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.95)  
-      
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver5.03)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.95)
+    
+    This version is also applied to sample games.  
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.03) 
     
 - -2019/10/2-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.94)  
-      
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver5.02)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.94)
+    
+    This version is also applied to sample games.  
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.02)
     
 - -2019/10/1-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.93)  
-      
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver5.01)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.93)
     
-    それとアクションエディター4でブロックキャラに乗った状態などからジャンプができないという不具合報告を短期間で2件いただきましたが、原因は次の仕様にあると思います。  
-      
-    ヘルプの解説↓  
-    //////////////////////////////////////////////////////////  
-    最後のコマンドが終了すると、フロー全体も終了します。  
-    「最後のコマンド」とはコマンドリストにおける一番下のコマンドです。  
-    たとえ最後のコマンドが並列実行コマンドの場合でも、プログラムはそのコマンドが終了するのを待ってからフローを終了します。  
-    最後のコマンドが終了した時点で、まだ実行途中の並列実行コマンドがあったとしてもそのコマンドも終了してしまいます。  
-    //////////////////////////////////////////////////////////  
-      
-    特にジャンプコマンドの後に「P-0」（並列実行かつ実行時間0）のコマンドがある場合、この仕様によりジャンプが発動しかけたところでフローが終了してジャンプも強制終了されます。  
-    私自身もアクエディしばらく触ってないときとかは勘違いしてバグを疑ってしまいますが…仕様ですゴメンナサイ。  
+    This version is also applied to sample games.  
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.01)
+    
+    Also, in a short period of time, we received two reports of a bug in Action Editor 4 where it was impossible to jump from riding a block character, etc., but I think the cause is due to the following specifications.
+    
+    Help explanation↓  
+    /////////////////////////////////////////////////////////  
+    When the last command finishes, the entire flow also terminates.  
+    The "last command" is the lowest command in the command list.  
+    Even if the last command is a parallel execution command, the program waits for it to finish before terminating the flow.  
+    When the last command finishes, any parallel execution commands that are still in the process of execution will be terminated as well.  
+    /////////////////////////////////////////////////////////
+    
+    Especially if there is a command "P-0" (parallel execution and execution time 0) after the jump command, this specification will cause the flow to terminate and the jump to be killed when the jump is about to be activated.  
+    When I haven't touched Aquedi in a while, I mistakenly think it's a bug. .. .. Sorry for the specifications.
     
 - -2019/9/21-  
-    アクションエディター4のオンラインヘルプに、[「パッケージングについて」](/menu_support/actioneditor4_help/packaging/)を追加。  
-    画像ファイルなどを隠す方法について解説いたしました。  
-      
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.92)  
-      
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver5.00)  
+    In Action Editor 4 online help,["About packaging."](/en/menu_support/actioneditor4_help/packaging/)Added.  
+    We explained how to hide image files, etc.
     
-    ご覧の通りアクエディ4の更新ペースが落ちています。  
-    アクエディ4で実装できるものとか実装しやすいものがそろそろなくなってきて、最近はアクションエディター5の開発も視野に入れた勉強とか経験を積んでいます。  
-    ただ、それらの勉強や経験はアクエディ5のためだけにやっているわけではないですし、将来的にアクエディ5の開発をするかは未定です。  
-    確率で言ったら将来的にアクエディ5を作る可能性は丁度50％くらいかもです…今年中に着手する可能性はさらに低くて20％くらいでしょうか。  
-    今後どうなるかわかりませんが、温かく見守っていただけると幸いです。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.92)
+    
+    This version is also applied to sample games.  
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.00)
+    
+    As you can see, the update pace of Aquedi 4 is slowing down.  
+    There are not enough things that can be implemented or are easy to implement with Aquedi 4, and recently I have been studying and gaining experience with a view to developing Action Editor 5.  
+    However, those studies and experiences are not just for Aquedi 5, and it is undecided whether we will develop Aquedi 5 in the future.  
+    In terms of probability, the chances of making Aquedi 5 in the future may be exactly 50%. .. .. The chances of starting work this year are even lower, around 20%.  
+    I don’t know what will happen next, but I hope you will watch over me warmly. 
     
 - -2019/8/24-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.91)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.91)
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.24)  
-    サンプルゲームにもこのバージョンを適用。  
-    [「シミュレーユ」](/menu_game/Simulayu/)の更新(Ver4.40)  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update (Ver5.24)  
+    This version is also applied to sample games.  
+    ["Simulayre"](/en/menu_game/Simulayu/)Update (Ver4.40)  
     
 - -2019/8/10-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.88)  
-    このバージョンからβ版 → 正式版（安定版） になりました。  
-      
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver4.90)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.88)  
+    This version became the beta version → official version (stable version).
+    
+    This version is also applied to sample games.  
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver4.90)  
     
 - -2019/8/1-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.87β)  
-      
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver4.80)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.87beta)
+    
+    This version is also applied to sample games.  
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver4.80)  
     
 - -2019/7/28-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.86β)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.86beta)  
     
 - -2019/7/24-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.85β)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.85beta)  
     
 - -2019/7/17-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.82β)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.82beta)  
       
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver4.70)  
+    This version is also applied to sample games.    
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.70)  
     
 - -2019/7/16-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.81β)  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.81beta)  
       
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver4.60)  
+    This version is also applied to sample games.    
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.60)  
     
 - -2019/7/13-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.80β)  
-    ◆ゲーム：「メッセージ」コマンドに選択肢機能を実装。  
-    ◆ゲーム：コマンドの戻り値を実装。戻り値とはコマンドの実行結果を数値にしたもので、それを「ステータスの操作」コマンドで変数に代入するなどして利用できます。以下のコマンドが戻り値に対応しています。  
-      
-    ・フローの操作  
-    戻り値A：操作が成功したら1、操作が失敗したら2  
-      
-    ・メッセージ  
-    戻り値A：プレイヤーが選んだ選択肢  
-      
-    ・ワープ  
-    戻り値A：ワープが成功したら1、ワープが失敗したら2  
-      
-    ・ターゲットの設定  
-    戻り値A：ターゲットが存在するなら1、ターゲットが存在しないなら2  
-    戻り値B：ターゲットが変更されたら1、ターゲットがそのままなら2  
-      
-    ・ステータスの操作  
-    戻り値A：操作が成功したら1、操作が失敗したら2  
-    戻り値B：値の変化量  
-      
-    ・ステータスの操作2  
-    戻り値A：操作が成功したら1、操作が失敗したら2  
-      
-    ・消滅  
-    戻り値A：キャラの消滅数  
-    戻り値B：ショットの消滅数  
-      
-    ヘルプにも[戻り値の解説](/menu_support/actioneditor4_help/word/#RETURN)を追加しました。  
-      
-    ◆ゲーム：F2キーで１つ前のプレイをリプレイファイルとして保存する機能がありますが、１つ前ではなく最新のプレイを保存してしまうバグを修正（F1キーとF2キーが同じになっていた）。これはバージョン9.50～9.67で起こるバグでした。  
-    ◆ゲーム：バージョン9.00で実装されたフローのタイミング「ダメージを受けた時（受けたダメージが1以上）」、「衝撃を受けた時（受けた衝撃が1以上か-1以下）」、「アタックでダメージを与えた時（与えたダメージが1以上）」、「アタックで衝撃を与えた時（受けた衝撃が1以上か-1以下）」の4種が「タイミングに関わったキャラをターゲットにする」設定に対応していなかったバグを修正。  
-    ◆ゲーム：リプレイモードでバージョン9.20以上のリプレイファイルを再生した後で、「つづきから」でバージョン9.20未満のセーブデータを選択すると「ステージが読み込めません」と出てロードに失敗する場合があるバグを修正。なお、このバグに遭遇してもゲームを再起動すればロードできました。  
-    ◆ゲーム：ステージの設定に「リプレイの保存を許可する」チェック項目を実装。例えばオープニングやエンディング用のステージはこのチェックを外すと（特にリプレイの自動保存機能で）無駄なリプレイファイルを減らせます。  
-    ◆ゲーム：タイトル画面の前にプレイするステージ（「System.ini」の「FreeStage=」)で、画面下部に「スペースキーでしゅうりょう」や「F3キーでランキングへ登録」といったテキストが表示されるバグを修正。  
-    ◆ゲーム：「進行キーが押されるまで表示」するタイプのメッセージの表示までの演出を少し長くして、なおかつ表示後0.2秒間はメッセージ進行キー（Zキー）の入力を受け付けなくする。Zキーを連打するゲームだとしょっちゅう誤ってメッセージを飛ばしてしまうため、その対策です。  
-    ◆ゲーム：ワールドマップでイベントの「ワールド名」とハイスコアの表示文字数が多いと、それらとランキングウインドウの表示が被ってしまう問題を解消。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.80beta)  
+    ◆Game: Implemented choice functionality in "message" commands.  
+    ◆Game: Implemented return value of command. The return value is the numerical value of the command execution result, which can be used by assigning it to a variable using the "Status manipulation" command. The following commands correspond to the return value.
     
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver4.50)  
+    Flow operations  
+    Return value A: 1 if the operation succeeds, 2 if the operation fails
+    
+    ·message  
+    Return value A: The player's chosen choice
+    
+    Warp  
+    Return value A: 1 if warp succeeds, 2 if warp fails
+    
+    Target settings  
+    Return value A: 1 if target is present, 2 if target is not present  
+    Return value B: 1 if the target is changed, 2 if the target remains
+    
+    -Status manipulation  
+    Return value A: 1 if the operation succeeds, 2 if the operation fails  
+    Return value B: Amount of change in value
+    
+    ・Status operation 2  
+    Return value A: 1 if the operation succeeds, 2 if the operation fails
+    
+    ·extinction  
+    Return value A: Number of characters disappearing  
+    Return value B: Number of shots disappearing
+    
+    Also for help[Explanation of return values](/en/menu_support/actioneditor4_help/word/#RETURN)Added.
+    
+    ◆Game: There is a function to save the previous play as a replay file using the F2 key, but a bug was fixed that saved the latest play instead of the previous one (the F1 and F2 keys were the same). This was a bug that occurred in version 9.50～9.67.  
+    ◆Game: Timing of flows implemented in version 9.00: "When you receive damage (damage received is 1 or more)", "When you receive impact (impact received is 1 or more or -1 or less)", "When you deal damage with an attack (damage dealt is 1 or more)", Fixed a bug where four types of "when impact is given in an attack (impact is 1 or more or -1 or less)" did not support the setting "target characters involved in timing".  
+    ◆Game: Fixed a bug where after playing a replay file with version 9.20 or higher in replay mode, if you select save data with version 9.20 or lower in "Continue", the game might fail to load with "Stage cannot be loaded". Note that if you encountered this bug, you could load it by restarting the game.  
+    ◆Game: Implemented "Allow saving replays" check item in stage settings. For example, if you uncheck this check for opening and ending stages (especially with the autosave replay function), you can reduce unnecessary replay files.  
+    ◆Game: Fixed a bug where text such as "Space key to register" or "F3 key to register for ranking" was displayed at the bottom of the screen on the stage played before the title screen ("FreeStage=" in "System.ini").  
+    ◆Game: Make the display of a type of message that "displays until the progress key is pressed" a little longer, and make it impossible to accept input of the message progress key (Z key) for 0.2 seconds after display. This is a countermeasure against games where you repeatedly press the Z key, as you will often accidentally skip messages.  
+    ◆Game: Eliminates the problem that if the event's "world name" and high score display a large number of characters on the world map, the ranking window display will overlap with those characters.
+     
+    
+    This version is also applied to sample games.    
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.50)  
     
 - -2019/6/26-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.67)  
-    ◆その他：バージョン9.66のプログラムファイル「Game_v*.exe」「Editor_v*.exe」「KeyConfig_v*.exe」で、バージョン9.64で行ったアンチウィルスソフトの誤検出対策の一部が無効になっていたバグを修正。（これが原因とは限りませんが）実際に誤検出されたらしいです…すみません。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.67)  
+    ◆Others: Fixed a bug in the version 9.66 program files "Game_v*.exe", "Editor_v*.exe", and "KeyConfig_v*.exe" that disabled some of the antivirus software false positive measures taken in version 9.64. This is not necessarily the cause, but it seems that it was actually detected incorrectly... sorry.
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.22)  
-    ◆その他：バージョン5.21のプログラムファイル「Game_v*.exe」「Editor_v*.exe」「KeyConfig_v*.exe」で、バージョン5.20で行ったアンチウィルスソフトの誤検出対策の一部が無効になっていたバグを修正。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver5.22)  
+    ◆Others: Fixed a bug in the version 5.21 program files "Game_v*.exe", "Editor_v*.exe", and "KeyConfig_v*.exe" that disabled some of the antivirus software false positive measures taken in version 5.20.
     
-    また、サンプルゲームにもこのバージョンを適用。  
-    [「シミュレーユ」](/menu_game/Simulayu/)の更新(Ver4.30)  
+    Also, this version is also applied to sample games.    
+    ["Simulayre"](/en/menu_game/Simulayu/)Update of (Ver4.30)  
     
 - -2019/6/22-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.66)  
-    ◆ゲーム：「システム」の設定に「文字に影をつける」を実装。旧バージョンのデータを今回のバージョンに引き継いだ場合はOFFになっているので必要ならチェックを入れてください。  
-    ◆ゲーム：「エフェクトの実行」コマンドに「キャラより手前に表示」のチェック項目を実装。このチェックを外すと従来のバージョンではできなかったキャラの奥にエフェクトを表示させることができます。  
-    ◆ゲーム：ゲームプログラム（Game_v*.exe）の**初回起動時のウインドウサイズが、本来のアスペクト比のままでディスプレイに応じた（ディスプレイの解像度を超えない）最大サイズになる**。ちなみに従来のバージョンでは、ウインドウサイズは「100％(640*480)」でした。  
-    本来のアスペクト比を保った拡大機能（200%～）を実装したバージョン8.71で既にディスプレイに応じた最大サイズになる仕様にした記憶があったのですが、実際は100％だったみたいですねぇ…  
-    ◆ゲーム：「System.ini」で「WindowMode=1」のとき、2回目以降のゲーム起動時に前回終了時のウインドウサイズを再現しないバグを修正。  
-    ◆ゲーム：タイトルバーを右クリックすると表示されるシステムメニューから変更可能なウインドウの最大サイズ(解像度)が「500%(3200*2400)」から「2000%(12800*9600)」になる。ちなみにディスプレイ以上のサイズはメニューに表示されません。  
-    ◆ゲーム：タイトルバー以外を右クリックするとウインドウのサイズが今のサイズよりも1段階（+100%）大きくなる機能を実装。  
-    ◆ゲーム：バージョン9.30以降でフルスクリーン中にAlt+Tabキーなどで他のアプリに切り替えられないバグとフルスクリーン中に一度アプリを切り替えると正常に復帰できないバグを修正。  
-    ◆エディター：ビットマップ変換ツールのエディター上の解説に次の文を追加。  
-    //////////////////////////////////////////////////  
-    ☆システムの設定で「ビットマップの色数」を「1677万色(24bit) カラーパレットなし」にするとカラーパレットに依存しなくなるので、この変換作業は必要ありません  
-    //////////////////////////////////////////////////  
-    以前に「アクエディ4はフルカラーで描いた画像を減色しなきゃいけない（のが嫌）」みたいなコメントを見かけましたが、このように**システムの設定で「ビットマップの色数」を変更すればフルカラーの画像も減色不要(ビットマップ変換ツールで変換不要)**になります。初期のバージョンからこの仕様ですが、説明不足でわかりにくかったかもしれませんね…  
-    ◆エディター：データベース全般のデータ名で「ファイル名と同じにする」にチェックを入れたとき、ファイル名に「ソ」の文字が含まれているとデータ名がおかしくなるバグを修正。「ソ」以外でもダメだったかもしれません。  
-    ◆その他：「System.ini」の解説を更新。  
-    ◆その他：参考用ステージとしてストーリーモードのステージを3つ追加。  
-    ◆その他、小さな更新。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.66)  
+    ◆Game: Implemented "shadowing characters" in "system" settings. If you carry over data from an older version to this version, it will be turned off, so please check it if necessary.  
+    ◆Game: Implemented a "display before character" check item in the "Execute effect" command. If you uncheck this check, you can display the effect deep inside the character, which was not possible in the previous version.  
+    ◆Games: of the game program (Game_v*.exe)**The window size at the first startup remains the original aspect ratio and becomes the maximum size that corresponds to the display (does not exceed the display resolution)**. . By the way, in the traditional version, the window size is "100% (640_480)".  
+    I already remember version 8.71, which implemented an enlargement function ～200% that maintained the original aspect ratio, and specified the maximum size according to the display, but it seems that it was actually 100%...  
+    ◆Game: Fixed a bug where the window size at the end of the previous game was not reproduced when starting the game for the second and subsequent times when "WindowMode=1" was set in "System.ini".  
+    ◆Game: The maximum window size (resolution) that can be changed from the system menu that appears when you right-click the title bar is "500% (3200_2400)" to "2000%(12800*9600)". By the way, sizes larger than the display are not displayed in the menu.  
+    ◆Game: Implemented a function that allows the window size to be one step (+100%) larger than the current size by right-clicking on anything other than the title bar.  
+    ◆Game: Fixed a bug in version 9.30 and later where you could not switch to another app using the Alt+Tab key while in full screen, and a bug where you could not return normally after switching apps once during full screen.  
+    ◆Editor: Added the following sentence to the explanation on the bitmap conversion tool editor.  
+    /////////////////////////////////////////////////  
+    ☆If you set the "number of colors in the bitmap" to "16.77 million colors (24-bit) without color palette" in the system settings, it will no longer depend on the color palette, so this conversion process is not necessary  
+    /////////////////////////////////////////////////  
+    I've seen comments like "Aquedi 4 has to reduce the color of images drawn in full color (I don't like it)", but it looks like this ** If you change the "number of colors in the bitmap" in the system settings, there will be no need to reduce the color of full-color images (no conversion is required with the bitmap conversion tool)**. This specification from the earliest versions may have been confusing due to lack of explanation...  
+    ◆Editor: Fixed a bug where, when checking "Make same as file name" in the data names of databases in general, the data names would become strange if the file name contained the character "so"." It might have been no good for anything other than "so".  
+    ◆Others: Updated explanation of "System.ini".  
+    ◆Others: Three stages in story mode have been added as reference stages.  
+    ◆Other, small updates.
     
-    サンプルゲームにもこのバージョンを適用。  
-    [「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)の更新(Ver4.40)  
+    This version is also applied to sample games.    
+    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.40)  
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.21)  
-    ◆ゲーム：「データベース」のシステム設定で「文字に影をつける」を実装。旧バージョンのデータを今回のバージョンに引き継いだ場合はOFFになっているので必要ならチェックを入れてください。  
-    ◆ゲーム：ゲームプログラム（Game_v*.exe）の**初回起動時のウインドウサイズが、本来のアスペクト比のままでディスプレイに応じた（ディスプレイの解像度を超えない）最大サイズになる**。ちなみに従来のバージョンでは、ウインドウサイズは「100％(640*480)」でした。  
-    ◆ゲーム：「System.ini」で「WindowMode=1」のとき、2回目以降のゲーム起動時に前回終了時のウインドウサイズを再現しないバグを修正。  
-    ◆ゲーム：タイトルバーを右クリックすると表示されるシステムメニューから変更可能なウインドウの最大サイズ(解像度)が「500%(3200*2400)」から「2000%(12800*9600)」になる。ちなみにディスプレイ以上のサイズはメニューに表示されません。  
-    ◆ゲーム：タイトルバー以外を右クリックするとウインドウのサイズが今のサイズよりも1段階大きくなる機能を実装。  
-    ◆その他：「System.ini」の解説を更新。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver5.21)  
+    ◆Game: Implemented "shadowing characters" in the "database" system settings. If you carry over data from an older version to this version, it will be turned off, so please check it if necessary.  
+    ◆Games: of the game program (Game_v*.exe)**The window size at the first startup remains the original aspect ratio and becomes the maximum size that corresponds to the display (does not exceed the display resolution)**. . By the way, in the traditional version, the window size is "100% (640_480)".  
+    ◆Game: Fixed a bug where the window size at the end of the previous game was not reproduced when starting the game for the second and subsequent times when "WindowMode=1" was set in "System.ini".  
+    ◆Game: The maximum window size (resolution) that can be changed from the system menu that appears when you right-click the title bar is "500% (3200_2400)" to "2000%(12800*9600)". By the way, sizes larger than the display are not displayed in the menu.  
+    ◆Game: Implemented a function that allows the window size to be one step larger than the current size by right-clicking on anything other than the title bar.  
+    ◆Others: Updated explanation of "System.ini".
     
-    サンプルゲームにもこのバージョンを適用。  
-    [「シミュレーユ」](/menu_game/Simulayu/)の更新(Ver4.20)  
+    This version is also applied to sample games.    
+    ["Simulayre"](/en/menu_game/Simulayu/)Update of (Ver4.20)  
     
 - -2019/6/14-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.64)  
-    このバージョンからβ版 → **正式版（安定版） になりました。**  
-    ◆その他：プログラムファイル(.exe)が一部のアンチウィルスソフトで誤検出されてしまう問題を改善。これで100％誤検出されなくなったわけではないでしょうがマシになったと思います。  
-    ◆その他、小さな更新。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.64)  
+    This version to beta version → **It has become the official version (stable version).**  
+    ◆Others: Improved the issue where program files (.exe) were incorrectly detected by some antivirus software. This doesn't mean it's 100% free of false positives, but I think it's better.  
+    ◆Other, small updates. 
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.20)  
-    ◆その他：プログラムファイル(.exe)が一部のアンチウィルスソフトで誤検出されてしまう問題を改善。これで100％誤検出されなくなったわけではないでしょうがマシになったと思います。  
-    ◆その他、小さな更新。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver5.20)  
+    ◆Others: Improved the issue where program files (.exe) were incorrectly detected by some antivirus software. This doesn't mean it's 100% free of false positives, but I think it's better.  
+    ◆Other, small updates. 
     
-    また、サンプルゲームにもこのバージョンを適用。  
-    [「シミュレーユ」](/menu_game/Simulayu/)の更新(Ver4.10)  
+    Also, this version is also applied to sample games.    
+    ["Simulayre"](/en/menu_game/Simulayu/)Update of (Ver4.10)  
     
 - -2019/6/8-  
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.10)  
-    ◆ゲーム：**ファイル単体での配布がMicrosoft社から禁止されていた「D3DX9_43.dll」の同梱をこのバージョンからやめて、このdllがなくてもプログラムが動くように修正。**「D3DX9_43.dll」はゲームプログラム（Game_v*.exe）で使用されているDirectXの実行に必要なプログラムファイルで、従来のバージョンではこれがないとゲームの起動に失敗しましたが、恥ずかしながらdll単体での配布がMicrosoft社から禁止されているとは知らずに今まで「D3DX9_43.dll」を同梱していました。お手数をおかけしますが、旧バージョンの作品もなるべくこのバージョンに更新していただけると助かります（「D3DX9_43.dll」は削除してください）。  
-    ◆ゲーム：バージョン5.00以降でプログラムの起動に必要なDirectXのバージョンが上がっていたバグを修正。この不具合によって、バージョン5.00～5.02ではWindowsに元々入っているDirectXでは動かずゲームプレイヤー側でDirectXランタイムのインストール（更新）が必要になる可能性がありました（具体的には [DirectX エンド ユーザー ランタイム Web インストーラ](https://www.microsoft.com/ja-jp/download/details.aspx?id=35) をインストールする必要がありました）。  
-    ◆その他：「KeyConfig_v2.exe」で一部のゲームパッドが接続されていると上キーが入力され続けるバグを修正。「KeyConfig_v2.1.exe」として更新しました。このバージョンからは「KeyConfig_v2.1.exe」をお使いください。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver5.10)  
+    ◆Games:**Starting with this version, we stopped including "D3DX9_43.dll", which was prohibited by Microsoft from being distributed as a single file, and fixed it so that the program would run without this dll.**"D3DX9_43.dll" is a program file used by the game program (Game_v*.exe) that is required to run DirectX, and without it in previous versions the game failed to start, but I am embarrassed to say that until now "D3DX9_43." has been used without knowing that distribution of the dll alone is prohibited by Microsoft It shipped with a "dll". We apologize for the inconvenience, but it would be helpful if you could update older versions of your works to this version as much as possible (please delete "D3DX9_43.dll").  
+    ◆Game: Fixed a bug where the version of DirectX required to start the program was increased in version 5.00 or later. As a result of this bug, versions 5.00～5.02 did not work with DirectX originally included in Windows, and there was a possibility that the installation (update) of the DirectX runtime would be required on the game player side (specifically) [DirectX End User Runtime Web Installer](https://www.microsoft.com/ja-jp/download/details.aspx?id=35) had to be installed).  
+    ◆Other: Fixed a bug where the up key would continue to be entered when some gamepads were connected in "KeyConfig_v2.exe"." Updated as KeyConfig_v2.1.exe". From this version, use "KeyConfig_v2.1.exe".
     
-    また、サンプルゲームにもこのバージョンを適用。  
-    [「シミュレーユ」](/menu_game/Simulayu/)の更新(Ver4.00)  
+    Also, this version is also applied to sample games.    
+    ["Simulayre"](/en/menu_game/Simulayu/)Update of (Ver4.00)  
     
-    2,3番目の更新内容はアクションエディター4 v9.63βと全く同じです。  
-    2番目の修正過程で1番目のミスに気づいたんですよね…  
-    申し訳ございませんでした。  
+    The second and third updates are exactly the same as Action Editor 4 v9.63 beta.  
+    You noticed the first mistake during the second correction process...  
+    I'm sorry.
     
-    ここ2ヶ月間で大きな不具合が信じられないくらい出ました。  
-    流石にここまで酷い2ヶ月はこれが最後になると思います（笑）  
+    Over the past two months, we've had an incredible amount of major problems.  
+    I think this will be the last two months that have been so bad (lol)  
     
 - -2019/6/7-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)Ver9.63βの更新履歴を補足。  
-    先日公開のアクションエディター4 バージョン9.63βの更新内容「◆ゲーム：バージョン9.60β以降でプログラムの起動に必要なDirectXのバージョンが上がっていたバグを修正」について補足です。  
-    この「プログラムの起動に必要なDirectXのバージョンが上がっていた」不具合によって、Windowsに元々入っているDirectXでは動かずゲームプレイヤー側でDirectXランタイムのインストール（更新）が必要になる可能性があります（具体的には [DirectX エンド ユーザー ランタイム Web インストーラ](https://www.microsoft.com/ja-jp/download/details.aspx?id=35) のインストールが必要です）。  
-    強制終了とともになかなか致命的な不具合でしたので、v9.60～9.62βをご使用で作品を配布予定の方は、DirectXランタイムのインストールが不要なバージョン9.63βに更新していただければと思います。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Ver9.63beta
+    Supplement Update:
+    This is a supplement to the recently released update for Action Editor 4 version 9.63beta, "◆Game: Fixed a bug where the DirectX version required to start the program was increased in version 9.60beta and later".  
+    Due to this "the version of DirectX required to start the program has been increased" bug, DirectX originally installed in Windows may not work and may require installation (update) of the DirectX runtime on the game player side (specifically). there is [DirectX End User Runtime Web Installer](https://www.microsoft.com/ja-jp/download/details.aspx?id=35) Requires installation).  
+    It was quite a fatal bug with forced termination, so if you are planning to distribute your work using v9.60～9.62beta, please update to version 9.63beta, which does not require DirectX runtime installation. 
     
 - -2019/6/5-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.63β)  
-    ◆ゲーム：バージョン9.60β以降でオプションの「ゲームパッド」が「ON」のとき、ストーリーモードでステージクリア後にワールドマップへ戻るときに強制終了するバグを修正。  
-    ◆ゲーム：バージョン9.60β以降でプログラムの起動に必要なDirectXのバージョンが上がっていたバグを修正。  
-    ◆ゲーム：「システム」の設定において、「システム4」と「システム5」にあるゲーム内テキストの文字数上限を0～4文字程増やす。もっと増やしたかったテキストもありましたが、これが限界です。  
-    ◆その他：「KeyConfig_v2.exe」で一部のゲームパッドが接続されていると上キーが入力され続けるバグを修正。「KeyConfig_v2.1.exe」として更新しました。このバージョンからは「KeyConfig_v2.1.exe」をお使いください。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.63beta)  
+    ◆Game: Fixed a bug that caused the game to kill when the optional "gamepad" was "ON" in version 9.60 beta or later, and when returning to the world map after clearing a stage in story mode.  
+    ◆Game: Fixed a bug where the version of DirectX required to start the program was increased in version 9.60 beta or later.  
+    ◆Game: In the "System" settings, increase the upper limit on the number of characters in in-game text in "System 4" and "System 5" by about 0～4 characters. Some texts I would have liked to see more of, but this is the limit.  
+    ◆Other: Fixed a bug where the up key would continue to be entered when some gamepads were connected in "KeyConfig_v2.exe"." Updated as KeyConfig_v2.1.exe". From this version, use "KeyConfig_v2.1.exe".  
     
 - -2019/6/1-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.62β)  
-    ◆エディター：バージョン9.50β以降のビットマップ変換ツールにおいて、ドラッグ＆ドロップでフォルダ（複数のファイル）を指定すると変換に失敗してしまうバグを修正。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.62beta)  
+    ◆Editor: Fixed a bug in bitmap conversion tools starting with version 9.50, where conversion would fail if a folder (multiple files) was specified using drag and drop.  
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.02)  
-    ◆エディター：データベース「味方キャラ」と「敵キャラ」における「ランダム名前リストファイル」で、ランダム名前リストファイルの読み込みに失敗して「！ファイルが不正です」と出てしまうバグを修正。もし、**バージョン5.00以降でデータベースを1度でも保存している場合はこのバグによってデータが0番（先頭のランダム名前リストファイル）に書き換えられていると思いますので、今回のバージョン以降で各データを再入力して**いただいて以前の設定に戻してください。ご手数をおかけして申し訳ありません。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver5.02)  
+    ◆editor: "random name list file" in the databases "ally characters" and "enemy characters" fails to load the random name list file and "! Fixed a bug where the message "File is invalid" would appear. **If you have saved the database even once since version 5.00, I think this bug has rewritten the data to number 0 (the random name list file at the beginning), so re-enter each piece of data from this version onwards** Please return to the previous settings. We apologize for the inconvenience.
     
 - -2019/5/31-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.61β)  
-    ◆ゲーム：ウインドウが最大化された状態からシステムメニューで「100%」～「500%」を選択してウインドウサイズを変更し、再び最大化すると正しく最大化されないバグを修正。  
-    ◆ゲーム：リプレイモードのポーズメニュー「次のリプレイへ」で次のリプレイへ遷移するとBGMが変わらないケースがあるバグを修正。  
-    ◆エディター：「システム」の設定で「「リプレイ自動保存」の種類」と「「リプレイ再生順」の種類」のテキストを変更しても次回起動時に戻ってしまうバグを修正。  
-    ◆その他、小さな更新  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.61beta)  
+    ◆Game: Fixed a bug where windows were not maximized correctly after selecting "100%" ～ "500%" from the maximized state in the system menu and then maximizing again.  
+    ◆Game: Fixed a bug where there were cases where the BGM did not change when transitioning to the next replay using the replay mode pause menu "Next Replay".  
+    ◆Editor: Fixed a bug where changing the text of "Type of "Auto-save replay" and "Type of "Replay playback order" in "System" settings would cause the message to return the next time it was started.  
+    ◆Other, small updates
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.01)  
-    ◆ゲーム：ウインドウが最大化された状態からシステムメニューで「100%」～「500%」を選択してウインドウサイズを変更し、再び最大化すると正しく最大化されないバグを修正。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver5.01)  
+    ◆Game: Fixed a bug where windows were not maximized correctly after selecting "100%" ～ "500%" from the maximized state in the system menu and then maximizing again.  
     
 - -2019/5/26-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.60β)  
-    ◆ゲーム：XInput対応ゲームパッドの十字キー(POV)に対応。アナログスティックでも十字キーでもどちらでも動きます。  
-    ◆ゲーム：優先度の最も高いゲームパッドしか使用できない不具合を修正。従来のバージョンでは、Windowsが最初に認識したゲームパッドかコントロールパネルから「優先デバイス」に指定したゲームパッドしか使用できませんでしたが、このバージョンからはそれ以外のゲームパッドも使用できるようになりました。  
-    「優先デバイス」設定の仕方は[こちら](/menu_support/gamepad_preferred_device/)で解説しています。  
-    ◆ゲーム：オプションに「ゲームパッド」を実装。ゲームパッドを使用する場合は「ON」にし、そうでない場合は「OFF」にします。ただ、厳密にはこの設定はプレイ中にゲームパッドの接続判定をするかどうかの設定であり、「OFF」であってもゲーム起動前に接続されていればゲームパッドは認識されます。逆にゲームパッドを使用しないのに「ON」にしていると、未接続の場合に限りゲーム中に一定の間隔で接続判定が行われるためゲームの実行速度（FPS）が不安定になります。とはいえ速度の安定が重要なアクションシーンでは接続判定は行われないため、そこまで神経質にならなくても大丈夫です。  
-    ◆その他：キーの割り当て変更プログラム**「KeyConfig.exe」を「KeyConfig_v2.exe」として更新**。今回のゲームの更新に合わせて2台目以降のゲームパッドで「優先デバイス」の設定が必要なかったり、XInput対応ゲームパッドの十字キーに対応していたりします。**今回のバージョンからはこちらを使用してください。**  
-    ◆その他、小さな更新。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.60beta)  
+    ◆Game: Compatible with XInput compatible gamepad D-pad (POV). It works with either the analog stick or the D-pad.  
+    ◆Game: Fixed a bug where only the gamepad with the highest priority could be used. In previous versions, Windows could only use gamepads that it initially recognized or designated as "preferred devices" from its control panel, but starting with this version, other gamepads can be used as well.  
+    How to set up "Preferred Device"[Here](/en/menu_support/gamepad_preferred_device/)It is explained in.  
+    ◆Game: Implemented "gamepad" as an option. Turn on the gamepad if you want to use it, or turn it off if not. However, strictly speaking, this setting determines whether the gamepad is connected during play, and even if it is "OFF", the gamepad will be recognized if it is connected before the game starts. Conversely, if you do not use the gamepad but set it to "ON", the speed of game execution (FPS) will become unstable because connection checks will be made at regular intervals during the game only if the game is not connected. That said, in action scenes where speed stability is important, connection verdicts are not performed, so you don’t have to be that nervous.  
+    ◆Other: key allocation change program**Updated "KeyConfig.exe" as "KeyConfig_v2.exe"**. In line with this game update, no "priority device" settings are required for the second and subsequent gamepads, and the gamepad supports XInput-compatible D-pad settings.**Please use this from this version.**  
+    ◆Other, small updates.  
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver5.00)  
-    ◆ゲーム：XInput対応ゲームパッドの十字キー(POV)に対応。アナログスティックでも十字キーでもどちらでも動きます。  
-    ◆ゲーム：優先度の最も高いゲームパッドしか使用できない不具合を修正。従来のバージョンでは、Windowsが最初に認識したゲームパッドかコントロールパネルから「優先デバイス」に指定したゲームパッドしか使用できませんでしたが、このバージョンからはそれ以外のゲームパッドも使用できるようになりました。  
-    「優先デバイス」設定の仕方は[こちら](/menu_support/gamepad_preferred_device/)で解説しています。  
-    ◆ゲーム：オプションに「ゲームパッド」を実装。ゲームパッドを使用する場合は「ON」にし、そうでない場合は「OFF」にします。ただ、**厳密にはこの設定はプレイ中にゲームパッドの接続判定をするかどうかの設定であり、「OFF」であってもゲーム起動前に接続されていればゲームパッドは認識されます。逆にゲームパッドを使用しないのに「ON」にしていると、未接続の場合に限りゲーム中に一定の間隔で接続判定が行われるためゲームの実行速度（FPS）が不安定になります。とはいえ速度の安定が重要なステージマップや戦闘中は接続判定は行われないため、そこまで神経質にならなくても大丈夫です。**  
-    ◆その他：キーの割り当て変更プログラム**「KeyConfig.exe」を「KeyConfig_v2.exe」として更新**。今回のゲームの更新に合わせて2台目以降のゲームパッドで「優先デバイス」の設定が必要なかったり、XInput対応ゲームパッドの十字キーに対応していたりします。**今回のバージョンからはこちらを使用してください。**  
-    ◆ゲーム：ショップメニューの各コマンドを非表示にできないバグを修正。  
-    ◆その他、小さな更新。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver5.00)  
+    ◆Game: Compatible with XInput compatible gamepad D-pad (POV). It works with either the analog stick or the D-pad.  
+    ◆Game: Fixed a bug where only the gamepad with the highest priority could be used. In previous versions, you could only use a gamepad that Windows initially recognized or designated as a "preferred device" from the Control Panel, but starting with this version, you can use any other gamepad.  
+    How to set up "Preferred Device"[Here](/en/menu_support/gamepad_preferred_device/)It is explained in.  
+    ◆Game: Implemented "gamepad" as an option. Turn on the gamepad if you want to use it, or turn it off if not. Just,**Strictly speaking, this setting determines whether the gamepad is connected during play, and even if it is "OFF", the gamepad will be recognized if it is connected before the game starts. Conversely, if you do not use the gamepad but set it to "ON", the speed of game execution (FPS) will become unstable because connection checks will be made at regular intervals during the game only if the game is not connected. That said, connection checks are not performed on stage maps or during battle, where speed stability is important, so you don't have to be that nervous.**  
+    ◆Other: key reassignment program**Update "KeyConfig.exe" as "KeyConfig_v2.exe"**. In line with this game update, no "priority device" settings are required for the second and subsequent gamepads, and the D-pad supports XInput-compatible gamepads.**Please use this from this version.**  
+    ◆Game: Fixed a bug where each command in the shop menu could not be hidden.  
+    ◆Other, small updates.  
     
-    「優先度の最も高いゲームパッドしか使用できなかった不具合」に関して、対応が遅くなってすみません。  
-    今まで気づきませんでした（汗）  
-    古いゲームなら優先度の最も高いゲームパッドしか使用できない仕様は珍しくないのでググれば解決方法も出てきますが、昨今「優先デバイス」の設定はそれほど知られていない（？）気がするので、もっと早く対応したかったですし、皆様にご迷惑をおかけしました。申し訳ございませんでした。  
-      
-    なお、アクションエディター4とシミュレーションRPGエディター2以外のゲーム制作ソフトやゲームに関しましてはこのまま修正せずに「優先度の最も高いゲームパッドしか使用できない」仕様とさせていただきます。  
-    古い作品ほど修正が大変でバグも出やすいですし、バグ報告もされにくいためです。申し訳ございません。  
-      
+    We apologize for the delay in responding to the issue of "a glitch that allowed only the highest priority gamepad to be used.".  
+    I didn't notice it until now (sweat)  
+    It's not uncommon for older games to only allow the use of gamepads with the highest priority, so you can google them and find a solution, but the settings for "priority devices" aren't that well known these days (?) I was concerned, so I would have liked to have responded sooner, and I apologize for the inconvenience. I'm sorry.
+    
+    Regarding game production software and games other than Action Editor 4 and Simulation RPG Editor 2, we will not modify them as is and will only allow you to use the gamepad with the highest priority.  
+    This is because older works are more difficult to fix, more likely to introduce bugs, and less likely to report bugs. I'm sorry.  
     
 - -2019/5/16-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.51β)  
-    ◆ゲーム：リプレイの自動保存で「ステージクリア時のみ」に設定しても、全てのプレイが保存されてしまうバグを修正。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.51beta)  
+    ◆Game: Fixed a bug where all plays would be saved even if set to "only when clearing a stage" in automatic replay saving.  
     
 - -2019/5/12-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.50β)  
-    今回は更新箇所が多いので**β版**となります。  
-    ◆ゲーム：ゲームのオプションに「リプレイ自動保存」を追加。「自動保存しない」「ステージクリア時のみ」「全て保存」から選べます。**「全てを保存」はステージクリア時やミス時だけでなく、ポーズメニューから「しゅうりょう」「リトライ」「マップへ戻る」を選択した場合でもそこまでのリプレイが保存されます（ESCキーやウインドウ右上の「×」で閉じた場合は保存されません）。**なお、テストプレイでは自動保存されません。  
-    ◆ゲーム：リプレイモードのファイル選択がエクスプローラー風のダイアログからチャレンジモード風のUIになり、再生リスト（通し再生）のシステムを実装。これに伴い画像ファイル**「Accessory.bmp」の座標(64,16)から16*16、座標(80,16)から16*16にスクロールバーが追加**されました。注意点としては、**サブフォルダ以下が表示されなくなりました。**「システム」の設定で「フリーモードとリプレイモードのファイル選択時、リプレイ手動保存時はバージョン9.30以前のエクスプローラー風ファイル選択ダイアログを利用する」にチェックを入れると9.30以前に戻すこともできますが、再生リストには非対応です。9.30以前のファイル選択ダイアログにもサブフォルダに対応しているなどのメリットはありますが、**アクションエディター4の仕様を知らないプレイヤーにとっては9.50以降の方がわかりやすくリプレイ再生リストによる再生も快適かと思います。**  
-    ◆ゲーム：フリーモードのファイル選択もリプレイモード同様にエクスプローラー風のダイアログからチャレンジモード風のUIになる。こちらも**サブフォルダ以下が表示されなくなりました。**  
-    ◆ゲーム：ゲームのオプションに「リプレイ再生順」を追加。「ソート順」「ソート順＆ステージクリアのみ」「同じリプレイをリピート」から選べます。リプレイモードの再生リストの並び順でリプレイを再生したり、ステージクリアしたリプレイのみを再生することができるようになりました。  
-    ◆ゲーム：複数のステージで構成されたワールドでリプレイを保存するとき、リプレイファイル名にステージ番号が付加されるようになる。  
-    ◆ゲーム：リプレイファイル名の構成を変更。自動保存の場合、ステージクリア時はファイル名の最後に「_CLEAR_」という文字が追加されます。これは主にゲームのオプション「リプレイ再生順」の「ソート順＆ステージクリアのみ」の動作を実現させるための変更です。  
-    ◆ゲーム：F1・F2キーによるリプレイ手動保存時のダイアログを一新する。このダイアログで「ステージクリアしたリプレイデータとして保存（ファイル名の最後に「_CLEAR_」を付加）」 or 「ステージクリアしていないリプレイデータとして保存」のどちらかを選んで保存することになります。「システム」の設定で9.30以前のダイアログに戻すこともできますが、非推奨となります。  
-    ◆ゲーム：「プロジェクト」＞「システム」に「リプレイファイル名の構成」を実装。リプレイファイル名に[ステージファイル名]を含めるか[ステージ名]を含めるかどちらかを選べます。  
-    ◆ゲーム：「ステージクリア」コマンドに「リプレイの自動保存でファイル名の最後に「_CLEAR_」文字を付加」のチェック項目を実装。通常はONでいいと思います。**OFFの使い所としては、例えばフローのタイミングが「死亡した時」に「ステージクリア」コマンドを設定していて「死亡時でもハイスコアなどを記録したいけど、ステージクリアとしては扱ってほしくない」ケース**で、この場合はリプレイの自動保存時に「_CLEAR_」文字を付加しないことでステージクリアしていないリプレイファイルとして保存させることができます。  
-    ◆ゲーム：ゲームのオプションに「リプレイのメッセージ自動進行秒数」を追加。リプレイの再生で、Zキーが押されるまで表示されるタイプのメッセージやピクチャーを指定の秒数で自動進行してくれる機能です。なお、この設定に関係なくZキーでメッセージを進めることもできます。  
-    ◆ゲーム：ゲームのオプションモード画面下部に説明用のテキストを表示できるようになる。メインメニュー「プロジェクト」＞「システム」のオプションメニュー枠から設定できます。  
-    ◆ゲーム：ポーズメニューに「次のリプレイへ」と「前のリプレイへ」と「リプレイの選択へ」を追加。これらはリプレイモードのみで選択可能なメニューコマンドです。  
-    ◆ゲーム：**リプレイモードではポーズ機能（ポーズメニュー）をOFFにできなくなる。**「プロジェクト」＞「システム」で「スペースキーでポーズ（一時停止してメニューを呼び出す）」というチェック項目がありますが、このチェックを外しても例外的にリプレイモードだけはポーズが効いてポーズメニューが出るようになりました。リプレイモード限定のポーズメニューが便利なのであえてこうゆう仕様になりました。  
-    ◆ゲーム：リプレイファイルが読み取り専用の属性で保存されるようになる。リプレイ再生リストのソートでは更新日時順を推奨設定にしているため、更新日時が簡単に書き換えられないように対策しました。  
-    ◆ゲーム：チャレンジモードのワールド選択でワールド１の位置から↑キーで最後のワールドに、最後のワールドから↓キーでワールド１に移動できるようになる。  
-    ◆ゲーム：フリーモードでリプレイファイルが読み込めなくなる（リプレイファイルにはステージデータが含まれているのでその部分だけを読み込める仕様でした）。読み込めなくなるというより、従来のバージョンでも「（読み込もうとしたファイルが）が破損しています」というエラーが出て実質読み込めなかったようです…このバージョンからはフリーモードのステージファイル選択画面でリプレイファイルが表示すらされなくなります。  
-    ◆その他：同梱の「Readme2.txt」に「操作方法」と「リプレイについて」の項目を追加。配布の際はこれを編集すると楽かもしれません。  
-    ◆その他：同梱の「ゲームの配布について.html」とオンラインヘルプのオプションメニューのところに次のテクニックを記載しました。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.50beta)  
+    There are many updates this time**Beta version**It becomes.  
+    ◆Games: added "Replay Autosave" to the game’s options." You can choose from "Do not autosave", "Only when clearing a stage", or "Save all".**"Save All" saves replays not only when clearing a stage or making a mistake, but also when you select "Shuryou", "Retry", or "Return to map" from the pause menu (ESC key or window). (It will not be saved if you close it with "×" in the top right corner).**It should be noted that it is not autosaved during test play.  
+    ◆Game: Replay mode file selection changes from Explorer-like dialog to Challenge mode-like UI, and a playlist (play through) system is implemented. Along with this is an image file**16 from coordinates (64,16) of "Accessory.bmp"_16, coordinates (80,16) to 16_Scrollbar added at 16**Was done. As a caveat,**Subfolders and below are no longer displayed.**You can also revert to 9.30 or earlier by checking "Use Explorer-style file selection dialog for versions 9.30 and earlier when selecting files for free mode and replay mode, and manually saving replays" in the "System" settings, but this does not support playlists. The file selection dialog before 9.30 also has some advantages, such as support for subfolders**For players who don't know the specifications of Action Editor 4, I think it's easier to understand after 9.50 and it's more comfortable to play with a replay playlist.**  
+    ◆Game: Like replay mode, file selection in free mode changes from an explorer-like dialog to a challenge mode-like UI. Also here**Subfolders and below are no longer displayed.**  
+    ◆Game: Added "Replay Playback Order" to game options." You can choose from "Sort order", "Sort order & stage clear only", and "Repeat the same replay". It is now possible to play replays in the order of the replay mode playlist, or to play only replays that have cleared the stage.  
+    ◆Games: When saving replays in a world made up of multiple stages, the stage number will be added to the replay file name.  
+    ◆Game: Changed the structure of replay file names. In the case of autosave, when clearing the stage, the file name is prefixed with "_CLEAR_The letters "are added. This is mainly a change to achieve the "Sort order & stage clear only" behavior of the game's option "Replay playback order".  
+    ◆Game: Renew the dialog when manually saving replays using the F1 and F2 keys. In this dialog, select "Save as stage cleared replay data" (at the end of the file name, select "Save as stage cleared replay data")_CLEAR_You will need to select either "Add" or "Save as replay data without clearing the stage" to save. " You can also revert to dialogs from 9.30 or earlier in the "System" settings, but this is deprecated.  
+    ◆Game: "Project" ＞ Implemented "Configuration of Replay File Names" in "System". You can choose to include [stage file name] or [stage name] in the replay file name.  
+    ◆game: "stage clear" command with "autosave replay at end of file name"_CLEAR_Implemented the "Add characters" check item. I think it's usually fine to turn it on.**The use of OFF is, for example, when the flow timing is set to the "stage clear" command "when death occurs", and "I want to record high scores even at death, but I don't want it to be treated as a stage clear." Case**So, in this case during autosave of the replay "_CLEAR_By not adding the "character", you can save it as a replay file that has not cleared the stage.  
+    ◆Game: Added "Replay message autoprogress seconds" to game options. It autoprogresses messages and pictures of the type that appear until the Z key is pressed in a specified number of seconds during replay playback. Note that you can also advance messages using the Z key regardless of this setting.  
+    ◆Game: The game's option mode will now display explanatory text at the bottom of the screen. It can be set from the options menu frame of the main menu "Project" ＞ "System".  
+    ◆Game: Added "Next replay", "Previous replay", and "Replay selection" to the pause menu. These are menu commands that can only be selected in replay mode.  
+    ◆Games:**In replay mode, the pause function (pose menu) cannot be turned off.**There is a check item called "Pause with space key (pause to call menu)" in "Project" ＞ "System", but even if you uncheck this check, the pause will work in replay mode as an exception. The pause menu is now displayed. The pause menu limited to replay mode is convenient, so I purposely choose this specification.  
+    ◆Game: Replay files will now be saved with read-only attributes. We recommended the update date and time order for sorting replay playlists, so we took measures to prevent the update date and time from being easily rewritten.  
+    ◆Game: World selection in challenge mode allows you to move from world 1 position ↑key to last world, last world to↓ key to world 1.  
+    ◆Game: Replay files cannot be read in free mode (replay files contain stage data, so only that part can be read). Rather than not being able to load it, it seems that even in the previous version, the error "(the file I tried to load) is corrupted" appeared and I was unable to actually load it. Starting with this version, replay files will no longer even be displayed on the free mode stage file selection screen.  
+    ◆Others: Added items "How to operate" and "About replay" to the included "Readme2.txt". It may be easier to edit this when distributing.  
+    ◆Others: We have listed the following techniques in the included "About game distribution.html" and in the options menu of the online help.  
     /////////////////////////////////////////////////////////////  
-    **ゲーム配布の際にオプションのデフォルトの設定を変えたい場合は、ゲームのセーブデータファイルが入っている「user_data」フォルダを丸ごと消すのではなく、オプションでデフォルトの設定にしてから「user_data」フォルダ内の「Option.dat」以外のファイルを削除してください（それを配布してください）。**  
+    **If you want to change the optional default settings during game distribution, do not delete the entire "user_data" folder with game save data files, but optionally set it to default and then delete any files in the "user_data" folder other than "Option.dat" (distribute it).**  
     /////////////////////////////////////////////////////////////  
-    ◆その他：同梱の「System.ini」を微妙に更新。  
-    ◆その他、細かいところを更新。  
-      
-    今回の更新に伴ってオンラインヘルプに[「リプレイについて」](/menu_support/actioneditor4_help/replay/)を追加しました。  
-    その中の「リプレイは忠実に再現されない場合がある」の節については今回の更新は関係ありませんが、ヘルプではこれまでちゃんと説明していなかったので今更で申し訳ないですが追加しました。  
-      
-    なお、旧バージョンのデータを今回のバージョンに引き継いだ場合は、今回追加されたオプションの「リプレイ自動保存」「リプレイ再生順」「リプレイのメッセージ自動進行秒数」は非表示となっていますし、システム設定の「フリーモードとリプレイモードのファイル選択時、リプレイ手動保存時はバージョン9.30以前のエクスプローラー風ファイル選択ダイアログを利用する」も（非推奨ですが）有効になっています。他の設定も従来のバージョンからなるべく動作が変わらないようになっているため、今回実装された機能を利用したい場合はメインメニューから「プロジェクト」＞「システム」で各種設定を変更する必要があります。  
+    ◆Others: Subtle update of the included "System.ini".  
+    ◆Other details updated.
+    
+    With this update, online help is now available ["About replay."](/en/menu_support/actioneditor4_help/replay/)Added.  
+    This update has nothing to do with the section "Replays may not be reproduced faithfully", but I added it because I haven't explained it properly in Help before, so I'm sorry for the inconvenience.
+    
+    If you carry over data from an older version to this version, the newly added options "Replay autosave", "Replay playback order", and "Replay message autoprogress seconds" will be hidden. and when selecting files for "Free mode and Replay mode" in the system settings Use the Explorer-like file selection dialog version 9.30 or earlier when manually saving replays is also enabled (though not recommended). The other settings also behave as unchanged as possible from the previous version, so if you want to use the functions implemented this time, you will need to change various settings in "Project" ＞ "System" from the main menu. 
     
 - -2019/5/4-  
-    [フォームメール](/menu_mail/clipmail_main/clipmail.html)のメッセージの文字数制限を150文字から500文字にする。  
+    [Form email](/en/menu_mail/clipmail_main/clipmail.html) set the character limit for messages from 150 characters to 500 characters.  
     
 - -2019/4/15-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.30)  
-    このバージョンからβ版 → 正式版（安定版） になりました。  
-    ◆ゲーム：**フリーモードやリプレイモード及びリプレイ保存時にファイルを選択するダイアログが表示されますが、このダイアログでファイルの削除やコピー＆貼り付けなどの操作をするとアプリがフリーズしてしまうバグを修正**。  
-    ◆その他：環境設定ファイル「System.ini」にフルスクリーンモード（WindowMode=0）が非推奨である理由を記述（フルスクリーンが非推奨なのは前からですが）。非推奨である主な理由は、フリーモードやリプレイモード及びリプレイ保存時にファイルを選択するダイアログが表示されますが、このときにAlt+Tabなどでアプリを切り替えると正常に復帰できなくなる不具合があるためです。  
-    ◆その他、細かいところを修正。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.30)  
+    This version became the beta version → official version (stable version).  
+    ◆Games:**A dialog for selecting files in free mode, replay mode, and when saving replays will be displayed, but this dialog has been fixed to a bug where the app freezes when deleting, copying and pasting files, or otherwise performing operations**。  
+    ◆Others: Describe the reason why full screen mode (WindowMode=0) is deprecated in the environment configuration file "System.ini" (although full screen has been deprecated for some time). The main reason for its deprecation is that a dialog for selecting a file will be displayed in free mode, replay mode, and when saving replays, but if you switch apps using Alt+Tab, etc. at this time, you will not be able to return to normal.  
+    ◆Other details corrected. 
       
-    サンプルゲーム[「ヤシーユのハイパーウルトラアクションDX」](/menu_game/YashiyuNoHyperUltraActionDX/)のプログラムファイルもこのバージョンに更新(Ver4.30)  
-      
-      
-    リプレイ機能を無効にしているゲームが割と多いなとは前々から思っていたのですが、1つ目のバグ(ファイルの削除等でフリーズ)が原因だったのかな…私自身リプレイを数え切れないほど撮ってきたのに気づくのが遅くなってしまいました。  
-    お手数をおかけしますが、リプレイ機能を有効にしている全ての作品はこのバージョン以上にアップデート or リプレイ機能を無効化していただいた方が良いかもしれません。  
-    ご迷惑をおかけして誠に申し訳ございません。  
+    Sample game ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/) has also been updated to this version (Ver4.30)
       
       
-    なお、フォームメールで頂いたご要望を検討するのはもう少し先になると思います。今回のミスを挽回するつもりで頑張ります…  
+    I've always thought that a relatively large number of games had the replay function disabled, but I wonder if the first bug (freezing due to file deletion, etc.) was the cause. .. .. I've taken countless replays myself, but I've noticed it late.  
+    We apologize for the inconvenience, but for all works that have the replay function enabled, it may be better to update to this version or disable the replay function.  
+    We apologize for any inconvenience caused.
+    
+    I think it will be a little while before we consider the requests we received via form email. I will do my best to make up for this mistake... 
     
 - -2019/4/12-  
-    サイドに最近のツイートを表示。  
+    Show recent tweets on the side.  
     
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.22β)  
-    ◆ゲーム＆エディター：バージョン9.20β及び9.21βでリプレイ保存直後に強制終了するバグを修正。また、リプレイ保存直後以外でも不正に強制終了することがあったかもしれませんが、それもこのバージョンで直っています。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.22beta)  
+    ◆Game & Editor: Fixed a bug that forced termination immediately after saving a replay in versions 9.20beta and 9.21beta. Also, it may have been possible to force close the game illegally, except immediately after saving the replay, but this version fixes that as well.  
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver4.92)  
-    ◆ゲーム＆エディター：バージョン4.90及び4.91で不正に強制終了することがあったかもしれないバグを修正。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver4.92)  
+    ◆Game & Editor: Fixed a bug that may have caused unauthorized force termination in versions 4.90 and 4.91.  
     
 - -2019/4/7-  
-    「サポート」のページを更新（何年ぶりだろう…）  
-    [フォームメール](/menu_mail/clipmail_main/clipmail.html)で**「アクションエディター4」におけるご要望の受付を再開**しました！  
-    ご要望はアクエディ「4」で実現するとは限りません。「5」で実現する可能性もあるダブルチャンス方式です。「5」を作ることになったらの話ですが。  
-    **※ご希望の機能の内容だけでなく、その機能が欲しい理由（その機能で実現したいこと等）**を教えてください  
+    Updated "Support" page (for the first time in years...)  
+    [Form email](/en/menu_mail/clipmail_main/clipmail.html)**We have resumed accepting requests for "Action Editor 4"**!  
+    Your request won’t necessarily come true with Aquedi‘4’.’ It's a double-chance method that could be achieved with 5." If I had to make a 5.  
+    ***Please tell us not only the content of the desired function, but also the reason why you want that function (what you want to achieve with that function, etc.)**  
     
 - -2019/4/6-  
-    「おすすめリンク集」などにある「新アクションエディターBBS」のリンクを修正。  
-      
-    10年以上前？から当サイトの「おすすめリンク集」などから「新アクションエディターBBS」のリンクを貼らせていただいていたのですが、貼るページを間違えていました。  
-    何故なら従来のリンクからBBSへ飛んだ人は「投稿パスワード」を探すのに苦労するからです。（「投稿パスワード」がないと書き込めない）  
-    「投稿パスワード」はBBS利用前に見ておくべきである[「利用規約」](http://ae4directory.web.fc2.com/kiyaku.html#BBS)に載っていますので、「利用規約」へ直接飛べる[「アクションエディター4名鑑」](http://ae4directory.web.fc2.com/index.html)のリンクを貼るのが正解だったようです。  
-    完全に私のミスでした…気づくのが遅かった…  
-      
-    これのせいで書き込めなかったことがある全ての人に謝りたい…  
-    今まで申し訳ございませんでした。  
-    BBSの管理人さんにも申し訳ないことをしたなぁ。  
+    Fixed links to "New Action Editor BBS" in "Recommended Links" etc.
+    
+    Over 10 years ago? I had posted a link to 'New Action Editor BBS' from the 'Recommended Links' on this site, but I had pasted the wrong page.  
+    This is because people who fly to the BBS from traditional links have a hard time finding the "post password." I can't write without a posting password  
+    The "post password" should be checked before using BBS[‘Terms and Conditions’](http://ae4directory.web.fc2.com/kiyaku.html#BBS)So you can fly directly to the "Terms of Use"["Action Editor 4 Directory"](http://ae4directory.web.fc2.com/index.html)It seems that the correct answer was to post a link.  
+    It was totally my mistake... I was slow to notice...
+    
+    I want to apologize to everyone who couldn't write because of this...  
+    I'm sorry until now.  
+    I also felt sorry for the BBS administrator.  
     
 - -2019/4/2-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.21β)  
-    ◆エディター：バージョン9.20βにおいて、ステージ単体のテストプレイでステージをクリアするとゲームが終了してしまうバグを修正。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.21beta)  
+    ◆Editor: Fixed a bug in version 9.20beta that caused the game to end when a stage was cleared during test play of a single stage.
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver4.91)  
-    ◆エディター：自動バックアップ実行後にメインウインドウが非アクティブウインドウ（例えばエクスプローラー）の背面に隠れてしまうバグを修正。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver4.91)  
+    ◆Editor: Fixed a bug where the main window would be hidden behind an inactive window (for example, Explorer) after automatic backup execution.
     
 - -2019/4/1-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.20β)  
-    ◆ゲーム：「ステージクリア」コマンドに「オートセーブを実行」実装。  
-    以下の解説はヘルプから抜粋したものです。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.20beta)  
+    ◆Game: Implemented "Run Autosave" on the "Stage Clear" command.  
+    The following commentary is taken from the help.  
     ///////////////  
-    これにチェックを入れると、複数のステージで構成されたワールドにおいてワールドの途中でセーブすることができます。  
-    ストーリーモードのワールドマップメニューの設定で「オートセーブON」になっている必要があります。  
-    ※「つづきから」でワールドの途中から再開（2ステージ目以降をプレイ）するとき、再開するステージのファイルが削除されていたりファイル名が変更されていたりするとステージのロードに失敗してしまい、それ以上のワールドの攻略が不可能になるだけでなくワールドマップにも戻れなくなります。特に**インターネット上で作品を既に公開していてそれをバージョンアップする場合は、2ステージ目以降のステージファイルを削除しない＆ファイル名を変更しないように**気をつけましょう。  
+    If this is checked, you can save in the middle of the world in a world made up of multiple stages.  
+    It must be set to "Auto Save ON" in the settings of the World Map menu in Story Mode.  
+    *When restarting from the middle of the world with "Continue" (playing the second and subsequent stages), if the file of the stage to be restarted is deleted or the file name has been changed, the stage will fail to load Not only will it be impossible to conquer more worlds, but you will also not be able to return to the world map. Especially**If you have already published your work on the Internet and are upgrading it, do not delete the stage files after the second stage and do not change the file name**Be careful.  
     ///////////////  
-    ◆ゲーム：「システム」のストーリーモードの設定で「複数のステージで構成されたワールドで、ステージクリアの度にオートセーブ」を実装。これにチェックを入れると、ゲームに登場するあらゆるステージでステージクリア時にオートセーブされるようになります。「ステージクリア」コマンドのオートセーブ設定が無効でも、こちらの設定が優先されるためオートセーブされます。  
-    ◆ゲーム：ワールドマップイベントの「ゲームクリア」で「タイトルへ戻る」を非推奨とする。非推奨の理由は、タイトルへ戻るとセーブ機会がなくなってしまうのと、複数のステージで構成されるワールドにおいてステージクリア時にオートセーブされていると（設定次第では）二度とワールドマップに戻れなくなるためです。  
-    ◆ゲーム：異常終了時(例外エラーによる強制終了時)にも終了確認ダイアログが出てしまうバグを修正。  
-    ◆エディター：エディットデータ（「data」と「e_data」フォルダ）の自動バックアップ機能を実装。エディター起動直後にエディットデータの読み込みが成功したときのみにバックアップが実行されます。メインメニュー「プロジェクト」＞「プロジェクトオプション」からバックアップの設定を変更でき、そこに解説もあります。  
-    ◆その他：「二次配布について.html」の「配布前に削除した方がよいと思われるファイル（フォルダ）」にバックアップフォルダ2種を追加。  
-    ◆その他：「二次配布について.html」のファイル名を「ゲームの配布について.html」に改名（こっちの方がわかりやすい）。  
-    ◆その他、細かいところを修正。  
-      
-    **今回はゲームのセーブデータに関わる更新ということで、致命的なバグが出るといつも以上にご迷惑をおかけするかもしれないという考えからβ版とさせていただきました。**  
-    そこまで複雑なことはしていないですが、最悪の場合を考えて。  
+    ◆Game: Implemented "autosave every time a stage is cleared in a world consisting of multiple stages" in the story mode settings of "System". If checked, this will result in autosaves on stage clearing for any stage featured in the game Even if the autosave setting of the "Clear stage" command is disabled, this setting takes precedence and is therefore autosaved.  
+    ◆Game: "Return to title" is deprecated in "Game clear" for world map events. The reason for its depletion is that if you return to the title, you will no longer have a chance to save, and if you are autosaved when clearing a stage in a world consisting of multiple stages, you will never be able to return to the world map (depending on the settings).  
+    ◆Game: Fixed a bug where an exit confirmation dialog would appear even when the game ended abnormally (forced termination due to an exception error).  
+    ◆editor: implemented automatic backup of edited data ("data" and "e_data" folders). The backup is performed only when the edit data is successfully loaded immediately after starting the editor. You can change the backup settings from the main menu "Projects" ＞ "Project Options", and there you will find an explanation.  
+    ◆Others: Added two backup folders to "Files (folders) that should be deleted before distribution" in "About secondary distribution.html".  
+    ◆Others: Renamed the file name of "About secondary distribution.html" to "About game distribution.html" (this is easier to understand).  
+    ◆Other details corrected.
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver4.90)  
-    ◆ゲーム：異常終了時(例外エラーによる強制終了時)にも終了確認ダイアログが出てしまうバグを修正。  
-    ◆エディター：エディットデータ（「data」と「e_data」フォルダ）の自動バックアップ機能を実装。エディター起動直後にエディットデータの読み込みが成功したときのみにバックアップが実行されます。メインメニュー「プロジェクト」＞「プロジェクトオプション」からバックアップの設定を変更でき、そこに解説もあります。  
-    ◆その他：「ゲームの配布について.html」の「配布前に削除した方がよいと思われるファイル（フォルダ）」にバックアップフォルダ2種を追加。  
-    ◆その他、細かいところを修正。  
+    **Since this is an update related to game save data, we decided to make it a beta version based on the idea that a fatal bug might cause more trouble than usual.**  
+    I didn’t do anything that complicated, but in the worst case scenario.
+    
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver4.90)  
+    ◆Game: Fixed a bug where an exit confirmation dialog would appear even when the game ended abnormally (forced termination due to an exception error).  
+    ◆editor: implemented automatic backup of edited data ("data" and "e_data" folders). The backup is performed only when the edit data is successfully loaded immediately after starting the editor. You can change the backup settings from the main menu "Projects" ＞ "Project Options", and there you will find an explanation.  
+    ◆Others: Added two backup folders to "Files (folders) that should be deleted before distribution" in "About game distribution.html".  
+    ◆Other details corrected.
     
 - -2019/3/16-  
-    「募集事項」のページを更新。  
-    アクションエディターシリーズ製ゲーム及びシミュレーションRPGエディターシリーズ製ゲームの募集をやめる。  
+    Updated "Recruitment Information" page.  
+    We will stop accepting applications for games made by the Action Editor series and games made by the Simulation RPG Editor series.
+    
+    After updating the game collection the other day, I thought about it again and decided that I would no longer update the "game collections" of Aquedi and Simuedi, so I will also stop accepting applications for recommended games.  
+    The reason I no longer update my "game collection" is that I've always been weak at carefully selecting the works to be registered, and I've been secretly worried about it (lol)  
+    There may be a few people who will be disappointed if they are not registered, so they will have to be properly vetted. Actually, I want to relax my shoulders and enjoy the game more. .. .. That kind of worry.  
+    As a tool author, this was a bit of a difficult problem for me.  
+    I'd like to thank you for making the game, but it's a bit disappointing considering it could be discouraging...  
+    However, I think that's a problem if you register all your works unconditionally, and I wonder if I don't need to update them anymore.
       
-    先日ゲーム集を更新してからまた少し考えた結果、アクエディやシミュエディの「ゲーム集」は今後更新しないと思うのでオススメゲームの募集もやめさせていただきます。  
-    「ゲーム集」を更新しなくなる理由ですが、実は登録する作品を厳選するという行為が前々から苦手で密かに悩んでいたのです（笑）  
-    登録されなかったらがっかりする人も少しはいるかもしれないし、それならちゃんと審査しなきゃいけない。本当はもっと肩の力を抜いてゲームを楽しみたいなぁ…とかそんな悩み。  
-    ツール作者の自分にとっては少し難しい問題でした。  
-    本来はゲームを作っていただいたことに対して感謝したいところなのに落胆させる可能性があるって考えたらチョットね…  
-    かといって全ての作品を無条件に登録するとそれはそれで問題だと思いますし、いっそもう更新しなくていいかなぁとなったわけです。  
-      
-    なお、ゲーム集を更新しなくなる代わりではないですが「アクションエディター4」の[「ゲーム集」](/menu_game/ActionEditor4/index.html#GAME_DL)に、ふりーむのアクションエディターカテゴリ（新着順）のリンクなどをいくつか貼っておきました。（シミュエディ2も同様に）  
+    Note that this is not a substitute for not updating the game collection for "Action Editor 4"["Game Collection"](/en/menu_game/ActionEditor4/#GAME_DL)I've posted some links to Freem's Action Editor category (in order of latest arrival), etc. (SimuEdie 2 as well)  
     
     ---
     
-    アクションエディター4のヘルプにおける「データベース」の「キャラの専用bmp」の説明を次のように訂正。  
-      
-    ×　ビットマップのサイズは横幅は512で固定、縦幅は自由です。**ただし、縦幅を32の倍数にして、なおかつ480以内にして下さい。**  
+    Corrected the description of "Character’s dedicated bmp" in "Database" in Action Editor 4 Help as follows.
+    
+    × The size of the bitmap is fixed at 512 widths, and the vertical width is free.**However, please make the height a multiple of 32 and keep it within 480.**  
     ↓  
-    ○　ビットマップのサイズは横幅は512で固定、縦幅は自由です。**ただし、縦幅を32の倍数にして下さい。**  
-      
-    縦が480を超えるとDirectDrawモードでの描画速度が遅くなるだけで超えても問題ないです。  
-    「画像の規格」の方の「キャラの専用bmp」の説明には「縦幅は自由」と書いてあったんですけどね…こちらが正解でした。  
+    ○ The size of the bitmap is fixed at 512 widths, and the vertical width is free.**However, please make the vertical width a multiple of 32.**
+    
+    If the height exceeds 480, the drawing speed in DirectDraw mode will be slower, so there is no problem if you exceed it.  
+    In the description of "Character's dedicated bmp" in the "Image Standards" section, it says "Vertical width is free". .. .. This was the correct answer.
     
 - -2019/3/12-  
-    「アクションエディター4」の[「ゲーム集」（一般向け）](/menu_game/ActionEditor4/index.html#GAME_DL_G)に139作品追加。  
-    「アクションエディター4」の[「ゲーム集」（成人向け）](/menu_game/ActionEditor4/index.html#GAME_DL_A)に12作品追加。  
-    「シミュレーションRPGエディター2」の[「ゲーム集」](/menu_game/SRPGEditor2/index.html#GAME_DL)に2作品追加。  
-    「シミュレーションRPGエディター」の[「ゲーム集」](/menu_game/SRPGEditor/index.html#GAME_DL)に9作品追加。  
-    「アクションエディター+」の[「ゲーム集」](/menu_game/ActionEditorPlus/index.html#GAME_DL)に1作品追加。  
+    Added 139 works to "Action Editor 4" ["Game Collection" (for the general public)](/en/menu_game/ActionEditor4/index.html#GAME_DL_G)  
+    Added 12 works to "Action Editor 4" ["Game Collection" (for adults)](/en/menu_game/ActionEditor4/index.html#GAME_DL_A)  
+    Added 2 works to "Simulation RPG Editor 2" ["Game Collection"](/en/menu_game/SRPGEditor2/index.html#GAME_DL)  
+    Added 9 works to "Simulation RPG Editor" ["Game Collection"](/en/menu_game/SRPGEditor/index.html#GAME_DL)  
+    Added 1 works to "Action Editor+" ["Game Collection"](/en/menu_game/ActionEditorPlus/index.html#GAME_DL)  
       
-    約2年2ヶ月ぶりにゲーム集を更新いたしました！  
-    正直今回が最後のゲーム集更新になる可能性もあるからといつもより時間をかけて発掘したこともあって、とてつもない作品数になりました。  
-    これでも厳選させていただきましたが、この数ですｗ  
-    本当にありがたいですし、まだこれほどアクションエディター4が利用されていることが信じられません。  
-    ゲーム作者の皆様ありがとうございましたー。  
-      
-    それとアクエディ4製ゲームのプレイ中に色んな気づき（問題点）とか個人的に実装したい機能も少し思いついたので、またそのうちアクエディ4を更新することになると思います。  
-    ではでは。  
+    We have updated our game collection for the first time in about 2 years and 2 months!  
+    To be honest, there is a possibility that this will be the last game collection update, so we spent more time discovering it than usual, so the number of works was enormous.  
+    We have carefully selected this number lol  
+    I really appreciate it, and I still can’t believe so much Action Editor 4 is being used.  
+    Thank you to all the game authors.
+    
+    Also, while playing Aquedi 4 games, I noticed a lot of things (problems) and came up with some features that I personally wanted to implement, so I think I'll be updating Aquedi 4 again soon.  
+    Well then.
     
 - -2019/3/10-  
-    「アクションエディター4」の[「ゲーム集」](/menu_game/ActionEditor4/index.html#GAME_DL)のリンク切れを修正。  
-    基本的に404エラーだけツールでチェックしただけで、まだリンク先で作品がダウンロードできないなどの問題があるリンクが残っているかもしれませんがご容赦ください。作品名でググるなどしていただければ見つかるかも…  
+    Fixed broken links on "Action Editor 4" ["Game Collection"](/en/menu_game/ActionEditor4/index.html#GAME_DL)
+    Basically, we checked the tool for only 404 errors, and please forgive us if there are still links with problems such as works not being able to be downloaded. You might be able to find it if you google the title of the work...
     
 - -2019/1/26-  
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver4.82)  
-    ◆エディター：ワールドマップの背景画像がエディター上でも表示されるようになる。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver4.82)  
+    ◆Editor: The background image of the world map will now be displayed on the editor as well.  
     
 - -2019/1/1-  
-    あけましておめでとうございます。  
-    今年もよろしくお願いします。  
-      
-    2018年を更新履歴で振り返ってみると、後半はほぼバグ修正しかやってませんでしたね…  
-    そして、まだまだこの状態が続く可能性が高いです。  
-    極めて退屈なサイトになってしまい申し訳ございません。  
-      
-    裏ではアクションエディター4の新機能を2つ実装しかけましたけど、どちらも失敗に終わってしまいました。  
-    あとは小規模かつ実験的な新作も作りましたけど、これも公開はしませんでした。  
-      
-    アクションエディターやシミュレーションRPGエディターシリーズのゲーム集もいつか更新したいとは思っていますけどね…時間とか心の余裕がたっぷりあるときでないと多分できないので、いつになるかわかりません。  
+    Happy New Year.  
+    Thank you for your continued support this year.
+    
+    If we look back at 2018 in the update history, we almost only fixed bugs in the second half...  
+    And this is likely to continue.  
+    We apologize for making this site extremely boring.
+    
+    Behind the scenes, we almost implemented two new features for Action Editor 4, but both ended in failure.  
+    I also made a small-scale and experimental new work, but I didn't release it either.
+    
+    I'd like to update the collection of games in the Action Editor and Simulation RPG Editor series someday... I probably won't be able to do it until I have plenty of time and mental space, so I don't know when it will happen.
     
 - -2018/12/9-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.14)  
-    ◆エディター：WaveファイルのWave拡張フォーマットや圧縮形式に対応していないことをデータベース「効果音」の中で明記する。また、オンラインヘルプでも次のように解説する。  
-      
-    （以下、オンラインヘルプより抜粋）  
-    **Wave拡張フォーマットが無効かつ非圧縮のPCM形式のWaveファイルのみに対応していて、そうではない形式(ADPCMなど)だとエディターで再生できたとしてもゲームでは再生できません。**  
-    普段からWaveの形式を意識している人は少ないと思いますが、**「もしゲーム側で再生されない場合は形式変換をすれば解決する」とだけ覚えておけばいい**気がします。  
-    なお、その形式変換はフリーソフトでも十分可能で、例えば本ソフトの作者が愛用している「Audacity」というソフトの場合は、問題のあるファイルを取り込んでから再保存するだけでWave拡張フォーマットが無効かつ非圧縮のPCM形式のWAVEファイルへと実質変換されます。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.14)  
+    ◆Editor: Specify in the database "Sound Effects" that the Wave file does not support Wave extension format or compression format. The online help also explains the following.
     
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver4.81)  
-    ◆エディター：WaveファイルのWave拡張フォーマットや圧縮形式に対応していないことをデータベース「効果音」の中で明記する。  
+    (extracted from online help below)  
+    **If the Wave extension format only supports Wave files in invalid and uncompressed PCM format, and in other formats (such as ADPCM), even if you can play them in the editor, you won't be able to play them in games.**  
+    I don't think there are many people who are aware of the Wave format on a regular basis**All you have to do is remember, ''If it doesn't play on the game side, you can solve it by converting the format.''**I feel like it.  
+    Note that free software is sufficient to convert the format, for example, in the case of the software "Audacity" used by the author of this software, simply importing the problematic file and resaving it will disable the Wave extension format. It is essentially converted into an uncompressed PCM format WAVE file.
+    
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver4.81)  
+    ◆Editor: Specify in the database "Sound Effects" that the Wave file does not support Wave extension format or compression format.  
     
 - -2018/9/21-  
-    [「アクションエディター4」](/menu_game/ActionEditor4/)の更新(Ver9.13)  
-    「誘導移動」などのターゲットを利用するコマンドにおいて、以下の条件を満たすとコマンドの動作（移動目標など）がおかしくなるバグを修正。  
-      
-    ・コマンドのターゲットが敵（「操作」が「コンピューター」）である  
-    ・主人公が「ワープ」コマンドなどで瞬時に離れた場所へ移動した  
-    ・上記の移動によって、ターゲットの位置が画面内から画面外になるなどして行動条件が成立から不成立になった  
-      
-    「誘導移動」と「移動タイプ」が「ターゲットへ誘導」の「ショット」では少なくともこのバグが発生していました。  
-    ターゲットを利用する全てのコマンドで発生していたかどうかは未確認ですが、発生していたとしてもこのバージョンで直っているはずです。  
-    今回の修正に伴って、システムの設定に「主人公がワープなどで瞬時に移動したときのターゲットを利用したコマンドの動作はバージョン9.12以前の動作を適用する」を実装しました。バージョン9.12以前のデータを今回のバージョンに引き継いだ場合、この設定は有効になっています。  
+    ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.13)  
+    Fixed a bug in commands that use targets, such as "guided movement", where command behavior (moving targets, etc.) would become strange if the following conditions were met.
+    
+    The target of the command is the enemy (the "operation" is the "computer")  
+    -The main character instantly moved to a remote location using a "warp" command  
+    ・Due to the above movement, the target's position changed from inside the screen to outside the screen, and the action conditions were changed from being met to not being met
+    
+    At least this bug was present in the "Shot" with "Guided Move" and "Move Type" "Guide to Target".  
+    It is unconfirmed whether this occurred in all commands that use the target, but even if it did, it should have been fixed in this version.  
+    Along with this modification, we implemented "Command behavior using the target when the main character moves instantly, such as by warp, applies behavior from version 9.12 or earlier" in the system settings. This setting is enabled if you carried over data from version 9.12 or earlier to this version.  
     
 - -2018/7/31-  
-    [「シミュレーションRPGエディター2」](/menu_game/SRPGEditor2/)の更新(Ver4.80)  
-    ◆ゲーム：イベントを所持した味方の初期位置を別の味方を配置するなどして取り消したり位置変更すると、その後の再配置や行動時に高確率で強制終了するバグを修正。  
-    ◆ゲーム：過去にイベントを所持したことがある味方をイベントを所持しないステージに配置すると、配置時や行動時に高確率で強制終了するバグを修正。  
-    ◆ゲーム：キャラ移動時の移動可能範囲の表示で、移動可能だが行動不可能なマスが移動可能範囲として表示されないバグを修正。  
+    ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver4.80)  
+    ◆Game: Fixed a bug where canceling or repositioning the initial position of an ally who possessed an event, such as by placing another ally, would result in a high probability of force termination upon subsequent relocation or action.  
+    ◆Game: Fixed a bug where if an ally who had possessed an event in the past was placed on a stage that did not possess an event, there was a high probability that it would be forcibly terminated when placed or acted on.  
+    ◆Game: Fixed a bug where squares that were movable but unable to act were not displayed as movable ranges when characters moved.  
     
-    また、サンプルゲームにもこのバージョンを適用。  
-    [「シミュレーユ」](/menu_game/Simulayu/)の更新(Ver3.30)  
+    Also, this version is also applied to sample games.    
+    ["Simulayre"](/en/menu_game/Simulayu/)Update of (Ver3.30)  
     
 
 ---
-
-今日![アクセス(今日)](/daycount/daycount.cgi?today) 累計![アクセス(累計)](/daycount/daycount.cgi?gif) 昨日![アクセス(昨日)](/daycount/daycount.cgi?yes)
-
   
 
-## おもしろゲーム神殿とは？
+## What is this site?
 
-管理人アントンが作ったフリーソフト（無料）がメインのサイトです。  
-アクションゲームやシミュレーションRPGの制作ソフトがダウンロードできます。  
-システムとゲームバランスにこだわったSRPGやRPGなどもあります。  
+The main site is free software (free) created by administrator Anton.  
+You can download software for action games and simulation RPGs.  
+There are also SRPGs and RPGs that are particular about system and game balance.
 
-一番人気は[アクションエディター4](/menu_game/ActionEditor4/ "アクションゲーム制作ソフト(無料) アクションエディター4")！  
-お手軽かつ楽しくアクションゲームやシューティングゲームが作れますよ。  
-アクションエディター4は、ふりーむ！などのメジャーサイトや雑誌などでも紹介されています。
+The most popular one is [Action editor 4](/en/menu_game/ActionEditor4/)!  
+You can easily create fun action games and shooting games.  
+Action editor 4 has also been featured on major sites and magazines such as Freem.
 
-## リンクについて
+## About links
 
-本サイト「おもしろゲーム神殿　～アクションゲーム＆シミュレーションRPGをつくろう～」は全てのページがリンクフリーです。よろしければ、サイト及びゲームのご紹介をよろしくお願いします！
+All pages on this site "Interesting Game Temple ～Let's Create Action Games & Simulation RPGs～" are link-free. If you are interested, please introduce the site and games!
 
-## 更新履歴
+## Update history
 
 - -2020/12/24  
-    「アクションエディター4」の更新(Ver10.20)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver5.10)  
+    "Action Editor 4" (Update to Ver10.20)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver5.10)  
     
 - -2020/9/26  
-    「アクションエディター4」の更新(Ver10.10)  
+    "Action Editor 4" (Update to Ver10.10)  
     
 - -2020/7/2  
-    「アクションエディター4」の更新(Ver10.00)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver5.05)  
+    "Action Editor 4" (Update to Ver10.00)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver5.05)  
     
 - -2020/3/9  
-    「アクションエディター4」の更新(Ver9.97)  
+    "Action Editor 4" (Update to Ver9.97)  
     
 - -2019/11/9  
-    「アクションエディター4」の更新(Ver9.96)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver5.04)  
-    「シミュレーションRPGエディター2」の更新(Ver5.25)  
-    「シミュレーユ」の更新(Ver4.41)  
+    "Action Editor 4" (Update to Ver9.96)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver5.04)  
+    "Simulation RPG Editor 2" (Update to Ver5.25)  
+    "Simulayre" (Update to Ver4.41)  
     
 - -2019/10/26  
-    「アクションエディター4」の更新(Ver9.95)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver5.03)  
+    "Action Editor 4" (Update to Ver9.95)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver5.03)  
     
 - -2019/10/2  
-    「アクションエディター4」の更新(Ver9.94)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver5.02)  
+    "Action Editor 4" (Update to Ver9.94)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver5.02)  
     
 - -2019/10/1  
-    「アクションエディター4」の更新(Ver9.93)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver5.01)  
+    "Action Editor 4" (Update to Ver9.93)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver5.01)  
     
 - -2019/9/21  
-    「アクションエディター4」の更新(Ver9.92)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver5.00)  
+    "Action Editor 4" (Update to Ver9.92)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver5.00)  
     
 - -2019/8/24  
-    「アクションエディター4」の更新(Ver9.91)  
-    「シミュレーションRPGエディター2」の更新(Ver5.24)  
-    「シミュレーユ」の更新(Ver4.40)  
+    "Action Editor 4" (Update to Ver9.91)  
+    "Simulation RPG Editor 2" (Update to Ver5.24)  
+    "Simulayre" (Update to Ver4.40)  
     
 - -2019/8/10  
-    「アクションエディター4」の更新(Ver9.88)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver4.90)  
+    "Action Editor 4" (Update to Ver9.88)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver4.90)  
     
 - -2019/8/1  
-    「アクションエディター4」の更新(Ver9.87β)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver4.80)  
+    "Action Editor 4" (Update to Ver9.87beta)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver4.80)  
     
 - -2019/7/28  
-    「アクションエディター4」の更新(Ver9.86β)  
+    "Action Editor 4" (Update to Ver9.86beta)  
     
 - -2019/7/24  
-    「アクションエディター4」の更新(Ver9.85β)  
+    "Action Editor 4" (Update to Ver9.85beta)  
     
 - -2019/7/17  
-    「アクションエディター4」の更新(Ver9.82β)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver4.70)  
+    "Action Editor 4" (Update to Ver9.82beta)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver4.70)  
     
 - -2019/7/16  
-    「アクションエディター4」の更新(Ver9.81β)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver4.60)  
+    "Action Editor 4" (Update to Ver9.81beta)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver4.60)  
     
 - -2019/7/13  
-    「アクションエディター4」の更新(Ver9.80β)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver4.50)  
+    "Action Editor 4" (Update to Ver9.80beta)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver4.50)  
     
 - -2019/6/26  
-    「アクションエディター4」の更新(Ver9.67)  
-    「シミュレーションRPGエディター2」の更新(Ver5.22)  
-    「シミュレーユ」の更新(Ver4.30)  
+    "Action Editor 4" (Update to Ver9.67)  
+    "Simulation RPG Editor 2" (Update to Ver5.22)  
+    "Simulayre" (Update to Ver4.30)  
     
 - -2019/6/22  
-    「アクションエディター4」の更新(Ver9.66)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver4.40)  
-    「シミュレーションRPGエディター2」の更新(Ver5.21)  
-    「シミュレーユ」の更新(Ver4.20)  
+    "Action Editor 4" (Update to Ver9.66)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver4.40)  
+    "Simulation RPG Editor 2" (Update to Ver5.21)  
+    "Simulayre" (Update to Ver4.20)  
     
 - -2019/6/14  
-    「アクションエディター4」の更新(Ver9.64)  
-    「シミュレーションRPGエディター2」の更新(Ver5.20)  
-    「シミュレーユ」の更新(Ver4.10)  
+    "Action Editor 4" (Update to Ver9.64)  
+    "Simulation RPG Editor 2" (Update to Ver5.20)  
+    "Simulayre" (Update to Ver4.10)  
     
 - -2019/6/8  
-    「シミュレーションRPGエディター2」の更新(Ver5.10)  
-    「シミュレーユ」の更新(Ver4.00)  
+    "Simulation RPG Editor 2" (Update to Ver5.10)  
+    "Simulayre" (Update to Ver4.00)  
     
 - -2019/6/5-  
-    「アクションエディター4」の更新(Ver9.63β)  
+    "Action Editor 4" (Update to Ver9.63beta)  
     
 - -2019/6/1-  
-    「アクションエディター4」の更新(Ver9.62β)  
-    「シミュレーションRPGエディター2」の更新(Ver5.02)  
+    "Action Editor 4" (Update to Ver9.62beta)  
+    "Simulation RPG Editor 2" (Update to Ver5.02)  
     
 - -2019/5/31-  
-    「アクションエディター4」の更新(Ver9.61β)  
-    「シミュレーションRPGエディター2」の更新(Ver5.01)  
+    "Action Editor 4" (Update to Ver9.61beta)  
+    "Simulation RPG Editor 2" (Update to Ver5.01)  
     
 - -2019/5/26-  
-    「アクションエディター4」の更新(Ver9.60β)  
-    「シミュレーションRPGエディター2」の更新(Ver5.00)  
-    「サポート」ページに「ゲームパッドが効かないとき」を追加。  
+    "Action Editor 4" (Update to Ver9.60beta)  
+    "Simulation RPG Editor 2" (Update to Ver5.00)  
+    Added "When the gamepad doesn’t work" to the "Support" page.  
     
 - -2019/5/16-  
-    「アクションエディター4」の更新(Ver9.51β)  
+    "Action Editor 4" (Update to Ver9.51beta)  
     
 - -2019/5/12-  
-    「アクションエディター4」の更新(Ver9.50β)  
+    "Action Editor 4" (Update to Ver9.50beta)  
     
 - -2019/4/15-  
-    「アクションエディター4」の更新(Ver9.30)  
-    「ヤシーユのハイパーウルトラアクションDX」の更新(Ver4.30)  
+    "Action Editor 4" (Update to Ver9.30)  
+    "Yassille's Hyper Ultra Action DX" (Update to Ver4.30)  
     
 - -2019/4/12-  
-    「アクションエディター4」の更新(Ver9.22β)  
-    「シミュレーションRPGエディター2」の更新(Ver4.92)  
+    "Action Editor 4" (Update to Ver9.22beta)  
+    "Simulation RPG Editor 2" (Update to Ver4.92)  
     
 - -2019/4/7-  
-    「サポート」ページの更新  
-    フォームメールで「アクションエディター4」におけるご要望の受付を再開しました！  
+    Update to the "Support" page  
+    We have resumed accepting requests for "Action Editor 4" via form email!
     
 - -2019/4/6-  
-    「おすすめリンク集」などにある「新アクションエディターBBS」のリンクを修正。  
+    Fixed links to "New Action Editor BBS" in "Recommended Links" etc. 
     
 - -2019/4/2-  
-    「アクションエディター4」の更新(Ver9.21β)  
-    「シミュレーションRPGエディター2」の更新(Ver4.91)  
+    "Action Editor 4" (Update to Ver9.21beta)  
+    "Simulation RPG Editor 2" (Update to Ver4.91)  
     
 - -2019/4/1-  
-    「アクションエディター4」の更新(Ver9.20β)  
-    「シミュレーションRPGエディター2」の更新(Ver4.90)  
+    "Action Editor 4" (Update to Ver9.20beta)  
+    "Simulation RPG Editor 2" (Update to Ver4.90)  
     
 - -2019/3/16-  
-    「募集事項」のページを更新。  
-    アクションエディターシリーズ製ゲーム及びシミュレーションRPGエディターシリーズ製ゲームの募集をやめる。  
+    Updated "Recruitment Information" page.  
+    We will stop accepting applications for games made by the Action Editor series and games made by the Simulation RPG Editor series. 
     
 - -2019/3/12  
-    「アクションエディター4」の「ゲーム集」（一般向け）に139作品追加。  
-    「アクションエディター4」の「ゲーム集」（成人向け）に12作品追加。  
-    「シミュレーションRPGエディター2」の「ゲーム集」に2作品追加。  
-    「シミュレーションRPGエディター」の「ゲーム集」に9作品追加。  
-    「アクションエディター+」の「ゲーム集」に1作品追加。  
+    Added 139 works to "Action Editor 4" - "Game Collection" (for the general public)  
+    Added 12 works to "Action Editor 4" - "Game Collection" (for adults)  
+    Added 2 works to "Simulation RPG Editor 2" - "Game Collection"  
+    Added 9 works to "Simulation RPG Editor" - "Game Collection"  
+    Added 1 works to "Action Editor+" - "Game Collection"  
     
 - -2019/3/10  
-    「アクションエディター4」の「ゲーム集」のリンク切れを修正。  
+    Fixed broken links in "Game Collection" in "Action Editor 4".
     
 - -2019/1/26  
-    「シミュレーションRPGエディター2」の更新(Ver4.82)  
+    "Simulation RPG Editor 2" (Update to Ver4.82)  
     
 - -2018/12/9  
-    「アクションエディター4」の更新(Ver9.14)  
-    「シミュレーションRPGエディター2」の更新(Ver4.81)  
+    "Action Editor 4" (Update to Ver9.14)  
+    "Simulation RPG Editor 2" (Update to Ver4.81)  
     
 - -2018/9/21  
-    「アクションエディター4」の更新(Ver9.13)  
+    "Action Editor 4" (Update to Ver9.13)  
     
 - -2018/7/31  
-    「シミュレーションRPGエディター2」の更新(Ver4.80)  
-    「シミュレーユ」の更新(Ver3.30)  
+    "Simulation RPG Editor 2" (Update to Ver4.80)  
+    "Simulayre" (Update to Ver3.30)  
     
-- [さらに過去](/renewallog/)
+- [View more](/en/renewallog/)
