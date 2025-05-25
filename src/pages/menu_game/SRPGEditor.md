@@ -344,7 +344,7 @@ MIDIの再生が安定する。
   
   
 ●　登録の仕方  
-[メール](mailto:anton@omoshiro-game.com?Subject=%E3%82%A2%E3%82%AF%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BB%E9%8C%B2)で以下の情報を教えて下さい。  
+[メール](mailto:anton@omoshiro-game.github.io?Subject=%E3%82%A2%E3%82%AF%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BB%E9%8C%B2)で以下の情報を教えて下さい。  
   
 ・ゲームの配布ページのURL（必須）  
 ・ゲーム名（必須）  

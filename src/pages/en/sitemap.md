@@ -8,7 +8,7 @@ breadcrumb:
 
 ## Sitemap
 
-- [Omoshiro Game Sanctuary TOP](/en/)
+- [Omoshiro Game Shrine TOP](/en/)
 - [Game Downloads](/en/menu_game/)
   - [Simulayu](/en/menu_game/Simulayu/)
   - [YashiNaka2 Solitude](/en/menu_game/YashiNaka2Solitude/)
