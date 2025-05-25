@@ -1,12 +1,12 @@
 ---
-title: "Stage" > "Stage Settings"
+title: "Stage > Stage Settings"
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Support
     url: /menu_support/
   - name: Action Editor 4 Help
     url: /menu_support/actioneditor4_help/
-  - name: "Stage" > "Stage Settings"
+  - name: "Stage > Stage Settings"
     url: /menu_support/actioneditor4_help/menu_stage_set/
 ---
 

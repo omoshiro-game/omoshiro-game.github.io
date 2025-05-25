@@ -7,6 +7,21 @@ breadcrumb: []
 
 ## Recent Updates
 
+- -2025/05/25-  
+    Long time no see.  
+    
+    I've decided to bring the site back online after several years.  
+    That said, it’s not like there’s any new release or anything.  
+    It’s more like… I just felt a bit sad that the old stuff wasn’t viewable anymore,  
+    so I figured I’d at least make it public again.  
+    
+    As for what comes next — that’s totally undecided.  
+    If expectations get too high, it turns into pressure, so I’d really appreciate it  
+    if you could just take it easy and enjoy what’s here.  
+    
+    (If I find small bugs during this reboot, I’ll quietly fix them here and there.)  
+
+
 - -2020/12/24-  
     [“Action Editor 4”](/en/menu_game/ActionEditor4/) updated (Ver. 10.20)
     This version has also been applied to the sample game.

@@ -9,10 +9,15 @@ breadcrumb:
   - name: How to Operate
     url: /menu_support/actioneditor4_help/sousa/
 ---
+
+<a name="TOP"></a>
+
 ## How to Operate Table of Contents
 
-- [Editor Operations](/menu_support/actioneditor4_help/sousa/#EDITOR)
-- [Game Operations](/menu_support/actioneditor4_help/sousa/#GAME)
+- [Editor Operations](#EDITOR)
+- [Game Operations](#GAME)
+
+<a name="EDITOR"></a>
 
 ## Editor Operations
 
@@ -37,9 +42,11 @@ Ctrl + V ... Paste
 Ctrl + I ... New  
 Delete ... Delete  
   
-# For special operations in the stage window, refer to [Stage Editing > Special Operations in Stage Window](/menu_support/actioneditor4_help/stage/#TOKUSYUSOUSA).  
+# For special operations in the stage window, refer to [Stage Editing > Special Operations in Stage Window](/en/menu_support/actioneditor4_help/stage/#TOKUSYUSOUSA).  
 
-[Back to top of page](/menu_support/actioneditor4_help/sousa/)
+[Back to top of page](#TOP)
+
+<a name="GAME"></a>
 
 ## Game Operations
 
@@ -94,12 +101,12 @@ You can also change key assignments with the included "KeyConfig.exe".
 ****・F3 key ... Register stage clear results in ranking (only effective when "Ranking Registration" in options is "Manual Registration")  
 **・Esc key ... Exit game  
 
-[Back to top of page](/menu_support/actioneditor4_help/sousa/)
+[Back to top of page](#TOP)
 
 ---
 
   
 
-[To Next Topic](/menu_support/actioneditor4_help/gamemode/)
+[To Next Topic](/en/menu_support/actioneditor4_help/gamemode/)
 
-[To Help Table of Contents](/menu_support/actioneditor4_help/)
+[To Help Table of Contents](/en/menu_support/actioneditor4_help/)
