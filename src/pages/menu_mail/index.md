@@ -1,9 +1,11 @@
 ---
-title: 管理人へメール
+title: 管理人へメール　|　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: 管理人へメール
-    url: /menu_mail/
+- name: 管理人へメール
+  url: /menu_mail/
+h1: 管理人へメール
+description: おもしろゲーム神殿の管理人アントンへメールを行います。ゲームの感想や相互リンク依頼などを受け付けています。
 ---
 
 ## 管理人へメール

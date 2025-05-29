@@ -1,9 +1,11 @@
 ---
-title: サポート
+title: サポート　|　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
+- name: サポート
+  url: /menu_support/
+h1: サポート
+description: おもしろゲーム神殿の各ゲーム・ツールのサポートを行います。ご質問、バグ報告、ご要望などを気軽にお書き込み下さい。
 ---
 
 ## サポート

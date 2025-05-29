@@ -1,11 +1,16 @@
 ---
-title: ヤシーユのハイパーウルトラアクションDX
+title: ヤシーユのハイパーウルトラアクションDX　|　ゲームのダウンロード　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲームのダウンロード
-    url: /menu_game/
-  - name: ヤシーユのハイパーウルトラアクションDX
-    url: /menu_game/YashiyuNoHyperUltraActionDX/
+- name: ゲームのダウンロード
+  url: /menu_game/
+- name: ヤシーユのハイパーウルトラアクションDX
+  url: /menu_game/YashiyuNoHyperUltraActionDX/
+h1: ヤシーユのハイパーウルトラアクションDX
+description: 2Dアクションゲーム「ヤシーユのハイパーウルトラアクションDX」がダウンロードできます。シンプルで面白いジャンプアクションゲームです。
+og:
+  title: 2Dアクションゲーム「ヤシーユのハイパーウルトラアクションDX」
+  description: 2Dアクションゲーム「ヤシーユのハイパーウルトラアクションDX」がダウンロードできます。
 ---
 
 ## アクションゲーム　ヤシーユのハイパーウルトラアクションDX （無料）

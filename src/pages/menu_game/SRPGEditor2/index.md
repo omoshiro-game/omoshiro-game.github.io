@@ -1,11 +1,16 @@
 ---
-title: シミュレーションRPGエディター2
+title: シミュレーションRPGエディター2　|　ゲーム制作ソフト　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲーム制作ソフト
-    url: /menu_gametool/
-  - name: シミュレーションRPGエディター2
-    url: /menu_game/SRPGEditor2/
+- name: ゲーム制作ソフト
+  url: /menu_gametool/
+- name: シミュレーションRPGエディター2
+  url: /menu_game/SRPGEditor2/
+h1: シミュレーションRPGエディター2
+description: シミュレーションRPG制作ソフト「シミュレーションRPGエディター2」が無料でダウンロードできます。シミュレーションRPGが誰でも簡単に楽しく作れます。
+og:
+  title: シミュレーションRPG制作ソフト「シミュレーションRPGエディター2」
+  description: 作って楽しいシミュレーションRPG制作ソフト「シミュレーションRPGエディター2」がダウンロードできます。
 ---
 
 ## シミュレーションRPG制作ソフト　シミュレーションRPGエディター2

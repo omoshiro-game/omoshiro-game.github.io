@@ -1,9 +1,14 @@
 ---
-title: ゲームのダウンロード
+title: ゲームのダウンロード　|　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲームのダウンロード
-    url: /menu_game/
+- name: ゲームのダウンロード
+  url: /menu_game/
+h1: ゲームのダウンロード
+description: おもしろいゲームを無料でダウンロード！システムやゲームバランスを重視したゲーム集です。RPG、シミュレーションRPG、スポーツ等
+og:
+  title: おもしろゲーム神殿　ゲーム一覧
+  description: システムとゲームバランスにこだわったシミュレーションRPGやRPG、アクションゲームなどのフリーゲームをダウンロードできます。
 ---
 
 ## ゲーム一覧

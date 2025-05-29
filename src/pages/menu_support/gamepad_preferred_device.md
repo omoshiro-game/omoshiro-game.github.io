@@ -1,11 +1,13 @@
 ---
-title: ゲームパッドが効かないとき
+title: ゲームパッドが効かないとき　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: ゲームパッドが効かないとき
-    url: /menu_support/gamepad_preferred_device/
+- name: サポート
+  url: /menu_support/
+- name: ゲームパッドが効かないとき
+  url: /menu_support/gamepad_preferred_device/
+h1: ゲームパッドが効かないとき
+description: ゲームパッドが効かないとき、Windowsのコントロールパネルから優先デバイスを設定します。
 ---
 
 <a name="TOP"></a>

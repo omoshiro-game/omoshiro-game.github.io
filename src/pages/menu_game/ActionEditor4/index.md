@@ -3,22 +3,14 @@ h1: アクションエディター4
 title: アクションエディター4　|　ゲーム制作ソフト　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲーム制作ソフト
-    url: /menu_gametool/
-  - name: アクションエディター4
-    url: /menu_game/ActionEditor4/
-
+- name: ゲーム制作ソフト
+  url: /menu_gametool/
+- name: アクションエディター4
+  url: /menu_game/ActionEditor4/
 description: アクションゲーム制作ソフト「アクションエディター4」が無料でダウンロードできます。 シューティングゲームやパズルゲームも作れます。誰でも簡単に楽しく作れます。
-
 og:
-    title: アクションゲーム制作ソフト「アクションエディター4」
-    description: お手軽かつ楽しいアクションゲーム制作ソフト「アクションエディター4」がダウンロードできます。
-    keywords:
-        - ゲーム制作
-        - 作成
-        - アクションゲーム
-        - シューティングゲーム
-        - アクションエディター
+  title: アクションゲーム制作ソフト「アクションエディター4」
+  description: お手軽かつ楽しいアクションゲーム制作ソフト「アクションエディター4」がダウンロードできます。
 ---
 
 <a name="START"></a>

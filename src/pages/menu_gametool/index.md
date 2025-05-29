@@ -1,9 +1,14 @@
 ---
-title: ゲーム制作ソフト
+title: ゲーム制作ソフト　|　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲーム制作ソフト
-    url: /menu_gametool/
+- name: ゲーム制作ソフト
+  url: /menu_gametool/
+h1: ゲーム制作ソフト
+description: ゲーム制作ソフトを無料でダウンロードできます。アクションゲーム、シューティングゲーム、シミュレーションRPG等が簡単に楽しく作れます。
+og:
+  title: おもしろゲーム神殿　ゲーム制作ソフト一覧
+  description: ゲーム制作ソフトの一覧です。アクションゲーム、シューティングゲーム、シミュレーションRPG等が簡単に楽しく作れます。
 ---
 
 ## ゲーム制作ソフト一覧

@@ -1,9 +1,11 @@
 ---
-title: リンク集
+title: リンク集　|　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: リンク集
-    url: /menu_link/
+- name: リンク集
+  url: /menu_link/
+h1: リンク集
+description: おもしろゲーム神殿のリンク集です。ほとんどがゲーム関係のサイトです。
 ---
 
 ## 目次

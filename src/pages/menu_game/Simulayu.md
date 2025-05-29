@@ -1,11 +1,16 @@
 ---
-title: シミュレーユ
+title: シミュレーユ　|　ゲームのダウンロード　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲームのダウンロード
-    url: /menu_game/
-  - name: シミュレーユ
-    url: /menu_game/Simulayu/
+- name: ゲームのダウンロード
+  url: /menu_game/
+- name: シミュレーユ
+  url: /menu_game/Simulayu/
+h1: シミュレーユ
+description: シミュレーションRPG「シミュレーユ」がダウンロードできます。キャラの能力値・習得スキル・ショップの商品（在庫）などにランダム要素があるので繰り返し楽しめますし、何人でも育てられるので安心です。ゲームクリア後はデータそのままで何周でもプレイできます。
+og:
+  title: シミュレーションRPG「シミュレーユ」
+  description: シミュレーションRPG「シミュレーユ」がダウンロードできます。
 ---
 
 ## シミュレーションRPG　シミュレーユ （無料）

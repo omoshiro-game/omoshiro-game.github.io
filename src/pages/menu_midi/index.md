@@ -1,9 +1,14 @@
 ---
-title: MIDIのダウンロード
+title: MIDIのダウンロード　|　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: MIDIのダウンロード
-    url: /menu_midi/
+- name: MIDIのダウンロード
+  url: /menu_midi/
+h1: MIDIのダウンロード
+description: 著作権フリーのMIDI(GM音源)を公開しています。ゲームの素材(BGM)として適した曲も多いです。
+og:
+  title: 著作権スーパーフリーのMIDIファイル集
+  description: 著作権スーパーフリーのMIDIファイル集を公開しています！素材としての使用や加工、アレンジはもちろん二次配布も無断でできます！著作権の表記さえも不要！
 ---
 
 ## MIDIのダウンロード

@@ -1,9 +1,11 @@
 ---
-title: ゲーム攻略
+title: ゲーム攻略　|　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲーム攻略
-    url: /menu_game_capture/
+- name: ゲーム攻略
+  url: /menu_game_capture/
+h1: ゲーム攻略
+description: ゲームの攻略・データ集です。要望が多かったものを中心にデータや攻略情報を掲載しています。
 ---
 
 ## ゲーム攻略　目次
