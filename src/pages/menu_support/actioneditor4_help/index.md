@@ -1,11 +1,13 @@
 ---
-title: アクションエディター4 ヘルプ
+title: アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+h1: アクションエディター4 ヘルプ
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプです。
 ---
 
 ## アクションエディター4 ヘルプ　目次

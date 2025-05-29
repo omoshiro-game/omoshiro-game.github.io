@@ -1,13 +1,15 @@
 ---
-title: ゲームの配布について
+title: ゲームの配布について　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: ゲームの配布について
-    url: /menu_support/actioneditor4_help/distribution/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: ゲームの配布について
+  url: /menu_support/actioneditor4_help/distribution/
+h1: ゲームの配布について
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「ゲームの配布について」は「おもしろゲーム神殿」内のページです
 ---
 
 ## ゲームの配布について

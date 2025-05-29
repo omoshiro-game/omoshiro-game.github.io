@@ -1,13 +1,15 @@
 ---
-title: ゲームモードの説明
+title: ゲームモードの説明　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: ゲームモードの説明
-    url: /menu_support/actioneditor4_help/gamemode/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: ゲームモードの説明
+  url: /menu_support/actioneditor4_help/gamemode/
+h1: ゲームモードの説明
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「ゲームモードの説明」は「おもしろゲーム神殿」内のページです
 ---
 
 ## ゲームモードの説明　目次

@@ -1,13 +1,15 @@
 ---
-title: キャラのアニメーション
+title: キャラのアニメーション　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: キャラのアニメーション
-    url: /menu_support/actioneditor4_help/animation/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: キャラのアニメーション
+  url: /menu_support/actioneditor4_help/animation/
+h1: キャラのアニメーション
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「キャラのアニメーション」は「おもしろゲーム神殿」内のページです
 ---
 
 ## キャラのアニメーション

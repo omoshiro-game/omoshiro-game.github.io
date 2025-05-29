@@ -1,11 +1,13 @@
 ---
-title: アクションエディター
+title: アクションエディター　|　ゲーム制作ソフト　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲーム制作ソフト
-    url: /menu_gametool/
-  - name: アクションエディター
-    url: /menu_game/ActionEditor/
+- name: ゲーム制作ソフト
+  url: /menu_gametool/
+- name: アクションエディター
+  url: /menu_game/ActionEditor/
+h1: アクションエディター
+description: 無料のアクションゲーム制作ソフト「アクションエディター」！アクションだけでなくSTG(シューティングゲーム)も作れます。手軽に楽しく作れます。
 ---
 
 ## アクションゲーム制作ソフト　アクションエディター

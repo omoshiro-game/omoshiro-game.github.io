@@ -2,10 +2,10 @@
 title: ヤシなか2 ソリチュード
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲームのダウンロード
-    url: /menu_game/
-  - name: ヤシなか2 ソリチュード
-    url: /menu_game/YashiNaka2Solitude/ 
+- name: ゲームのダウンロード
+  url: /menu_game/
+- name: ヤシなか2 ソリチュード
+  url: /menu_game/YashiNaka2Solitude/
 ---
 
 ## シミュレーションRPG　ヤシなか2 ソリチュード （無料）

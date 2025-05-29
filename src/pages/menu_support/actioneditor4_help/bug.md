@@ -1,13 +1,15 @@
 ---
-title: 修正不可能なバグ、もとい仕様
+title: 修正不可能なバグ、もとい仕様　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: 修正不可能なバグ、もとい仕様
-    url: /menu_support/actioneditor4_help/bug/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: 修正不可能なバグ、もとい仕様
+  url: /menu_support/actioneditor4_help/bug/
+bug: 修正不可能なバグ、もとい仕様
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「修正不可能なバグ、もとい仕様」は「おもしろゲーム神殿」内のページです
 ---
 
 <a name="TOP"></a>

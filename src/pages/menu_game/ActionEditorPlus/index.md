@@ -2,10 +2,10 @@
 title: アクションエディター+
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲーム制作ソフト
-    url: /menu_gametool/
-  - name: アクションエディター+
-    url: /menu_game/ActionEditorPlus/
+- name: ゲーム制作ソフト
+  url: /menu_gametool/
+- name: アクションエディター+
+  url: /menu_game/ActionEditorPlus/
 ---
 
 ## アクションゲーム制作ソフト　アクションエディター+

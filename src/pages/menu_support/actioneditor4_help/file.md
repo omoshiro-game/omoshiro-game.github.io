@@ -1,13 +1,15 @@
 ---
-title: ファイルの説明
+title: ファイルの説明　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: ファイルの説明
-    url: /menu_support/actioneditor4_help/file/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: ファイルの説明
+  url: /menu_support/actioneditor4_help/file/
+h1: ファイルの説明
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「ファイルの説明」は「おもしろゲーム神殿」内のページです
 ---
 
 ## ファイルの説明　目次

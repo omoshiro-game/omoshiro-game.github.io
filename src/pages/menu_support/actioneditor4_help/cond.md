@@ -1,13 +1,15 @@
 ---
-title: 出現条件リスト・フローの基本条件リストの設定
+title: 出現条件リスト・フローの基本条件リストの設定　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: 出現条件リスト・フローの基本条件リストの設定
-    url: /menu_support/actioneditor4_help/cond/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: 出現条件リスト・フローの基本条件リストの設定
+  url: /menu_support/actioneditor4_help/cond/
+h1: 出現条件リスト・フローの基本条件リストの設定
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「出現条件リスト・フローの基本条件リストの設定」は「おもしろゲーム神殿」内のページです
 ---
 
 <a name="TOP"></a>

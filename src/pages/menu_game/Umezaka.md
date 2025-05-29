@@ -1,11 +1,16 @@
 ---
-title: うめざかくん160k
+title: うめざかくん160k　|　ゲームのダウンロード　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: ゲームのダウンロード
-    url: /menu_game/
-  - name: うめざかくん160k
-    url: /menu_game/Umezaka/
+- name: ゲームのダウンロード
+  url: /menu_game/
+- name: うめざかくん160k
+  url: /menu_game/Umezaka/
+h1: うめざかくん160k
+description: 投手育成野球ゲーム「うめざかくん160k」が無料でダウンロードできます。野球、ピッチング、そしてストレートに魅力を感じる人は是非！
+og:
+  title: 投手育成野球ゲーム「うめざかくん160k」
+  description: 投手育成野球ゲーム「うめざかくん160k」がダウンロードできます。
 ---
 
 ## 投手育成野球ゲーム　うめざかくん160k （無料）

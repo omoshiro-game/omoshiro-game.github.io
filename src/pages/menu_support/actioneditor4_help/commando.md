@@ -1,13 +1,15 @@
 ---
-title: コマンドの設定
+title: コマンドの設定　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: コマンドの設定
-    url: /menu_support/actioneditor4_help/commando/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: コマンドの設定
+  url: /menu_support/actioneditor4_help/commando/
+h1: コマンドの設定
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「コマンドの設定」は「おもしろゲーム神殿」内のページです
 ---
 
 <a name="TOP"></a>

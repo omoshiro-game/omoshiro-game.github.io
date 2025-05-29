@@ -1,13 +1,15 @@
 ---
-title: キャラの設定
+title: キャラの設定　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: キャラの設定
-    url: /menu_support/actioneditor4_help/chara/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: キャラの設定
+  url: /menu_support/actioneditor4_help/chara/
+h1: キャラの設定
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「キャラの設定」は「おもしろゲーム神殿」内のページです
 ---
 
 <a name="TOP"></a>

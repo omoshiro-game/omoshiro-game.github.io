@@ -1,13 +1,15 @@
 ---
-title: 画像の規格
+title: 画像の規格　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: サポート
-    url: /menu_support/
-  - name: アクションエディター4 ヘルプ
-    url: /menu_support/actioneditor4_help/
-  - name: 画像の規格
-    url: /menu_support/actioneditor4_help/bmp/
+- name: サポート
+  url: /menu_support/
+- name: アクションエディター4 ヘルプ
+  url: /menu_support/actioneditor4_help/
+- name: 画像の規格
+  url: /menu_support/actioneditor4_help/bmp/
+h1: 画像の規格
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「画像の規格」は「おもしろゲーム神殿」内のページです
 ---
 
 ## 画像の規格
