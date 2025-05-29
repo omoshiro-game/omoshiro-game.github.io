@@ -9,25 +9,39 @@ import Breadcrumb from '../components/Breadcrumb.astro';
 import Sidebar from '../components/Sidebar.astro';
 import HeaderLogo from '../components/HeaderLogo.astro';
 import TopMenu from '../components/TopMenu.astro';
+import { undefined } from 'astro:schema';
 
 // type Props = CollectionEntry<'blog'>['data'];
 
 const { frontmatter } = Astro.props;
 
-const lang = frontmatter.lang || Astro.props.url?.startsWith("/en/") ? "en" : "ja";
+const lang = frontmatter.lang || (Astro.props.url?.startsWith("/en/") || (Astro.props.url == "/en")) ? "en" : "ja";
 // const { title, description } = Astro.props;
+
+let keywords: string | null = frontmatter.keywords || null;
+const description = frontmatter.description || frontmatter.subtitle || "??";
+
+if (keywords && Array.isArray(keywords) && keywords.every(item => typeof item === 'string')) {
+    keywords = keywords.join(',');
+}
+
+let og = {
+    title: frontmatter.og?.title || frontmatter.title,
+    description: frontmatter.og?.description || description,
+}
+
 ---
 
 <html lang={lang}>
 	<head>
-		<BaseHead title={frontmatter.title} description={frontmatter.description || frontmatter.subtitle || "??"} />
+		<BaseHead title={frontmatter.title} description={description} lang={lang} keywords={keywords} og={og} />
         <Hreflang />
 	</head>
 
 	<body>
         <div id="container">
             <div id="header">
-                <h1>{frontmatter.title || "???"}</h1>
+                <h1>{frontmatter.h1 || frontmatter.title || "???"}</h1>
                 
                 <TopMenu />
             </div>

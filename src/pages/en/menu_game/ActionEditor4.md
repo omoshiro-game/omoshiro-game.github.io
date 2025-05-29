@@ -6,6 +6,14 @@ breadcrumb:
     url: /menu_gametool/
   - name: Action Editor 4
     url: /menu_game/ActionEditor4/
+Keywords:
+     - Game production
+     - Creation
+     - Action game
+     - Shooting game
+     - Action Editor
+     - Action Editor 4
+description: You can download the action game production software "Action Editor 4" for free.  You can also create shooting games and puzzle games. Anyone can easily and happily make it.
 ---
 
 <a name="START"></a>

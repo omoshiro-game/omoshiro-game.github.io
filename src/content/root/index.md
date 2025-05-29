@@ -1,6 +1,6 @@
 ---
-title: Home
-subtitle: "Create Action Games & Simulation RPGs"
+title: おもしろゲーム神殿～アクションゲーム＆シミュレーションRPGをつくろう
+subtitle: "ゲーム制作ソフト、アクションゲーム、シミュレーションRPGなどのフリーソフトを公開！
 breadcrumb: []
 ---
 
