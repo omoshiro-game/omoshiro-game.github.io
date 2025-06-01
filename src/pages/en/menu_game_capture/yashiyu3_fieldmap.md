@@ -1,25 +1,25 @@
 ---
-title: 「レジェンドオブヤシーユ3」フィールドマップ
+title: Legend of Yashiyu 3 Field Map
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Game Walkthrough
     url: /menu_game_capture/
-  - name: Rejiyashi 3 Solitude
-    url: /menu_game_capture/#LOY3_SOLITUDE
-  - name: 「レジェンドオブヤシーユ3」フィールドマップ
+  - name: Rejiyashi 3
+    url: /menu_game_capture/#LOY3
+  - name: Legend of Yashiyu 3 Field Map
     url: /menu_game_capture/yashiyu3_fieldmap/
 ---
-## 「レジェンドオブヤシーユ3」フィールドマップ
+## "Legend of Yashiyu 3" Field Map
 
 ![](/menu_game_capture/yashiyu3_fieldmap/FieldMap.png)
 
-●　フィールド上で入手できるアイテム  
-タコを手に入れた後色々な大陸にいけるようになり、アイテムも落ちてたりします。  
-手に入るアイテムは以下の通りです。  
+● Items obtainable on the field  
+After acquiring the Octopus, you can travel to various continents, and items can be found there.  
+The obtainable items are as follows:  
   
-・ちしきのぐらぶ  
-・おもいでのローブ  
-・ふしぎそう3個  
+・Gloves of Knowledge  
+・Robe of Memories  
+・3 Mysterious Herbs  
   
-●　誰かが言ってた砂漠の謎  
-ヒント　　上のマップで、黒いのがイベントデータ（爆）
+● Someone's desert mystery  
+Hint: In the map above, the black parts are event data (lol)
