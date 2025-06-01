@@ -1,11 +1,15 @@
 ---
-title: MIDI Download
+title: MIDI Download | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: MIDI Download
-    url: /menu_midi/
+- name: MIDI Download
+  url: /menu_midi/
+h1: MIDI Download
+description: Royalty-free MIDI (GM sound source) files are available. Many songs are suitable as game assets (BGM).
+og:
+  title: Copyright Super-Free MIDI File Collection
+  description: A collection of copyright super-free MIDI files is available! You can use, process, arrange, and even redistribute them without permission! No copyright notice is even required!
 ---
-
 
 ## MIDI Download
 

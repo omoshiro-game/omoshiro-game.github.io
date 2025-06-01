@@ -1,20 +1,25 @@
 ---
-title: Yassille's Hyper Ultra Action DX
+title: Yashiyu's Hyper Ultra Action DX | Game Download | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-    - name: Game download
-      url: /menu_game/
-    - name: Yassille's Hyper Ultra Action DX
-      url: /menu_game/YashiyuNoHyperUltraActionDX/
+- name: Game Download
+  url: /menu_game/
+- name: Yashiyu's Hyper Ultra Action DX
+  url: /menu_game/YashiyuNoHyperUltraActionDX/
+h1: Yashiyu's Hyper Ultra Action DX
+description: Download the 2D action game "Yashiyu's Hyper Ultra Action DX". It's a simple and fun jump action game.
+og:
+  title: 2D Action Game "Yashiyu's Hyper Ultra Action DX"
+  description: Download the 2D action game "Yashiyu's Hyper Ultra Action DX".
 ---
  
-## Action Game Yassille's Hyper Ultra Action DX (Free)
+## Action Game Yashiyu's Hyper Ultra Action DX (Free)
  
-Here you can download the side-scrolling action game "Yassille's Hyper Ultra Action DX" for free.  
+Here you can download the side-scrolling action game "Yashiyu's Hyper Ultra Action DX" for free.  
 
 The game is also a sample game for Action Editor 4.  
 
-The game also includes 4 action editors (the editors’ programs), which may not be the latest version (the latest version whose author has seen "Yassille’s Hyper Ultra Action DX" in action).  
+The game also includes 4 action editors (the editors’ programs), which may not be the latest version (the latest version whose author has seen "Yashiyu’s Hyper Ultra Action DX" in action).  
 Please obtain the latest version of Action Editor 4 [here](/en/menu_game/ActionEditor4/).
  
 ---
@@ -23,7 +28,7 @@ Please obtain the latest version of Action Editor 4 [here](/en/menu_game/ActionE
  
 
 
-|Game title| Yassille's Hyper Ultra Action DX  |
+|Game title| Yashiyu's Hyper Ultra Action DX  |
 |----|----|
 |Version| 5.10  |
 |Genre| Side-scrolling action game  |

@@ -1,11 +1,16 @@
 ---
-title: Simulation RPG Editor
+title: Simulation RPG Editor | Game Creation Software | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game tools
-    url: /menu_gametool/
-  - name: Simulation RPG Editor
-    url: /menu_game/SRPGEditor/
+- name: Game Creation Software
+  url: /menu_gametool/
+- name: Simulation RPG Editor
+  url: /menu_game/SRPGEditor/
+h1: Simulation RPG Editor
+description: Free simulation RPG creation software "Simulation RPG Editor"! Anyone can easily and enjoyably create simulation RPGs.
+og:
+  title: Simulation RPG Creation Software "Simulation RPG Editor"
+  description: Download the simulation RPG creation software "Simulation RPG Editor".
 ---
 
 <a name="START"></a>

@@ -5,7 +5,7 @@
     "links": [
       { "name": { "ja": "ゲームのダウンロード", "en": "Game Downloads" }, "url": "/menu_game/", "title": { "ja": "ゲームのダウンロード(無料)", "en": "Download games (free)" }, "rel": "nofollow" },
       { "name": { "ja": "ゲーム制作ソフト", "en": "Game Creation Tools" }, "url": "/menu_gametool/", "title": { "ja": "ゲーム制作ソフトのダウンロード(無料)", "en": "Download creation tools (free)" }, "rel": "nofollow" },
-      { "name": { "ja": "宣伝BBS", "en": "Promotional BBS" }, "url": "/joyful_publicity/joyful", "title": { "ja": "ゲーム・サイト・イベントの宣伝", "en": "Promote games/sites/events" }, "rel": "nofollow" },
+      { "name": { "ja": "宣伝BBS", "en": "Promotional BBS" }, "url": "/joyful_publicity/joyful/", "title": { "ja": "ゲーム・サイト・イベントの宣伝", "en": "Promote games/sites/events" }, "rel": "nofollow" },
       { "name": { "ja": "サポート", "en": "Support" }, "url": "/menu_support/", "title": { "ja": "ゲームのサポート", "en": "Game support" }, "rel": "nofollow" },
       { "name": { "ja": "ゲーム攻略", "en": "Game Guides" }, "url": "/menu_game_capture/", "title": { "ja": "ゲームの攻略", "en": "Game walkthroughs" }, "rel": "nofollow" },
       { "name": { "ja": "募集事項", "en": "Announcements" }, "url": "/menu_collect/", "title": { "ja": "募集事項", "en": "Announcements" }, "rel": "nofollow" },

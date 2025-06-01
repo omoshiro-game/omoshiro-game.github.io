@@ -1,11 +1,21 @@
 ---
-title: YashiNaka2 Solitude
+title: YashiNaka2 Solitude | Game Download | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game Download
-    url: /menu_game/
-  - name: YashiNaka2 Solitude
-    url: /menu_game/YashiNaka2Solitude/ 
+- name: Game Download
+  url: /menu_game/
+- name: YashiNaka2 Solitude
+  url: /menu_game/YashiNaka2Solitude/
+h1: YashiNaka2 Solitude
+description: Download the simulation RPG "YashiNaka2 Solitude". In this game, defeating enemies allows re-actions, so the order of defeat is key. You can play through any number of times.
+keywords:
+- Simulation RPG
+- SRPG
+- Fun Game
+- Downloadable Game
+og:
+  title: Simulation RPG "YashiNaka2 Solitude"
+  description: Download the simulation RPG "YashiNaka2 Solitude".
 ---
 
 ## Simulation RPG YashiNaka2 Solitude (Free)

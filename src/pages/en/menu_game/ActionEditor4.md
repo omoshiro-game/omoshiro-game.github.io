@@ -1844,7 +1844,7 @@ Registered: Before 4/5/2012
 - [Sealed secret](http://dragonyamiyona.yumenogotoshi.com/homupe/game/ss/ss.html)Author:[Dragon hacker](http://dragonyamiyona.yumenogotoshi.com/)
 - [Machine Shock V2](http://www.freem.ne.jp/game/win/g03456.html)Author:[Mr. Otokam](http://otokamgarage.web.fc2.com/)
 - [Simpler World](http://threesgame.web.fc2.com/games_3.html)Author:[Dear 3Sthrees](http://threesgame.web.fc2.com/index.html.html)
-- [Yassille's ordinary action](https://www.freem.ne.jp/win/game/3415)Author:[Mr. Lutigel](https://www.freem.ne.jp/brand/974)
+- [Yashiyu's ordinary action](https://www.freem.ne.jp/win/game/3415)Author:[Mr. Lutigel](https://www.freem.ne.jp/brand/974)
 - [Demons Castle](https://www.freem.ne.jp/win/game/3420)Author:[Mr. Otokam](http://otokamgarage.web.fc2.com/)
 - ~~夢巡り~~Author:~~ぴけぴけ様~~
 - ~~ちょっとしかくいやつ~~Author:~~coolstep様~~
@@ -1904,7 +1904,7 @@ Registered: Before 4/5/2012
 - [NO NAME HERO, S](http://dragonyamiyona.yumenogotoshi.com/homupe/game/nnh/nnh.html)Author:[Dragon hacker](http://dragonyamiyona.yumenogotoshi.com/)
 - [Sambellina and big left hand](http://thumbelina.ehoh.net/)Author:[1-nomon-sama](http://leimon.web.fc2.com/)
 - [Untitled 2](http://tonyation.web.fc2.com/games/ut2/ut2_gamepage1.html)Author:[Mr. Tonya](https://twitter.com/_xxxdugong)
-- [Requester Yassille](http://threesgame.web.fc2.com/games_1.html)Author:[Dear 3S](http://threesgame.web.fc2.com/index.html)
+- [Requester Yashiyu](http://threesgame.web.fc2.com/games_1.html)Author:[Dear 3S](http://threesgame.web.fc2.com/index.html)
 - [PESADILLA](http://hiyokko.sakura.ne.jp/fupbbs/bbs.cgi?mes=v_res&page=1&filenum=47&trview=232)Author: Mr. Nar
 - [Monster violet](http://woshida.web.fc2.com/violet.html)Author:[Mr. Woshida](http://woshida.web.fc2.com/)
 - [Untitled](http://tonyation.web.fc2.com/games/ut/ut_gamepage1.html)Author:[Mr. Tonya](https://twitter.com/_xxxdugong)
@@ -1913,7 +1913,7 @@ Registered: Before 4/5/2012
 - [Waken Arcade](https://www.vector.co.jp/soft/winnt/game/se481731.html)Author:[Mr. Reimonya](http://leimon.web.fc2.com/)
 - [MACHINE SHOCK](https://www.freem.ne.jp/win/game/2249)Author:[Mr. Otokam](http://otokamgarage.web.fc2.com/)
 - [Dark Night History ～Dark history in the dark night～](http://dragonyamiyona.yumenogotoshi.com/homupe/game/dnh/dnh.html)Author:[Dragon hacker](http://dragonyamiyona.yumenogotoshi.com/)
-- [Yassille legend](http://www.geocities.jp/ayatoyuna/sin/Yassilleden.html)Author:[@Atmaak-sama](http://www.geocities.jp/ayatoyuna/sin/)
+- [Yashiyu legend](http://www.geocities.jp/ayatoyuna/sin/Yassilleden.html)Author:[@Atmaak-sama](http://www.geocities.jp/ayatoyuna/sin/)
 
 <a name="GAME_DL_A"></a>
 

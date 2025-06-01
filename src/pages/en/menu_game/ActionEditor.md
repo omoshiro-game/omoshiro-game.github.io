@@ -319,7 +319,7 @@ Action Editor Material Collection
 
 ## AkuEdi Tournament Champion Works Collection
 
-You can download the winning works from the ["AkuEdi Tournament"](/menu_special_bbs/cbbs_actioneditor_c/cbbs.cgi).
+You can download the winning works from the ["AkuEdi Tournament"](/joyful_publicity/joyful/).
 Copyright belongs to each respective creator.
 
 |Month Held|Theme|Creator|DL|

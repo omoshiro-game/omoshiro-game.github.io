@@ -1,11 +1,16 @@
 ---
-title: Umezaka-kun 160k
+title: Umezaka-kun 160k | Game Download | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game Download
-    url: /menu_game/
-  - name: Umezaka-kun 160k
-    url: /menu_game/Umezaka/
+- name: Game Download
+  url: /menu_game/
+- name: Umezaka-kun 160k
+  url: /menu_game/Umezaka/
+h1: Umezaka-kun 160k
+description: Download the pitcher training baseball game "Umezaka-kun 160k" for free. If you're fascinated by baseball, pitching, and fastballs, this is for you!
+og:
+  title: Pitcher Training Baseball Game "Umezaka-kun 160k"
+  description: Download the pitcher training baseball game "Umezaka-kun 160k".
 ---
 
 ## Pitcher Training Baseball Game Umezaka-kun 160k (Free)

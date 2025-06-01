@@ -1,11 +1,21 @@
 ---
-title: ヤシなか2 ソリチュード
+title: ヤシなか2 ソリチュード　|　ゲームのダウンロード　｜　おもしろゲーム神殿
 layout: /src/layouts/Base.astro
 breadcrumb:
 - name: ゲームのダウンロード
   url: /menu_game/
 - name: ヤシなか2 ソリチュード
   url: /menu_game/YashiNaka2Solitude/
+h1: ヤシなか2 ソリチュード
+description: シミュレーションRPG「ヤシなか2 ソリチュード」がダウンロードできます。このゲームでは敵を倒すと再行動できるので倒す順番がカギです。何周でもプレイできます。
+keywords:
+- シミュレーションRPG
+- SRPG
+- おもしろゲーム
+- ダウンロードゲーム
+og:
+  title: シミュレーションRPG「ヤシなか2　ソリチュード」
+  description: シミュレーションRPG「ヤシなか2　ソリチュード」がダウンロードできます。
 ---
 
 ## シミュレーションRPG　ヤシなか2 ソリチュード （無料）

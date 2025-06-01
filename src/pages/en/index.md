@@ -71,7 +71,7 @@ og:
 - -2020/7/2-  <br/>
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver10.00)  
     This version is also applied to sample games.  
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.05)
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.05)
 
     We have finally implemented two functions that have been requested for a long time: a function that allows you to set the picture magnification rate vertically and horizontally separately, and a function that flips horizontally and horizontally.  
     Due to development costs and motivation issues, the possibility of developing Action Editor 5 became low, so we decided to implement these two functions that were scheduled to be implemented in Aquedi 5 in Aquedi 4.
@@ -98,7 +98,7 @@ og:
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.96)
 
     This version is also applied to sample games.  
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.04)
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.04)
 
     ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update (Ver5.25)
 
@@ -109,19 +109,19 @@ og:
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.95)
     
     This version is also applied to sample games.  
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.03) 
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.03) 
     
 - -2019/10/2-  
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.94)
     
     This version is also applied to sample games.  
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.02)
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.02)
     
 - -2019/10/1-  
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.93)
     
     This version is also applied to sample games.  
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.01)
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.01)
     
     Also, in a short period of time, we received two reports of a bug in Action Editor 4 where it was impossible to jump from riding a block character, etc., but I think the cause is due to the following specifications.
     
@@ -143,7 +143,7 @@ og:
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.92)
     
     This version is also applied to sample games.  
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.00)
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver5.00)
     
     As you can see, the update pace of Aquedi 4 is slowing down.  
     There are not enough things that can be implemented or are easy to implement with Aquedi 4, and recently I have been studying and gaining experience with a view to developing Action Editor 5.  
@@ -163,13 +163,13 @@ og:
     This version became the beta version → official version (stable version).
     
     This version is also applied to sample games.  
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver4.90)  
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver4.90)  
     
 - -2019/8/1-  
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.87beta)
     
     This version is also applied to sample games.  
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver4.80)  
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update (Ver4.80)  
     
 - -2019/7/28-  
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.86beta)  
@@ -181,13 +181,13 @@ og:
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.82beta)  
       
     This version is also applied to sample games.    
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.70)  
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.70)  
     
 - -2019/7/16-  
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.81beta)  
       
     This version is also applied to sample games.    
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.60)  
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.60)  
     
 - -2019/7/13-  
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.80beta)  
@@ -230,7 +230,7 @@ og:
      
     
     This version is also applied to sample games.    
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.50)  
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.50)  
     
 - -2019/6/26-  
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.67)  
@@ -263,7 +263,7 @@ og:
     ◆Other, small updates.
     
     This version is also applied to sample games.    
-    ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.40)  
+    ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/)Update of (Ver4.40)  
     
     ["Simulation RPG Editor 2"](/en/menu_game/SRPGEditor2/)Update of (Ver5.21)  
     ◆Game: Implemented "shadowing characters" in the "database" system settings. If you carry over data from an older version to this version, it will be turned off, so please check it if necessary.  
@@ -407,7 +407,7 @@ og:
     ◆Others: Describe the reason why full screen mode (WindowMode=0) is deprecated in the environment configuration file "System.ini" (although full screen has been deprecated for some time). The main reason for its deprecation is that a dialog for selecting a file will be displayed in free mode, replay mode, and when saving replays, but if you switch apps using Alt+Tab, etc. at this time, you will not be able to return to normal.  
     ◆Other details corrected. 
       
-    Sample game ["Yassille's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/) has also been updated to this version (Ver4.30)
+    Sample game ["Yashiyu's Hyper Ultra Action DX"](/en/menu_game/YashiyuNoHyperUltraActionDX/) has also been updated to this version (Ver4.30)
       
       
     I've always thought that a relatively large number of games had the replay function disabled, but I wonder if the first bug (freezing due to file deletion, etc.) was the cause. .. .. I've taken countless replays myself, but I've noticed it late.  
@@ -592,39 +592,39 @@ All pages on this site "Interesting Game Temple ～Let's Create Action Games & S
 
 - -2020/12/24  
     "Action Editor 4" (Update to Ver10.20)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver5.10)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver5.10)  
     
 - -2020/9/26  
     "Action Editor 4" (Update to Ver10.10)  
     
 - -2020/7/2  
     "Action Editor 4" (Update to Ver10.00)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver5.05)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver5.05)  
     
 - -2020/3/9  
     "Action Editor 4" (Update to Ver9.97)  
     
 - -2019/11/9  
     "Action Editor 4" (Update to Ver9.96)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver5.04)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver5.04)  
     "Simulation RPG Editor 2" (Update to Ver5.25)  
     "Simulayre" (Update to Ver4.41)  
     
 - -2019/10/26  
     "Action Editor 4" (Update to Ver9.95)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver5.03)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver5.03)  
     
 - -2019/10/2  
     "Action Editor 4" (Update to Ver9.94)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver5.02)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver5.02)  
     
 - -2019/10/1  
     "Action Editor 4" (Update to Ver9.93)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver5.01)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver5.01)  
     
 - -2019/9/21  
     "Action Editor 4" (Update to Ver9.92)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver5.00)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver5.00)  
     
 - -2019/8/24  
     "Action Editor 4" (Update to Ver9.91)  
@@ -633,11 +633,11 @@ All pages on this site "Interesting Game Temple ～Let's Create Action Games & S
     
 - -2019/8/10  
     "Action Editor 4" (Update to Ver9.88)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver4.90)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver4.90)  
     
 - -2019/8/1  
     "Action Editor 4" (Update to Ver9.87beta)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver4.80)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver4.80)  
     
 - -2019/7/28  
     "Action Editor 4" (Update to Ver9.86beta)  
@@ -647,15 +647,15 @@ All pages on this site "Interesting Game Temple ～Let's Create Action Games & S
     
 - -2019/7/17  
     "Action Editor 4" (Update to Ver9.82beta)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver4.70)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver4.70)  
     
 - -2019/7/16  
     "Action Editor 4" (Update to Ver9.81beta)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver4.60)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver4.60)  
     
 - -2019/7/13  
     "Action Editor 4" (Update to Ver9.80beta)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver4.50)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver4.50)  
     
 - -2019/6/26  
     "Action Editor 4" (Update to Ver9.67)  
@@ -664,7 +664,7 @@ All pages on this site "Interesting Game Temple ～Let's Create Action Games & S
     
 - -2019/6/22  
     "Action Editor 4" (Update to Ver9.66)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver4.40)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver4.40)  
     "Simulation RPG Editor 2" (Update to Ver5.21)  
     "Simulayre" (Update to Ver4.20)  
     
@@ -701,7 +701,7 @@ All pages on this site "Interesting Game Temple ～Let's Create Action Games & S
     
 - -2019/4/15-  
     "Action Editor 4" (Update to Ver9.30)  
-    "Yassille's Hyper Ultra Action DX" (Update to Ver4.30)  
+    "Yashiyu's Hyper Ultra Action DX" (Update to Ver4.30)  
     
 - -2019/4/12-  
     "Action Editor 4" (Update to Ver9.22beta)  

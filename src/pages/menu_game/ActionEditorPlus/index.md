@@ -392,7 +392,7 @@ PCのスペックやエラー情報をレポートファイル「Report.txt」�
 
 ## アクエディ大会の優勝作品集
 
-[「アクエディ大会」](/menu_special_bbs/cbbs_actioneditor_c/cbbs.cgi)の優勝作品をダウンロードできます。  
+[「アクエディ大会」](/joyful_publicity/joyful/)の優勝作品をダウンロードできます。  
 著作権はそれぞれの制作者様にあります。  
 
 |開催月|テーマ|制作者|DL|

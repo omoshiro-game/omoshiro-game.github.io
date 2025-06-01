@@ -1,9 +1,11 @@
 ---
-title: Links
+title: Links | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Links
-    url: /menu_link/
+- name: Links
+  url: /menu_link/
+h1: Links
+description: A collection of links for Omoshiro Game Shrine. Most are game-related sites.
 ---
 
 ## Table of Contents

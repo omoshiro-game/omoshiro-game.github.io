@@ -77,4 +77,4 @@ breadcrumb:
 - [MIDIのダウンロード](/menu_midi/)
 - [管理人へメール](/menu_mail/)
 - [リンク集](/menu_link/)
-- [サイトマップ](/sitemap)
+- [サイトマップ](/sitemap/)
