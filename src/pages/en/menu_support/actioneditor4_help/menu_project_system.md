@@ -90,7 +90,7 @@ Whether to execute the character's "test play-only flow" even when not in test p
 ● Allow replay saving  
 Whether to allow automatic replay saving and manual replay saving via F1/F2 keys, which can be set in options mode.  
 *Automatic saving does not occur during test play.  
-# For details on the replay feature, refer to [About Replay](/en/menu_support/actioneditor4_help/replay/).  
+> For details on the replay feature, refer to [About Replay](/en/menu_support/actioneditor4_help/replay/).  
   
 ● Allow manual replay saving with F1/F2 keys  
 Whether to allow saving replays using the F1 and F2 keys.  
@@ -218,7 +218,7 @@ Action Editor 4 supports two bitmap formats: 256 colors (8-bit) and 16.77 millio
 **Specify which format of bitmap to use here, and unify all images in the "bmp" folder (except "palette.bmp" and "palette2.bmp") to that format.**  
   
 **16.77 million color (24-bit) bitmaps have no color restrictions due to a color palette**, making them easier to draw with than 256-color (8-bit) bitmaps, but they have the drawbacks of larger file sizes and slightly slower loading times.  
-# For bitmap standards, refer to ["Image Standards"](../bmp/index.html).  
+> For bitmap standards, refer to ["Image Standards"](../bmp/index.html).  
   
 Also, when using 256-color (8-bit) bitmaps, you can launch in 8-bit screen mode in DirectDraw mode, but **when using 16.77 million color (24-bit) bitmaps, you cannot launch in 8-bit screen mode even in DirectDraw mode.**  
 In Action Editor 4, the available features and performance vary greatly depending on whether the screen mode is 8-bit or otherwise.  

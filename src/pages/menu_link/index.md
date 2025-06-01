@@ -88,10 +88,10 @@ description: おもしろゲーム神殿のリンク集です。ほとんどが�
   
 
 サイトタイトル：　おもしろゲーム神殿  
-ＵＲＬ：　　　http://omoshiro-game.github.io/  
+ＵＲＬ：　　　https://omoshiro-game.github.io/  
   
 バナー ：↓　※バナーじゃないと困る方のみ使用して下さい（謎）  
 ![](/banner/OGBanner_88_31.gif)（88×31）  
-http://omoshiro-game.github.io/banner/OGBanner_88_31.gif  
+https://omoshiro-game.github.io/banner/OGBanner_88_31.gif  
 ![](/banner/OGBanner_200_40.gif)（200×40）  
-http://omoshiro-game.github.io/banner/OGBanner_200_40.gif
+https://omoshiro-game.github.io/banner/OGBanner_200_40.gif

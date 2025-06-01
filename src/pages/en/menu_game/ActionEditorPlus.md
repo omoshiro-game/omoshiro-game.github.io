@@ -280,40 +280,40 @@ Registered: Before 2015/7/19
 |Battle Against Sins (Tsumi to no Tatakai)|Rekkamaru-sama|[Download](http://www.me.ccnw.ne.jp/retuzan/rekka/download/thumi.html)|
 |Creator's Comment|I personally pursued only difficulty.|   |
 |Game Name|Creator|DL|
-|Whale Legend (Kujira Densetsu)|Shinmetsuryu-sama|[Download](/menu_game/ActionEditorPlus/g12.zip)|
+|Whale Legend (Kujira Densetsu)|Shinmetsuryu-sama|[Download](/soft/ActionEditorPlus/g12.zip)|
 |Creator's Comment|A game where a whale whose village was attacked goes on a journey to destroy the Demon King's army. <br>Traps increase in the latter half.|   |
 |Game Name|Creator|DL|
-|Fall Prelude|Shinmetsuryu-sama|[Download](/menu_game/ActionEditorPlus/g11.zip)|
+|Fall Prelude|Shinmetsuryu-sama|[Download](/soft/ActionEditorPlus/g11.zip)|
 |Creator's Comment|It's easy at first, but difficult later on. <br>I put effort into the bosses.|   |
 |Game Name|Creator|DL|
-|I'll Be Gone on a Journey for a While|Suppon-sama (鼈 is read as Suppon)|[Download](/menu_game/ActionEditorPlus/g10.zip)|
+|I'll Be Gone on a Journey for a While|Suppon-sama (鼈 is read as Suppon)|[Download](/soft/ActionEditorPlus/g10.zip)|
 |Creator's Comment|A game where you use various weapons to go defeat Santa, who killed your parents. <br>It's highly difficult, but becomes easy once you get used to it.|   |
 |Game Name|Creator|DL|
-|Mictor's Journey|Delta-sama|[Download](/menu_game/ActionEditorPlus/g09.zip)|
+|Mictor's Journey|Delta-sama|[Download](/soft/ActionEditorPlus/g09.zip)|
 |Creator's Comment|A game where Mictor, who was being teased, goes on a journey to earn respect. <br>Overall, there are many traps and hidden passages.|   |
 |Game Name|Creator|DL|
-|GARAXY SAVIOUR+|Nob-sama|[Download](/menu_game/ActionEditorPlus/g08.zip)|
+|GARAXY SAVIOUR+|Nob-sama|[Download](/soft/ActionEditorPlus/g08.zip)|
 |Creator's Comment|This is the upgraded version of GARAXY SAVIOUR. Added stage increases, a scoring system, and various other pluses. <br>An Easy Version is also included, so those who aren't good at it, please try.|   |
 |Game Name|Creator|DL|
-|Comical Monster Island Easy|Suppon-sama (鼈 is read as Suppon)|[Download](/menu_game/ActionEditorPlus/g07.zip)|
+|Comical Monster Island Easy|Suppon-sama (鼈 is read as Suppon)|[Download](/soft/ActionEditorPlus/g07.zip)|
 |Creator's Comment|This is the Easy version of Comical Monster Island, which many said became too difficult midway. HP is now 45, and the difficulty should have dropped significantly. Please try playing it.|   |
 |Game Name|Creator|DL|
 |Big Weapon|hikari-sama|[Download](http://1st.geocities.jp/xphikari/souko.html)|
 |Creator's Comment|A game where you proceed using pseudo-weapons. You can use the poorly drawn materials hikari made. It might be tough, but please give it a try.|   |
 |Game Name|Creator|DL|
-|Metallic Core|Rekkamaru-sama|[Download](/menu_game/ActionEditorPlus/g05.zip)|
+|Metallic Core|Rekkamaru-sama|[Download](/soft/ActionEditorPlus/g05.zip)|
 |Creator's Comment|I tried making a game that is not inappropriate and has high difficulty. <br>The true purpose of this game is to get a high score.|   |
 |Game Name|Creator|DL|
-|Stickman's Adventure 2|Delta-sama|[Download](/menu_game/ActionEditorPlus/g04.zip)|
+|Stickman's Adventure 2|Delta-sama|[Download](/soft/ActionEditorPlus/g04.zip)|
 |Creator's Comment|A game where a stickman goes searching for treasure again. <br>It gets progressively harder as the game goes on.|   |
 |Game Name|Creator|DL|
-|GARAXY SAVIOUR Gaiden|Nob-sama|[Download](/menu_game/ActionEditorPlus/g03.zip)|
+|GARAXY SAVIOUR Gaiden|Nob-sama|[Download](/soft/ActionEditorPlus/g03.zip)|
 |Creator's Comment|It's a score attack vertical shooter. <br>The beginning is easy, but the bosses at the end are difficult.|   |
 |Game Name|Creator|DL|
-|Comical Monster Island|Suppon-sama (鼈 is read as Suppon)|[Download](/menu_game/ActionEditorPlus/g02.zip)|
+|Comical Monster Island|Suppon-sama (鼈 is read as Suppon)|[Download](/soft/ActionEditorPlus/g02.zip)|
 |Creator's Comment|A game where you take various monsters with you and conquer stages together. <br>The difficulty suddenly increases midway.|   |
 |Game Name|Creator|DL|
-|Machin krssyu|Delta-sama|[Download](/menu_game/ActionEditorPlus/g01.zip)|
+|Machin krssyu|Delta-sama|[Download](/soft/ActionEditorPlus/g01.zip)|
 |Creator's Comment|A game where Yashiyu pilots a robot and defeats enemies. <br>Defeat the boss waiting in the deepest part to clear the world. (Some places don't have bosses).|   |
 |Game Name|Creator|DL|
 |Ishishi Action: Deshishi's Ambition|[Baka King-sama](http://foolishkingdom.web.fc2.com/)|[Download](http://foolishkingdom.web.fc2.com/game_desisi.html)|
@@ -362,11 +362,11 @@ Copyright belongs to each respective creator.
 |Month Held|Theme|Creator|DL|
 |---|---|---|---|
 |Month Held|Theme|Creator|DL|
-|2007/04|Vertical Scrolling|KasuDon-sama|[Download](/menu_game/ActionEditorPlus/2007_04.stg3p100)|
-|2007/05|Inertia Stage|KasuDon-sama|[Download](/menu_game/ActionEditorPlus/2007_05.stg3p153)|
-|2007/06|Lightweight Bullet Hell Shooter|Toorisugari Sokoneta Hito-sama (Person who failed to pass by-sama)|[Download](/menu_game/ActionEditorPlus/2007_06.stg3p176)|
-|2007/07 <br>2007/08|Story Focused|Fuujin-sama (Wind and Dust-sama)|[Download](/menu_game/ActionEditorPlus/2007_07,08.stg3p200)|
-|2007/09 <br>2007/10 <br>2007/11|Horror|Kagura Nadare-sama (Kagura Avalanche-sama)|[Download](/menu_game/ActionEditorPlus/2007_09,10,11.stg3p230)|
+|2007/04|Vertical Scrolling|KasuDon-sama|[Download](/soft/ActionEditorPlus/2007_04.stg3p100)|
+|2007/05|Inertia Stage|KasuDon-sama|[Download](/soft/ActionEditorPlus/2007_05.stg3p153)|
+|2007/06|Lightweight Bullet Hell Shooter|Toorisugari Sokoneta Hito-sama (Person who failed to pass by-sama)|[Download](/soft/ActionEditorPlus/2007_06.stg3p176)|
+|2007/07 <br>2007/08|Story Focused|Fuujin-sama (Wind and Dust-sama)|[Download](/soft/ActionEditorPlus/2007_07,08.stg3p200)|
+|2007/09 <br>2007/10 <br>2007/11|Horror|Kagura Nadare-sama (Kagura Avalanche-sama)|[Download](/soft/ActionEditorPlus/2007_09,10,11.stg3p230)|
 
 [
 To Top of Page

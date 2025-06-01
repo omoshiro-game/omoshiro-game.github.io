@@ -48,7 +48,7 @@ Conditions for the item to appear.
 ○ Appearance Condition List  
 Multiple conditions can be set.  
 **※If an item is possessed by a character, the appearance conditions are invalid. Meaning the character possesses it from the start.**  
-# For details on setting the appearance condition list, refer to ["Appearance Condition List / Flow Basic Condition (Execution Condition) List Settings"](../cond/).  
+> For details on setting the appearance condition list, refer to ["Appearance Condition List / Flow Basic Condition (Execution Condition) List Settings"](../cond/).  
   
 ○ Evaluation Type  
 How the conditions are ultimately evaluated based on the appearance condition list.  
@@ -104,7 +104,7 @@ Can be specified from the sound effects configured in the database.
 ● Effect  
 The effect obtained when the item is acquired.  
 **It has similar specifications to the "Commands" section in character flows (however, the types of executable commands differ).**  
-# For details on character flows, refer to ["Character Settings"](../chara/#CHARA_4).  
+> For details on character flows, refer to ["Character Settings"](../chara/#CHARA_4).  
 
 [Back to top of page](#TOP)
 

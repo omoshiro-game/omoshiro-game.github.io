@@ -26,7 +26,7 @@ From the "Replay" option on the title screen, you can watch automatically saved 
 Replay files, whether automatically or manually saved, are stored in the "rpl4" folder within the "user_data" folder. Before version 9.30, you could change the save destination for manual saves, but from version 9.50, replay files are no longer displayed in the replay mode playlist unless they are in the "rpl4" folder, so the save destination for manual saves has also been fixed.  
 
 Replay auto-save settings and replay playback settings can be changed from "Options" on the title screen.  
-# For details on game-side replay settings, refer to ["Game Mode Explanation" > "Options"](/en/menu_support/actioneditor4_help/gamemode/#OPTION).  
+> For details on game-side replay settings, refer to ["Game Mode Explanation" > "Options"](/en/menu_support/actioneditor4_help/gamemode/#OPTION).  
 
 Note that you can also turn off the replay function from Main Menu "Project" > "System1".  
 

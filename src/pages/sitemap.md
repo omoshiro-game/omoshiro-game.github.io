@@ -1,18 +1,31 @@
 ---
-title: サイトマップ
+title: サイトマップ　|　おもしろゲーム神殿
+h1: サイトマップ
+description: 「おもしろゲーム神殿～アクションゲーム＆シミュレーションRPGをつくろう～」のサイトマップです
+subtitle: ゲーム制作ソフト、アクションゲーム、シミュレーションRPGなどのフリーソフトを公開！
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: サイトマップ
     url: /sitemap/
+keywords:
+- ゲームサイト
+- おもしろ
+- 無料
+- ゲーム制作
+- ダウンロード
+- フリーソフト
+- アクションゲーム
+- RPG
+- シミュレーション
+- スポーツ
+og:
+  title: サイトマップ　|　おもしろゲーム神殿
+  description: 「おもしろゲーム神殿～アクションゲーム＆シミュレーションRPGをつくろう～」のサイトマップです
 ---
 
 ## サイトマップ
 
 - [おもしろゲーム神殿TOP](/)
-- [ゲームのダウンロード](/menu_game)
-
-
-- [おもしろゲーム神殿TOP](./)
 - [ゲームのダウンロード](/menu_game/)
   - [シミュレーユ](/menu_game/Simulayu/)
   - [ヤシなか2 ソリチュード](/menu_game/YashiNaka2Solitude/)
@@ -25,20 +38,20 @@ breadcrumb:
   - [アクションエディター+](/menu_game/ActionEditorPlus/)
   - [シミュレーションRPGエディター](/menu_game/SRPGEditor/)
   - [アクションエディター](/menu_game/ActionEditor/)
-- [宣伝BBS](/joyful_publicity/joyful)
+- [宣伝BBS](/joyful_publicity/joyful/)
 - [サポート](/menu_support/)
   - [シミュレーションRPGエディター2 ヘルプ](/menu_support/srpgeditor2_help/)
-  - [シミュレーションRPGエディター2 【質問・バグ報告】 BBS](/menu_support/joyful_srpgeditor2_q/joyful)
-  - [シミュレーションRPGエディター2 【要望】 BBS](/menu_support/joyful_srpgeditor2_d/joyful)
+  - [シミュレーションRPGエディター2 【質問・バグ報告】 BBS](/menu_support/joyful_srpgeditor2_q/joyful/)
+  - [シミュレーションRPGエディター2 【要望】 BBS](/menu_support/joyful_srpgeditor2_d/joyful/)
   - [アクションエディター4 ヘルプ](/menu_support/actioneditor4_help/)
   - [アクションエディター4 よくある質問](/menu_support/actioneditor4_qa/)
-  - [アクションエディター4 【質問・バグ報告】 BBS](/menu_support/joyful_actioneditor4_q/joyful)
-  - [アクションエディター4 【要望】 BBS](/menu_support/joyful_actioneditor4_d/joyful)
+  - [アクションエディター4 【質問・バグ報告】 BBS](/menu_support/joyful_actioneditor4_q/joyful/)
+  - [アクションエディター4 【要望】 BBS](/menu_support/joyful_actioneditor4_d/joyful/)
   - [アクションエディター+ よくある質問](/menu_support/actioneditorplus_qa/)
-  - [アクションエディター+ 【質問・バグ報告】 BBS](/menu_support/joyful_actioneditorplus_q/joyful)
+  - [アクションエディター+ 【質問・バグ報告】 BBS](/menu_support/joyful_actioneditorplus_q/joyful/)
   - [シミュレーションRPGエディター よくある質問](/menu_support/srpgeditor_qa/)
-  - [シミュレーションRPGエディター 【質問・バグ報告】 BBS](/menu_support/joyful_srpgeditor_q/joyful)
-  - [その他のゲーム 【質問・バグ報告】 BBS](/menu_support/joyful_others_q/joyful)
+  - [シミュレーションRPGエディター 【質問・バグ報告】 BBS](/menu_support/joyful_srpgeditor_q/joyful/)
+  - [その他のゲーム 【質問・バグ報告】 BBS](/menu_support/joyful_others_q/joyful/)
   - [うめざかくん160k ヘルプ](/menu_support/umezaka_help/)
 - [ゲーム攻略](/menu_game_capture/)
   - [レジェンドオブヤシーユ4 2周目以降の仕組み](/menu_game_capture/yashiyu4_system/)

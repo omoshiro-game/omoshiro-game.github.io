@@ -1,5 +1,6 @@
 ---
 title: 宣伝BBS
+description: このフォームからは投稿できません。
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: サポート

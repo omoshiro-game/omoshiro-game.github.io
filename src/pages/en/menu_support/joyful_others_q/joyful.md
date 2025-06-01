@@ -1,5 +1,6 @@
 ---
 title: Other Games [Questions/Bug Reports] BBS
+description: We’ve moved our community to GitHub for better management and moderation. Please use the appropriate channels below
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Support

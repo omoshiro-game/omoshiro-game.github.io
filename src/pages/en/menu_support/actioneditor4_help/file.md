@@ -117,7 +117,7 @@ Please put replay files in this folder.
 ● "bmp" folder  
 Contains images (.bmp) used by both the editor and the game.  
 The "Unused" folder contains images from older versions.  
-# For image standards, refer to ["Image Standards"](../bmp/).  
+> For image standards, refer to ["Image Standards"](../bmp/).  
   
 ● "e_bmp" folder  
 Contains images (.bmp) used only by the editor.  

@@ -1,9 +1,14 @@
 ---
-title: Game download
+title: Game Download | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game download
-    url: /menu_game/
+- name: Game Download
+  url: /menu_game/
+h1: Game Download
+description: Download fun games for free! A collection of games focused on system and game balance. RPG, Simulation RPG, Sports, etc.
+og:
+  title: Omoshiro Game Shrine Game List
+  description: Download free games such as simulation RPGs, RPGs, and action games, with a focus on system and game balance.
 ---
 
 ## Game List

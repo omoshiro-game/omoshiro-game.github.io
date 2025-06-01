@@ -15,7 +15,7 @@ breadcrumb:
 Images used by both the editor and the game are in the "bmp" folder, while images used only by the editor are in the "e_bmp" folder.  
   
 Action Editor 4 supports two bitmap formats: 256 colors (8-bit) and 16.77 million colors (24-bit).  
-Each format has its pros and cons. # For details, refer to [Main Menu "Project" > "System"](/en/menu_support/actioneditor4_help/menu_project_system/#BMPCOLOR).  
+Each format has its pros and cons. > For details, refer to [Main Menu "Project" > "System"](/en/menu_support/actioneditor4_help/menu_project_system/#BMPCOLOR).  
 You need to specify which bitmap format to use in "Bitmap Color Depth" under Main Menu "Project" > "System", and all images in the "bmp" folder (except "palette.bmp" and "palette2.bmp") must be unified to that format.  
   
 ● About 256-color (8-bit) bitmaps  

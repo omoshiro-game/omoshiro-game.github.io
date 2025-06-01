@@ -1,11 +1,13 @@
 ---
-title: Action Editor 4 Help
+title: Action Editor 4 Help | Support | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Support
-    url: /menu_support/
-  - name: Action Editor 4 Help
-    url: /menu_support/actioneditor4_help/
+- name: Support
+  url: /menu_support/
+- name: Action Editor 4 Help
+  url: /menu_support/actioneditor4_help/
+h1: Action Editor 4 Help
+description: Online help for the action game creation software "Action Editor 4".
 ---
 
 ## Action Editor 4 Help Table of Contents

@@ -1,9 +1,11 @@
 ---
-title: Support
+title: Support | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Support
-    url: /menu_support/
+- name: Support
+  url: /menu_support/
+h1: Support
+description: Provides support for each game and tool on Omoshiro Game Shrine. Feel free to post your questions, bug reports, and requests.
 ---
 
 ## Support
@@ -70,7 +72,7 @@ For feedback, site requests, and other matters please use the [New BBS issues tr
 ~~If you cannot use email, please send through the email form.~~  
   
 ~~[Email without using the email form](mailto:anton@omoshiro-game.github.io "Email to Administrator") (E-mail: anton@omoshiro-game.github.io) *Please note that we may not always be able to reply.~~  
-~~[To Email Form](/en/menu_mail/clipmail_main/clipmail.html) *Replies are not possible.~~  
+~~[To Email Form](/en/menu_mail/) *Replies are not possible.~~  
 
 ---
 

@@ -1,9 +1,14 @@
 ---
-title: Game tools
+title: Game Creation Software | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game tools
-    url: /menu_gametool/
+- name: Game Creation Software
+  url: /menu_gametool/
+h1: Game Creation Software
+description: Download game creation software for free. Easily and enjoyably create action games, shooting games, simulation RPGs, and more.
+og:
+  title: Omoshiro Game Shrine Game Creation Software List
+  description: A list of game creation software. Easily and enjoyably create action games, shooting games, simulation RPGs, and more.
 ---
 
 ## List of game tools software

@@ -38,7 +38,7 @@ Press the X key on the world map to call up the menu and select "Save".
 Example: "stage-1.stg4_*", "stage-2.stg4_*".  
 Then, by specifying the next stage to transition to after clearing the current one with the character or item's "Stage Clear" command, you can have multiple stages within one world.  
   
-# Story Mode settings are configured in [Main Menu "Project" > "System"](../menu_project_system/#SYSTEM_2).  
+> Story Mode settings are configured in [Main Menu "Project" > "System"](../menu_project_system/#SYSTEM_2).  
 
 [Back to top of page](#TOP)
 
@@ -53,7 +53,7 @@ In Challenge Mode, the game is automatically saved every time you clear a world.
 **If you want to play in Challenge Mode, name your stage files as "cW-S.stg4_*" (W...2-digit world number (01-99), S...stage number, *...version).**  
 Example: "c01-1.stg4_*", "c01-2.stg4_*", "c02-1.stg4_*", "c02-2.stg4_*".  
   
-# Challenge Mode settings are configured in [Main Menu "Project" > "System"](../menu_project_system/index.html#SYSTEM_2).  
+> Challenge Mode settings are configured in [Main Menu "Project" > "System"](../menu_project_system/index.html#SYSTEM_2).  
 
 [Back to top of page](#TOP)
 
@@ -64,7 +64,7 @@ Example: "c01-1.stg4_*", "c01-2.stg4_*", "c02-1.stg4_*", "c02-2.stg4_*".
 Selecting "Free" from the title screen enters Free Mode.  
 In Free Mode, you can choose and play any stage file from the "data" > "stg4" folder.  
   
-# Free Mode settings are configured in [Main Menu "Project" > "System"](../menu_project_system/index.html#SYSTEM_2).  
+> Free Mode settings are configured in [Main Menu "Project" > "System"](../menu_project_system/index.html#SYSTEM_2).  
 
 [Back to top of page](#TOP)
 
@@ -76,7 +76,7 @@ Selecting "Replay" from the title screen enters Replay Mode.
 In Replay Mode, you can view replays automatically saved in the "user_data" > "rpl4" folder or replays saved using F1/F2 keys.  
 Before version 9.30, it used an Explorer-like file selection dialog, but from version 9.50, that was abolished and the UI and specifications changed significantly (you can revert to 9.30 or earlier using "Use Explorer-style file selection dialog from versions 9.30 and earlier when selecting files in Free Mode and Replay Mode, and when manually saving replays" in Main Menu "Project" > "System1").  
 From version 9.50, you can play replays in the order of the playlist or play only replays that have cleared the stage. You can change these settings in "Options", which is explained next.  
-# For details on the replay feature, refer to [About Replay](../replay/).  
+> For details on the replay feature, refer to [About Replay](../replay/).  
 
 [Back to top of page](#TOP)
 
@@ -97,7 +97,7 @@ Here you can set game preferences.
 ・"Replay Playback Order" ... Playback order in replay mode. "Sort Order" plays replays in the order of the replay playlist implemented in version 9.50. "Sort Order & Stage Clear Only" only plays replays whose filename ends with "_CLEAR_".  
 ・"Replay Message Auto Advance Seconds" ... How many seconds messages or pictures that are displayed until the Z key is pressed will be shown during replay playback. Note that you can advance messages with the Z key regardless of this setting.  
   
-# For details on the replay feature, refer to [About Replay](../replay/).  
+> For details on the replay feature, refer to [About Replay](../replay/).  
 
 [Back to top of page](#TOP)
 

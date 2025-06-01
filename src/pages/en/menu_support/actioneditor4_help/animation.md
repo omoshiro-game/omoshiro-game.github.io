@@ -19,7 +19,7 @@ Then, specify the created data in the character's "Basic Animation Set" or in mo
 ● Notes on Database "Animation" (Animations not in Basic Animation Set)  
 When specifying an animation created in the database "Animation" for movement or action commands, **only the single "Frame" checked as "Execute Command" in the database "Animation" will be continuously displayed while the command is executing.**  
 **To display frames before "Execute Command", such as preparatory actions like "bracing before firing a shot", you need to set a command (e.g., "Wait") before the relevant command for a duration longer than or equal to the preparatory action time.**  
-# For details, refer to ["Project" > "Database" "Animation"](../menu_project_database/#ANIM).  
+> For details, refer to ["Project" > "Database" "Animation"](../menu_project_database/#ANIM).  
 
 ● When multiple animations are executed simultaneously  
 If a movement command, action command, or "Execute Animation" command with animation set is executed simultaneously, all animations are processed in parallel internally by the program.  

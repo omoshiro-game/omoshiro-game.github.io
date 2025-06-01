@@ -323,21 +323,21 @@ Copyright belongs to each respective creator.
 |Month Held|Theme|Creator|DL|
 |---|---|---|---|
 |Month Held|Theme|Creator|DL|
-|2007/03|None (Freestyle)|ZOO-sama|[Download](/menu_game/ActionEditor/2007_03.stg3_247)|
-|2007/02|Time Stage|Torinoko-sama (Chick-sama)|[Download](/menu_game/ActionEditor/2007_02.stg3_224)|
-|2007/01|Puzzle Stage|Afo-sama|[Download](/menu_game/ActionEditor/2007_01.stg3_222)|
-|2006/12|Visibility Stage|ZOO-sama|[Download](/menu_game/ActionEditor/2006_12.stg3_220)|
-|2006/11|One-Hit Stage|ZOO-sama|[Download](/menu_game/ActionEditor/2006_11.zip)|
-|2006/10|Stress Relief|Rekkamaru-sama|[Download](/menu_game/ActionEditor/2006_10.stg3_209)|
-|2006/09|Single-Screen Stage|ZOO-sama|[Download](/menu_game/ActionEditor/2006_09.stg3_209)|
-|2006/08|Replayability Stage|YAKU-sama|[Download](/menu_game/ActionEditor/2006_08.zip)|
-|2006/07|Normal Action|777-sama|[Download](/menu_game/ActionEditor/2006_07.stg3_198)|
-|2006/06|Running Stage|Rekkamaru-sama|[Download](/menu_game/ActionEditor/2006_06.stg3_197)|
-|2006/05|Giant Boss|KasuDon-sama|[Download](/menu_game/ActionEditor/2006_05.stg3_196)|
-|2006/04|Silly Stage|kusut-sama|[Download](/menu_game/ActionEditor/2006_04.stg3_195)|
-|2006/03|Irritating Stick|RAI-sama|[Download](/menu_game/ActionEditor/2006_03.stg3_186)|
-|2006/02|New Sensation Game|Kazuki-sama|[Download](/menu_game/ActionEditor/2006_02.stg3_174)|
-|2006/01|Bullet Hell Shooter|Kazuki-sama|[Download](/menu_game/ActionEditor/2006_01.stg3_120)|
-|2005/12|Year-End/New Year|RAI-sama|[Download](/menu_game/ActionEditor/2005_12.stg3_105)|
+|2007/03|None (Freestyle)|ZOO-sama|[Download](/soft/ActionEditor/2007_03.stg3_247)|
+|2007/02|Time Stage|Torinoko-sama (Chick-sama)|[Download](/soft/ActionEditor/2007_02.stg3_224)|
+|2007/01|Puzzle Stage|Afo-sama|[Download](/soft/ActionEditor/2007_01.stg3_222)|
+|2006/12|Visibility Stage|ZOO-sama|[Download](/soft/ActionEditor/2006_12.stg3_220)|
+|2006/11|One-Hit Stage|ZOO-sama|[Download](/soft/ActionEditor/2006_11.zip)|
+|2006/10|Stress Relief|Rekkamaru-sama|[Download](/soft/ActionEditor/2006_10.stg3_209)|
+|2006/09|Single-Screen Stage|ZOO-sama|[Download](/soft/ActionEditor/2006_09.stg3_209)|
+|2006/08|Replayability Stage|YAKU-sama|[Download](/soft/ActionEditor/2006_08.zip)|
+|2006/07|Normal Action|777-sama|[Download](/soft/ActionEditor/2006_07.stg3_198)|
+|2006/06|Running Stage|Rekkamaru-sama|[Download](/soft/ActionEditor/2006_06.stg3_197)|
+|2006/05|Giant Boss|KasuDon-sama|[Download](/soft/ActionEditor/2006_05.stg3_196)|
+|2006/04|Silly Stage|kusut-sama|[Download](/soft/ActionEditor/2006_04.stg3_195)|
+|2006/03|Irritating Stick|RAI-sama|[Download](/soft/ActionEditor/2006_03.stg3_186)|
+|2006/02|New Sensation Game|Kazuki-sama|[Download](/soft/ActionEditor/2006_02.stg3_174)|
+|2006/01|Bullet Hell Shooter|Kazuki-sama|[Download](/soft/ActionEditor/2006_01.stg3_120)|
+|2005/12|Year-End/New Year|RAI-sama|[Download](/soft/ActionEditor/2005_12.stg3_105)|
 
 [To Top of Page](#START)

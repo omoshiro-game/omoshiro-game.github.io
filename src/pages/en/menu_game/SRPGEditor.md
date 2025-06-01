@@ -267,10 +267,10 @@ Registered: 2015/7/19
 |Deshishi's Ambition SRPG|[Baka King-sama](http://foolishkingdom.web.fc2.com/)|[Download](http://foolishkingdom.web.fc2.com/game_srpg.html)|
 |Creator's Comment|This is a remake of the Action Editor work "Deshishi's Ambition". <br>Various things have changed compared to the action version.|   |
 |Game Name|Creator|DL|
-|S Simulation|777-sama|[Download](/menu_game/SRPGEditor/g02.zip)|
+|S Simulation|777-sama|[Download](/soft/SRPGEditor/g02.zip)|
 |Creator's Comment|The S is for "Short". <br>As the name implies, it's a very concise creation, and the original data has hardly been changed.|   |
 |Game Name|Creator|DL|
-|Tanpo's Journey: Further Demon Chapter|Chiko-sama|~~[Download](/menu_game/SRPGEditor/g01.zip)~~|
+|Tanpo's Journey: Further Demon Chapter|Chiko-sama|~~[Download](/soft/SRPGEditor/g01.zip)~~|
 |Creator's Comment|This is the first game of 2007 and a sequel to the previous work. I think complete clearing is difficult. <br>※Publication suspended due to certain circumstances. Chiko-sama, please email me ^^; by Admin|   |
 
 ● Registration Conditions (Updated 2007/5/19)
@@ -327,10 +327,10 @@ They can be incorporated into games created with Simulation RPG Editor and distr
 |---|---|---|---|---|---|
 Simulation RPG Editor Material Collection
 |Material Name|Type|Creator|Modification|Use Outside SimuEdi|DL|
-|Venus's Character Collection|Character Images|Venus-sama|○|○|[Download](/menu_game/SRPGEditor/m02.zip)|
+|Venus's Character Collection|Character Images|Venus-sama|○|○|[Download](/soft/SRPGEditor/m02.zip)|
 |Creator's Comment|I drew these for SRPG Editor, but feel free to use them for anything.|   |   |   |   |
 |Material Name|Type|Creator|Modification|Use Outside SimuEdi|DL|
-|Hashibuto Garasu's <br>Weird Effect Collection|Effect Images|[Hashibuto Garasu-sama](http://bloodhouse.hp.infoseek.co.jp/table.htm)|○|○|[Download](/menu_game/SRPGEditor/m01.zip)|
+|Hashibuto Garasu's <br>Weird Effect Collection|Effect Images|[Hashibuto Garasu-sama](http://bloodhouse.hp.infoseek.co.jp/table.htm)|○|○|[Download](/soft/SRPGEditor/m01.zip)|
 |Creator's Comment|I immediately drew a lot of magic effects. <br>(It says use outside SimuEdi is ○, but I don't think there are many situations where you can use them well)|   |   |   |   |
 
 [To Top of Page](#START)

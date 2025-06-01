@@ -22,5 +22,5 @@ description: おもしろゲーム神殿の管理人アントンへメールを�
 
   
 
-~~[メールフォームへ](/menu_mail/clipmail_main/clipmail.html)~~  
+~~[メールフォームへ](/menu_mail/)~~  
 ~~※返信はできません。~~

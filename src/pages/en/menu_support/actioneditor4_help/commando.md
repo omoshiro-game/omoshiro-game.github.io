@@ -194,7 +194,7 @@ Changes animation.
 ・Move Animation ... Becomes "Move" or "Flying Move" from the basic animation set.  
 ・Still Animation ... Becomes "Still" or "Flying" from the basic animation set.  
 ・Other ... If "None (do not change)", it continues the currently executing animation. You can also specify an "Animation" created in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
 
 [Back to top of page](#TOP)
 
@@ -261,7 +261,7 @@ Changes animation.
 ・Move Animation ... Becomes "Move" or "Flying Move" from the basic animation set.  
 ・Still Animation ... Becomes "Still" or "Flying" from the basic animation set.  
 ・Other ... If "None (do not change)", it continues the currently executing animation. You can also specify an "Animation" created in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
 
 [Back to top of page](#TOP)
 
@@ -339,7 +339,7 @@ Changes animation.
 ・Move Animation ... Becomes "Move" or "Flying Move" from the basic animation set.  
 ・Still Animation ... Becomes "Still" or "Flying" from the basic animation set.  
 ・Other ... If "None (do not change)", it continues the currently executing animation. You can also specify an "Animation" created in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
 
 [Back to top of page](#TOP)
 
@@ -434,7 +434,7 @@ Changes animation.
 ・Move Animation ... Becomes "Move" or "Flying Move" from the basic animation set.  
 ・Still Animation ... Becomes "Still" or "Flying" from the basic animation set.  
 ・Other ... If "None (do not change)", it continues the currently executing animation. You can also specify an "Animation" created in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
 
 [Back to top of page](#TOP)
 
@@ -531,7 +531,7 @@ Changes animation.
 ・Move Animation ... Becomes "Move" or "Flying Move" from the basic animation set.  
 ・Still Animation ... Becomes "Still" or "Flying" from the basic animation set.  
 ・Other ... If "None (do not change)", it continues the currently executing animation. You can also specify an "Animation" created in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
 
 [Back to top of page](#TOP)
 
@@ -608,7 +608,7 @@ Changes animation.
 ・Move Animation ... Becomes "Move" or "Flying Move" from the basic animation set.  
 ・Still Animation ... Becomes "Still" or "Flying" from the basic animation set.  
 ・Other ... If "None (do not change)", it continues the currently executing animation. You can also specify an "Animation" created in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
 
 [Back to top of page](#TOP)
 
@@ -649,7 +649,7 @@ If "Face last block hit", if the character's left side last touched a block, it 
 ● Animation  
 Animation during command execution.  
 Can be specified from "Animation" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
   
 ● Sound Effect  
 Sound effect during command execution.  
@@ -691,7 +691,7 @@ The lowest jump.
 ● Animation  
 Animation during command execution.  
 Can be specified from "Animation" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
   
 ● Sound Effect  
 Sound effect during command execution.  
@@ -732,7 +732,7 @@ Note that if multiple objects have the same "Z-coordinate", their display order 
   
 ● Formation  
 This setting determines the basic launch position and movement direction (movement speed) of the shot.  
-# For details on formations, refer to ["Formation Settings"](../formation/). This also explains formation-specific settings.  
+> For details on formations, refer to ["Formation Settings"](../formation/). This also explains formation-specific settings.  
   
 ● Number of Shots  
 The number of shots fired at once.  
@@ -778,7 +778,7 @@ Checking "Invert if right-facing" will invert the sign (+-) of the offset if the
 ● Animation  
 Animation during command execution.  
 Can be specified from "Animation" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
   
 ● Sound Effect  
 Sound effect during command execution.  
@@ -961,7 +961,7 @@ Faction is information used to distinguish between allies and enemies.
 ● Sword Type  
 This determines graphics, execution time, hit detection range, etc.  
 Can be specified from "Sword Type" in the database.  
-# For details on sword types, refer to [Main Menu "Project" > "Database"](../menu_project_database/#SWORDTYPE).  
+> For details on sword types, refer to [Main Menu "Project" > "Database"](../menu_project_database/#SWORDTYPE).  
   
 ● Scale  
 How many times to enlarge the sword.  
@@ -1010,7 +1010,7 @@ Note that if multiple objects have the same "Z-coordinate", their display order 
 ● Animation  
 Animation during command execution.  
 Can be specified from "Animation" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
   
 ● Sound Effect  
 Sound effect during command execution.  
@@ -1064,7 +1064,7 @@ Whether block summon fails if a block-hitting enemy exists at the summon destina
   
 ● Formation  
 This setting determines the basic appearance position of blocks.  
-# For details on formations, refer to ["Formation Settings"](../formation/).  
+> For details on formations, refer to ["Formation Settings"](../formation/).  
   
 ● Number  
 The number of blocks to summon at once.  
@@ -1093,7 +1093,7 @@ Checking "Invert if user is right-facing" will invert the sign (+-) of the offse
 ● Animation  
 Animation during command execution.  
 Can be specified from "Animation" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
   
 ● Sound Effect  
 Sound effect during command execution.  
@@ -1158,7 +1158,7 @@ Checking this prevents enemies that repeatedly summon characters from being expl
   
 ● Formation  
 This setting determines the basic appearance position of characters.  
-# For details on formations, refer to ["Formation Settings"](../formation/).  
+> For details on formations, refer to ["Formation Settings"](../formation/).  
   
 ● Number  
 The number of characters to summon at once.  
@@ -1185,7 +1185,7 @@ Checking "Invert if user is right-facing" will invert the sign (+-) of the offse
 ● Animation  
 Animation during command execution.  
 Can be specified from "Animation" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
   
 ● Sound Effect  
 Sound effect during command execution.  
@@ -1235,7 +1235,7 @@ The time from when the item is summoned until it disappears.
   
 ● Formation  
 This setting determines the basic appearance position of items.  
-# For details on formations, refer to ["Formation Settings"](../formation/).  
+> For details on formations, refer to ["Formation Settings"](../formation/).  
   
 ● Number  
 The number of items to summon at once.  
@@ -1262,7 +1262,7 @@ Checking "Invert if user is right-facing" will invert the sign (+-) of the offse
 ● Animation  
 Animation during command execution.  
 Can be specified from "Animation" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
   
 ● Sound Effect  
 Sound effect during command execution.  
@@ -1288,7 +1288,7 @@ Whether to set a condition.
   
 ○ Condition List  
 Multiple conditions can be set.  
-# For details on setting the condition list, refer to ["Appearance Condition List / Flow Basic Condition (Execution Condition) List Settings"](../cond/).  
+> For details on setting the condition list, refer to ["Appearance Condition List / Flow Basic Condition (Execution Condition) List Settings"](../cond/).  
   
 ○ Evaluation Type  
 How the conditions are ultimately evaluated based on the basic condition list.  
@@ -1797,7 +1797,7 @@ This command is a parallel execution type with an execution time of 0 ("P-0").
 ● Animation Set  
 The character's new basic animation set.  
 Can be specified from "Basic Animation Set" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
 
 [Back to top of page](#TOP)
 
@@ -1815,7 +1815,7 @@ For example, if "Execute Animation" and "Shot" commands are performed simultaneo
 ● Animation  
 The animation to execute.  
 Can be specified from "Animation" in the database.  
-# For details on animation, refer to ["Character Animation"](../animation/).  
+> For details on animation, refer to ["Character Animation"](../animation/).  
   
 ● End this animation  
 Whether to end the animation specified in "Animation" without executing it.  
@@ -2027,7 +2027,7 @@ Whether to make screen color change time instantaneous.
   
 Changes the stage background.  
 This command is a parallel execution type with an execution time of 0 ("P-0").  
-# For details on stage background specifications, refer to [Main Menu "Stage" > "Stage Settings"](../menu_stage_set/#BACK).  
+> For details on stage background specifications, refer to [Main Menu "Stage" > "Stage Settings"](../menu_stage_set/#BACK).  
   
 ● Background Number  
 The background number to be changed (which background in the stage background list).  

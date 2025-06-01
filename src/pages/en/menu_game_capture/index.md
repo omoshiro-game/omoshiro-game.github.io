@@ -1,9 +1,11 @@
 ---
-title: Game Walkthrough
+title: Game Walkthrough | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game Walkthrough
-    url: /menu_game_capture/
+- name: Game Walkthrough
+  url: /menu_game_capture/
+h1: Game Walkthrough
+description: This is a collection of game walkthroughs and data. We primarily feature data and strategy information for highly requested games.
 ---
 
 ## Game Walkthrough Table of Contents

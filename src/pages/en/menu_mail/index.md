@@ -1,9 +1,11 @@
 ---
-title: Email to administrator
+title: Email to Administrator | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Email to administrator
-    url: /menu_mail/
+- name: Email to Administrator
+  url: /menu_mail/
+h1: Email to Administrator
+description: Send an email to Anton, the administrator of Omoshiro Game Shrine. We accept game feedback, mutual link requests, and more.
 ---
  
 ## Email admin
@@ -19,5 +21,5 @@ For feedback, site requests, and other matters please use the [New BBS issues tr
  
    
  
-~~[Go to email form](/en/menu_mail/clipmail_main/clipmail.html)~~  
+~~[Go to email form](/en/menu_mail/)~~  
 ~~*Reply is not possible.~~

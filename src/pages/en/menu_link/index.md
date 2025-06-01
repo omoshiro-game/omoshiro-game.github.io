@@ -88,13 +88,13 @@ Also, all pages on "Omoshiro Game Shrine" are link-free.
 Game introductions and strategy guides are also very welcome.  
 
 Site Title: Omoshiro Game Shrine  
-URL: http://omoshiro-game.github.io/  
+URL: https://omoshiro-game.github.io/  
 
 Banner :↓ *Please only use if a banner is necessary (mystery)  
 
 ![](/banner/OGBanner_88_31.gif) (88x31)  
-http://omoshiro-game.github.io/banner/OGBanner_88_31.gif  
+https://omoshiro-game.github.io/banner/OGBanner_88_31.gif  
 
 ![](/banner/OGBanner_200_40.gif) (200x40)  
-http://omoshiro-game.github.io/banner/OGBanner_200_40.gif
+https://omoshiro-game.github.io/banner/OGBanner_200_40.gif
 

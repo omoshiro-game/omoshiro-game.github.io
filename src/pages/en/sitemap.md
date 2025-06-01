@@ -1,9 +1,26 @@
 ---
-title: Sitemap
+title: Sitemap | Omoshiro Game Shrine
+h1: Sitemap
+description: This is the sitemap for "Omoshiro Game Shrine ~Let's Create Action Games & Simulation RPGs~"
+subtitle: Free software such as game creation software, action games, simulation RPGs, and more are available for download!
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Sitemap
     url: /sitemap/
+keywords:
+- game site
+- fun
+- free
+- game creation
+- download
+- freeware
+- action game
+- RPG
+- simulation
+- sports
+og:
+  title: Sitemap | Omoshiro Game Shrine
+  description: This is the sitemap for "Omoshiro Game Shrine ~Let's Create Action Games & Simulation RPGs~"
 ---
 
 ## Sitemap
@@ -21,20 +38,20 @@ breadcrumb:
   - [Action Editor＋](/en/menu_game/ActionEditorPlus/)
   - [Simulation RPG Editor](/en/menu_game/SRPGEditor/)
   - [Action Editor](/en/menu_game/ActionEditor/)
-- [Promotion BBS](/joyful_publicity/joyful)
+- [Promotion BBS](/joyful_publicity/joyful/)
 - [Support](/en/menu_support/)
   - [Simulation RPG Editor 2 Help](/en/menu_support/srpgeditor2_help/)
-  - [Simulation RPG Editor 2 Q&A & Bug Reports BBS](/en/menu_support/joyful_srpgeditor2_q/joyful)
-  - [Simulation RPG Editor 2 Feature Requests BBS](/en/menu_support/joyful_srpgeditor2_d/joyful)
+  - [Simulation RPG Editor 2 Q&A & Bug Reports BBS](/en/menu_support/joyful_srpgeditor2_q/joyful/)
+  - [Simulation RPG Editor 2 Feature Requests BBS](/en/menu_support/joyful_srpgeditor2_d/joyful/)
   - [Action Editor 4 Help](/en/menu_support/actioneditor4_help/)
   - [Action Editor 4 FAQ](/en/menu_support/actioneditor4_qa/)
-  - [Action Editor 4 Q&A & Bug Reports BBS](/en/menu_support/joyful_actioneditor4_q/joyful)
-  - [Action Editor 4 Feature Requests BBS](/en/menu_support/joyful_actioneditor4_d/joyful)
+  - [Action Editor 4 Q&A & Bug Reports BBS](/en/menu_support/joyful_actioneditor4_q/joyful/)
+  - [Action Editor 4 Feature Requests BBS](/en/menu_support/joyful_actioneditor4_d/joyful/)
   - [Action Editor＋ FAQ](/en/menu_support/actioneditorplus_qa/)
-  - [Action Editor＋ Q&A & Bug Reports BBS](/en/menu_support/joyful_actioneditorplus_q/joyful)
+  - [Action Editor＋ Q&A & Bug Reports BBS](/en/menu_support/joyful_actioneditorplus_q/joyful/)
   - [Simulation RPG Editor FAQ](/en/menu_support/srpgeditor_qa/)
-  - [Simulation RPG Editor Q&A & Bug Reports BBS](/en/menu_support/joyful_srpgeditor_q/joyful)
-  - [Other Games Q&A & Bug Reports BBS](/en/menu_support/joyful_others_q/joyful)
+  - [Simulation RPG Editor Q&A & Bug Reports BBS](/en/menu_support/joyful_srpgeditor_q/joyful/)
+  - [Other Games Q&A & Bug Reports BBS](/en/menu_support/joyful_others_q/joyful/)
   - [Umezaka-kun 160k Help](/en/menu_support/umezaka_help/)
 - [Game Walkthroughs](/en/menu_game_capture/)
   - [Legend of Yashiyu 4: Post-Second Playthrough Mechanics](/en/menu_game_capture/yashiyu4_system/)

@@ -42,7 +42,7 @@ Ctrl + V ... Paste
 Ctrl + I ... New  
 Delete ... Delete  
   
-# For special operations in the stage window, refer to [Stage Editing > Special Operations in Stage Window](/en/menu_support/actioneditor4_help/stage/#TOKUSYUSOUSA).  
+> For special operations in the stage window, refer to [Stage Editing > Special Operations in Stage Window](/en/menu_support/actioneditor4_help/stage/#TOKUSYUSOUSA).  
 
 [Back to top of page](#TOP)
 

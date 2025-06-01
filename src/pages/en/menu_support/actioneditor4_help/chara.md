@@ -61,7 +61,7 @@ Conditions for the character to appear.
   
 ○ Appearance Condition List  
 Multiple conditions can be set.  
-# For details on setting the appearance condition list, refer to ["Appearance Condition List / Flow Basic Condition (Execution Condition) List Settings"](../cond/).  
+> For details on setting the appearance condition list, refer to ["Appearance Condition List / Flow Basic Condition (Execution Condition) List Settings"](../cond/).  
   
 ○ Evaluation Type  
 How the conditions are ultimately evaluated based on the appearance condition list.  
@@ -422,7 +422,7 @@ Flow execution conditions.
   
 ○ Condition List  
 Multiple conditions can be set.  
-# For details on setting the basic condition list, refer to ["Appearance Condition List / Flow Basic Condition (Execution Condition) List Settings"](../cond/).  
+> For details on setting the basic condition list, refer to ["Appearance Condition List / Flow Basic Condition (Execution Condition) List Settings"](../cond/).  
   
 ○ Evaluation Type  
 How the conditions are ultimately evaluated based on the basic condition list.  

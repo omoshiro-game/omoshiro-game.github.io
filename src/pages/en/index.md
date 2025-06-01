@@ -1,8 +1,19 @@
 ---
-title: Home
+title: Omoshiro Game Shrine ~Let's Make Action Games & Simulation RPGs~
+h1: Omoshiro Game Shrine
 subtitle: "Create Action Games & Simulation RPGs"
+description: Create fun games and release them for free! Download action game & simulation RPG creation software (tools), SRPGs and RPGs focused on system and game balance, and more.
 layout: /src/layouts/Base.astro
 breadcrumb: []
+keywords:
+- Action Game
+- Simulation RPG
+- Downloadable Games
+- Game Development
+- Creation
+og:
+  title: Omoshiro Game Shrine ~Let's Make Action Games & Simulation RPGs~
+  description: Free software such as game creation software, action games, and simulation RPGs are available for download!
 ---
 
 ## Recent Updates
@@ -387,7 +398,7 @@ breadcrumb: []
     If you carry over data from an older version to this version, the newly added options "Replay autosave", "Replay playback order", and "Replay message autoprogress seconds" will be hidden. and when selecting files for "Free mode and Replay mode" in the system settings Use the Explorer-like file selection dialog version 9.30 or earlier when manually saving replays is also enabled (though not recommended). The other settings also behave as unchanged as possible from the previous version, so if you want to use the functions implemented this time, you will need to change various settings in "Project" ＞ "System" from the main menu. 
     
 - -2019/5/4-  
-    [Form email](/en/menu_mail/clipmail_main/clipmail.html) set the character limit for messages from 150 characters to 500 characters.  
+    [Form email](/en/menu_mail/) set the character limit for messages from 150 characters to 500 characters.  
     
 - -2019/4/15-  
     ["Action Editor 4"](/en/menu_game/ActionEditor4/)Update of (Ver9.30)  
@@ -416,7 +427,7 @@ breadcrumb: []
     
 - -2019/4/7-  
     Updated "Support" page (for the first time in years...)  
-    [Form email](/en/menu_mail/clipmail_main/clipmail.html)**We have resumed accepting requests for "Action Editor 4"**!  
+    [Form email](/en/menu_mail/)**We have resumed accepting requests for "Action Editor 4"**!  
     Your request won’t necessarily come true with Aquedi‘4’.’ It's a double-chance method that could be achieved with 5." If I had to make a 5.  
     ***Please tell us not only the content of the desired function, but also the reason why you want that function (what you want to achieve with that function, etc.)**  
     

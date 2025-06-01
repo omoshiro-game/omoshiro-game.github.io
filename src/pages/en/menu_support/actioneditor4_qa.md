@@ -1,13 +1,25 @@
 ---
-title: Action Editor 4 FAQ
+title: Action Editor 4 FAQ | Support | Omoshiro Game Shrine
+h1: Action Editor 4 FAQ
+description: Frequently asked questions for the action game creation software "Action Editor 4".
+subtitle: Frequently asked questions for the action game creation software "Action Editor 4".
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Support
     url: /menu_support/
   - name: Action Editor 4 FAQ
     url: /menu_support/actioneditor4_qa/
+keywords:
+- Action Editor
+- Action Editor 4
+- Action Game
+- Creation Software
+- Tool
+- Fun Game
+- Free Game
+- Game
+- Support
 ---
-
 <a name="START"></a>
 
 ## Action Editor 4 FAQ Table of Contents

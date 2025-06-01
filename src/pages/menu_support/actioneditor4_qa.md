@@ -1,11 +1,25 @@
 ---
-title: アクションエディター4 よくある質問
+title: アクションエディター4 よくある質問　|　サポート　｜　おもしろゲーム神殿
+h1: アクションエディター4 よくある質問
+description: アクションゲーム制作ソフト「アクションエディター4」のよくある質問です。
+subtitle: アクションゲーム制作ソフト「アクションエディター4」のよくある質問です。
+
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: サポート
     url: /menu_support/
   - name: アクションエディター4 よくある質問
     url: /menu_support/actioneditor4_qa/
+keywords:
+- アクションエディター
+- アクションエディター4
+- アクションゲーム
+- 制作ソフト
+- ツール
+- おもしろゲーム
+- 無料ゲーム
+- ゲーム
+- サポート
 ---
 
 <a name="START"></a>

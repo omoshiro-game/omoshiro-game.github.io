@@ -9,10 +9,6 @@ breadcrumb:
 ## サイトマップ
 
 - [おもしろゲーム神殿TOP](/)
-- [ゲームのダウンロード](/menu_game)
-
-
-- [おもしろゲーム神殿TOP](./)
 - [ゲームのダウンロード](/menu_game/)
   - [シミュレーユ](/menu_game/Simulayu/)
   - [ヤシなか2 ソリチュード](/menu_game/YashiNaka2Solitude/)

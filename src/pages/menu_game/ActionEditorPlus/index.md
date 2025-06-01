@@ -310,40 +310,40 @@ PCのスペックやエラー情報をレポートファイル「Report.txt」�
 |ツミトノタタカイ|列火丸様|[ダウンロード](http://www.me.ccnw.ne.jp/retuzan/rekka/download/thumi.html)|
 |制作者のコメント|難しさだけを個人的に追求しました。|   |
 |ゲーム名|制作者|DL|
-|くじら伝説|神滅龍様|[ダウンロード](/menu_game/ActionEditorPlus/g12.zip)|
+|くじら伝説|神滅龍様|[ダウンロード](/soft/ActionEditorPlus/g12.zip)|
 |制作者のコメント|村を攻撃されたくじらが魔王軍を滅ぼす為、旅に出るゲームです。  <br>後半になるとワナが増えていきます。|   |
 |ゲーム名|制作者|DL|
-|Fall Prelude|神滅龍様|[ダウンロード](/menu_game/ActionEditorPlus/g11.zip)|
+|Fall Prelude|神滅龍様|[ダウンロード](/soft/ActionEditorPlus/g11.zip)|
 |制作者のコメント|最初は簡単ですが、後々難しいです。  <br>ボスは工夫しました。|   |
 |ゲーム名|制作者|DL|
-|暫く、旅に行って参ります|鼈様（「鼈」はすっぽんと読みます）|[ダウンロード](/menu_game/ActionEditorPlus/g10.zip)|
+|暫く、旅に行って参ります|鼈様（「鼈」はすっぽんと読みます）|[ダウンロード](/soft/ActionEditorPlus/g10.zip)|
 |制作者のコメント|様々な武器を使って両親を殺したサンタを倒しにいくゲームです。  <br>高難易度ですが、慣れると簡単になります。|   |
 |ゲーム名|制作者|DL|
-|ミクトルの旅|デルタ様|[ダウンロード](/menu_game/ActionEditorPlus/g09.zip)|
+|ミクトルの旅|デルタ様|[ダウンロード](/soft/ActionEditorPlus/g09.zip)|
 |制作者のコメント|からかわれていたミクトルが見返す為、旅に出るゲームです。  <br>全体的に罠や隠し通路などが多めです。|   |
 |ゲーム名|制作者|DL|
-|GARAXY SAVIOUR+|Nob様|[ダウンロード](/menu_game/ActionEditorPlus/g08.zip)|
+|GARAXY SAVIOUR+|Nob様|[ダウンロード](/soft/ActionEditorPlus/g08.zip)|
 |制作者のコメント|GARAXY SAVIOURのグレードアップ版です。ステージ増加･得点システム追加など、色々プラスしました。  <br>Easy Version(簡単版)も同梱してあるので苦手な方もどうぞ。|   |
 |ゲーム名|制作者|DL|
-|コミカルモンスターアイランドEasy|鼈様（「鼈」はすっぽんと読みます）|[ダウンロード](/menu_game/ActionEditorPlus/g07.zip)|
+|コミカルモンスターアイランドEasy|鼈様（「鼈」はすっぽんと読みます）|[ダウンロード](/soft/ActionEditorPlus/g07.zip)|
 |制作者のコメント|難易度が途中から上がりすぎとの声が多かったコミカルモンスターアイランドのEasy版です。HPが45になり、グっと難易度が下がったはずです。是非プレイしてみてください。|   |
 |ゲーム名|制作者|DL|
 |ビッグウエポン|hikari様|[ダウンロード](http://1st.geocities.jp/xphikari/souko.html)|
 |制作者のコメント|擬似武器を使って進むゲームです。hikariの描いたど下手素材は使ってもいいです。ムズイかもしれませんが、やってみてください。|   |
 |ゲーム名|制作者|DL|
-|メタリック・コア|列火丸様|[ダウンロード](/menu_game/ActionEditorPlus/g05.zip)|
+|メタリック・コア|列火丸様|[ダウンロード](/soft/ActionEditorPlus/g05.zip)|
 |制作者のコメント|不適切でないかつ高難易度のゲームを作ってみました。  <br>このゲームは、高得点を得るのが真の目的です。|   |
 |ゲーム名|制作者|DL|
-|棒人間の冒険2|デルタ様|[ダウンロード](/menu_game/ActionEditorPlus/g04.zip)|
+|棒人間の冒険2|デルタ様|[ダウンロード](/soft/ActionEditorPlus/g04.zip)|
 |制作者のコメント|棒人間がまた宝を探しに行くゲーム。  <br>ゲームが進むに連れ、どんどん難しくなっていきます。|   |
 |ゲーム名|制作者|DL|
-|GARAXY SAVIOUR外伝|Nob様|[ダウンロード](/menu_game/ActionEditorPlus/g03.zip)|
+|GARAXY SAVIOUR外伝|Nob様|[ダウンロード](/soft/ActionEditorPlus/g03.zip)|
 |制作者のコメント|スコアアタック縦シューティングです。  <br>序盤は簡単ですが終盤のボスは難しいです。|   |
 |ゲーム名|制作者|DL|
-|コミカルモンスターアイランド|鼈様（「鼈」はすっぽんと読みます）|[ダウンロード](/menu_game/ActionEditorPlus/g02.zip)|
+|コミカルモンスターアイランド|鼈様（「鼈」はすっぽんと読みます）|[ダウンロード](/soft/ActionEditorPlus/g02.zip)|
 |制作者のコメント|様々なモンスターを連れていっしょにステージを攻略していくゲームです。  <br>途中で急に難易度が上がります。|   |
 |ゲーム名|制作者|DL|
-|Machin krssyu|デルタ様|[ダウンロード](/menu_game/ActionEditorPlus/g01.zip)|
+|Machin krssyu|デルタ様|[ダウンロード](/soft/ActionEditorPlus/g01.zip)|
 |制作者のコメント|ヤシーユがロボットを操縦し、敵を倒して行くゲームです。  <br>最深部に待ち受けるボスを倒せばワールドクリアです。(ボスがいない所もあります）|   |
 |ゲーム名|制作者|DL|
 |イシシアクション　デシシのやぼう|[バカ・キング様](http://foolishkingdom.web.fc2.com/)|[ダウンロード](http://foolishkingdom.web.fc2.com/game_desisi.html)|
@@ -388,11 +388,11 @@ PCのスペックやエラー情報をレポートファイル「Report.txt」�
 |開催月|テーマ|制作者|DL|
 |---|---|---|---|
 |開催月|テーマ|制作者|DL|
-|2007/04|縦スクロール|カス丼様|[ダウンロード](/menu_game/ActionEditorPlus/2007_04.stg3p100)|
-|2007/05|慣性ステージ|カス丼様|[ダウンロード](/menu_game/ActionEditorPlus/2007_05.stg3p153)|
-|2007/06|動作軽快弾幕シューティング|通りすがり損ねた人様|[ダウンロード](/menu_game/ActionEditorPlus/2007_06.stg3p176)|
-|2007/07  <br>2007/08|ストーリー重視|風塵様|[ダウンロード](/menu_game/ActionEditorPlus/2007_07,08.stg3p200)|
-|2007/09  <br>2007/10  <br>2007/11|ホラー|神楽雪崩様|[ダウンロード](/menu_game/ActionEditorPlus/2007_09,10,11.stg3p230)|
+|2007/04|縦スクロール|カス丼様|[ダウンロード](/soft/ActionEditorPlus/2007_04.stg3p100)|
+|2007/05|慣性ステージ|カス丼様|[ダウンロード](/soft/ActionEditorPlus/2007_05.stg3p153)|
+|2007/06|動作軽快弾幕シューティング|通りすがり損ねた人様|[ダウンロード](/soft/ActionEditorPlus/2007_06.stg3p176)|
+|2007/07  <br>2007/08|ストーリー重視|風塵様|[ダウンロード](/soft/ActionEditorPlus/2007_07,08.stg3p200)|
+|2007/09  <br>2007/10  <br>2007/11|ホラー|神楽雪崩様|[ダウンロード](/soft/ActionEditorPlus/2007_09,10,11.stg3p230)|
 
 [  
 このページの先頭へ  

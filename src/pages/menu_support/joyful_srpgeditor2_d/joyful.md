@@ -1,5 +1,6 @@
 ---
 title: シミュレーションRPGエディター2 【要望】 BBS
+description: 数年ぶりにBBSをGitHubへ移行しました。今後はこちらで運営・管理を行いますので、ご協力をお願いいたします。
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: サポート

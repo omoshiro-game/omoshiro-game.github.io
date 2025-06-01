@@ -33,7 +33,7 @@ The stage consists of three layers: blocks, characters, and items, with only ite
 ● 2. Scroll Limit Line  
 **The green line represents the scrollable area and is called the "scroll limit line."**  
 The parts outside this line will not be displayed in the game.  
-# For scrollable area settings, refer to [Main Menu "Stage" > "Stage Settings"](/en/menu_support/actioneditor4_help/menu_stage_set/index.html#SCROLLRANGE).  
+> For scrollable area settings, refer to [Main Menu "Stage" > "Stage Settings"](/en/menu_support/actioneditor4_help/menu_stage_set/index.html#SCROLLRANGE).  
   
 ● 3. Position Confirmation Line  
 **The four red lines crossing in the center of the window are called "position confirmation lines."  
@@ -58,7 +58,7 @@ You can change the data to be placed on the stage and the pen, or edit the stage
 ● 8. Group Window  
 Used group numbers in the stage are visible at a glance.  
 Used numbers (buttons) are indented.  
-# For group details, refer to ["Character Settings"](/en/menu_support/actioneditor4_help/chara/#GROUP).  
+> For group details, refer to ["Character Settings"](/en/menu_support/actioneditor4_help/chara/#GROUP).  
 
 [Back to top of page](#TOP)
 
