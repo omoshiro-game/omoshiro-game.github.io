@@ -1,11 +1,24 @@
 ---
-title: Umezaka-kun 160k Help
+title: Umezaka-kun 160k Help | Support | Omoshiro Game Shrine
+h1: Umezaka-kun 160k Help
+description: Online help for the pitcher training baseball game "Umezaka-kun 160k".
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Support
     url: /menu_support/
   - name: Umezaka-kun 160k Help
     url: /menu_support/umezaka_help/
+keywords: 
+- Umezaka-kun 160k
+- Baseball
+- Pitcher
+- Training
+- Data
+- Records
+- Help
+- Fun
+- Free
+- Game
 ---
 
 <a name="TOP"></a>

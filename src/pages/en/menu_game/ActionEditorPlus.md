@@ -1,11 +1,21 @@
 ---
-title: Action Editor+
+title: Action Editor+ | Game Creation Software | Omoshiro Game Shrine
+h1: Action Editor+
+description: Action game creation software "Action Editor+"! Mainly creates 2D scrolling action games (jump action) and shooting games. Fun and easy to create.
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game tools
-    url: /menu_gametool/
-  - name: Action Editor+
-    url: /menu_game/ActionEditorPlus/
+- name: Game Creation Software
+  url: /menu_gametool/
+- name: Action Editor+
+  url: /menu_game/ActionEditorPlus/
+keywords: 
+- Game Creation
+- Easy
+- Free
+- Action Game
+og:
+  title: Action Game Creation Software "Action Editor+"
+  description: Download the action game creation software "Action Editor+".
 ---
 
 <a name="START"></a>

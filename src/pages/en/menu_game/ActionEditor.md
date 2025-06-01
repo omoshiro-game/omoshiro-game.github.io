@@ -1,11 +1,13 @@
 ---
-title: Action editor
+title: Action Editor | Game Creation Software | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game tools
-    url: /menu_gametool/
-  - name: Action editor
-    url: /menu_game/ActionEditor/
+- name: Game Creation Software
+  url: /menu_gametool/
+- name: Action Editor
+  url: /menu_game/ActionEditor/
+h1: Action Editor
+description: Free action game creation software "Action Editor"! You can create not only action games but also STG (shooting games). Easily and enjoyably create games.
 ---
 
 <a name="START"></a>
@@ -181,13 +183,13 @@ All are freeware (free).
 |---|---|---|
 Action Editor Game Collection
 |Game Name|Creator|DL|
-|DY Recovery Project (Easy Version)|ZOO-sama|[Download](/menu_game/ActionEditor/g22.zip)|
+|DY Recovery Project (Easy Version)|ZOO-sama|[Download](/soft/ActionEditor/g22.zip)|
 |Creator's Comment|This is the easy version of DY. I think it's become considerably easier compared to before... probably.|   |
 |Game Name|Creator|DL|
 |Tanpo's Journey: Evil Power Chapter|[Chiko-sama](http://www.geocities.jp/takahidechikorin/)|[Download](http://www.geocities.jp/takahidechikorin/aku.html)|
 |Creator's Comment|I wonder how many days it took to release... more importantly, please do your best to completely clear it! <br>It's easy at first, and gets harder as the story progresses.|   |
 |Game Name|Creator|DL|
-|Iron Castle|Nasu-sama|[Download](/menu_game/ActionEditor/g21.zip)|
+|Iron Castle|Nasu-sama|[Download](/soft/ActionEditor/g21.zip)|
 |Creator's Comment|It's a game I made casually, but I'd be happy if you played it.|   |
 |Game Name|Creator|DL|
 |Fly Away Yashiyu: Until Your Strength Runs Out <br>Easy Version|[Kazuki-sama](http://www3.tok2.com/home/kazukikazuki2/)|[Download](http://www3.tok2.com/home/kazukikazuki2/daunro-do.htm)|
@@ -196,43 +198,43 @@ Action Editor Game Collection
 |Fly Away Yashiyu: Until Your Strength Runs Out|[Kazuki-sama](http://www3.tok2.com/home/kazukikazuki2/)|[Download](http://www3.tok2.com/home/kazukikazuki2/daunro-do.htm)|
 |Creator's Comment|Rip-off game is doneー(^o^)ノ <br>Now, try your best to clear it!! (broken|   |
 |Game Name|Creator|DL|
-|DY Recovery Project|ZOO-sama|[Download](/menu_game/ActionEditor/g20.zip)|
+|DY Recovery Project|ZOO-sama|[Download](/soft/ActionEditor/g20.zip)|
 |Creator's Comment|A huge version with a total of 12 normal worlds and 11 extra stages, based on a third-rate story. Please take a quick look at "☆★Read Me First★☆" before playing.|   |
 |Game Name|Creator|DL|
-|GARAXY SAVIOUR -ASSAILANT-|Nob-sama|[Download](/menu_game/ActionEditor/g19.zip)|
+|GARAXY SAVIOUR -ASSAILANT-|Nob-sama|[Download](/soft/ActionEditor/g19.zip)|
 |Creator's Comment|A shooter with a slight emphasis on scenario. The difficulty is a bit high. <br>It's a different perspective on GARAXY SAVIOUR, but you don't need to have played the previous game.|   |
 |Game Name|Creator|DL|
-|Battle Arena!|KasuDon-sama|[Download](/menu_game/ActionEditor/g18.zip)|
+|Battle Arena!|KasuDon-sama|[Download](/soft/ActionEditor/g18.zip)|
 |Creator's Comment|A boss rush game where Yashiyu fights for money. <br>And a shadow creeping into that tournament... In short, it's a silly game (lol|   |
 |Game Name|Creator|DL|
-|GALAXY SAVIOR|Nob-sama|[Download](/menu_game/ActionEditor/g17.zip)|
+|GALAXY SAVIOR|Nob-sama|[Download](/soft/ActionEditor/g17.zip)|
 |Creator's Comment|A horizontal shooter slightly similar to a certain famous shooting game. <br>Some materials may be used. (See Readme for details)|   |
 |Game Name|Creator|DL|
-|Purot Basutar|Delta-sama|[Download](/menu_game/ActionEditor/g16.zip)|
+|Purot Basutar|Delta-sama|[Download](/soft/ActionEditor/g16.zip)|
 |Creator's Comment|A game where Yashiyu pilots a robot and defeats mass-produced machines created by Santa.|   |
 |Game Name|Creator|DL|
-|Santa's Counterattack|Delta-sama|[Download](/menu_game/ActionEditor/g15.zip)|
+|Santa's Counterattack|Delta-sama|[Download](/soft/ActionEditor/g15.zip)|
 |Creator's Comment|A game where Santa goes to defeat Yashiyu.|   |
 |Game Name|Creator|DL|
-|Stickman's Adventure|Delta-sama|[Download](/menu_game/ActionEditor/g14.zip)|
+|Stickman's Adventure|Delta-sama|[Download](/soft/ActionEditor/g14.zip)|
 |Creator's Comment|A game where a stickman travels in search of treasure. <br>The difficulty is normal.|   |
 |Game Name|Creator|DL|
-|Yashiyu VS Dark Yashiyu|Delta-sama|[Download](/menu_game/ActionEditor/g13.zip)|
+|Yashiyu VS Dark Yashiyu|Delta-sama|[Download](/soft/ActionEditor/g13.zip)|
 |Creator's Comment|A game where Yashiyu goes to the Demon King's castle and defeats the Demon King. The difficulty is high. <br>Many places have a lot of stages, but please do your best to clear them.|   |
 |Game Name|Creator|DL|
 |Machine Castle|[Rizard-sama](http://hp25.0zero.jp/458/tll26k/)|[Download](http://www.geocities.jp/riza_rudo/Kikaijyo.html)|
 |Creator's Comment|A game with a story about stopping a runaway robot. <br>Some people might not even take 30 minutes to clear it, so it's recommended for those with little time.|   |
 |Game Name|Creator|DL|
-|Yashiyu Party|Afo-sama|[Download](/menu_game/ActionEditor/g12.zip)|
+|Yashiyu Party|Afo-sama|[Download](/soft/ActionEditor/g12.zip)|
 |Creator's Comment|I aim to make it a regular year-end software!|   |
 |Game Name|Creator|DL|
-|Legend Wars|Rion-sama|[Download](/menu_game/ActionEditor/g10.zip)|
+|Legend Wars|Rion-sama|[Download](/soft/ActionEditor/g10.zip)|
 |Creator's Comment|The latter half is just plain difficult. The story is what it is, but please try playing it. <br>Also, only the red-haired swordsman protagonist can be used. (← Seems to refer to the art, by Admin)|   |
 |Game Name|Creator|DL|
-|Legend of Yashiyu|Rekkamaru-sama|[Download](/menu_game/ActionEditor/g09.zip)|
+|Legend of Yashiyu|Rekkamaru-sama|[Download](/soft/ActionEditor/g09.zip)|
 |Creator's Comment|This is a remake of Legend of Yashiyu.|   |
 |Game Name|Creator|DL|
-|Yashiyu and the Star Busters|Kasataku-sama|[Download](/menu_game/ActionEditor/g08.zip)|
+|Yashiyu and the Star Busters|Kasataku-sama|[Download](/soft/ActionEditor/g08.zip)|
 |Creator's Comment|An orthodox action game focused on gameplay. <br>It's easy at first, but gets progressively harder as the game goes on.|   |
 |Game Name|Creator|DL|
 |Suspicious Person's Journey|[Chiko-sama](http://www.geocities.jp/takahidechikorin/index.html)|[Download](http://www.geocities.jp/takahidechikorin/husinsha.html)|
@@ -256,7 +258,7 @@ Action Editor Game Collection
 |Irusu and the Demon Sword: Another Sides|[K_-sama](http://www.geocities.jp/flatk_fullswitch/)|[Download](http://www.geocities.jp/flatk_fullswitch/irusuAS.html)|
 |Creator's Comment|The story of Haiz's journey that was happening behind the scenes of Irusu and Greshil's journey. <br>It also includes spoilers for the main story, so if you haven't cleared the main story, please start from there.|   |
 |Game Name|Creator|DL|
-|Suzuki-kun's Great Adventure|Starter-sama|[Download](/menu_game/ActionEditor/g04.zip)|
+|Suzuki-kun's Great Adventure|Starter-sama|[Download](/soft/ActionEditor/g04.zip)|
 |Creator's Comment|A low-difficulty game where that Suzuki goes on an adventure. <br>There are subtle hidden elements.|   |
 |Game Name|Creator|DL|
 |Action Editor Version: Third Party Demon King|[kusut-sama](http://happytown.orahoo.com/kusut_game/)|[Download](http://www3.tok2.com/home/kusut/Daisan_action.lzh)|
@@ -268,7 +270,7 @@ Action Editor Game Collection
 |Legend of Knight|[Rekkamaru-sama](http://www.me.ccnw.ne.jp/akira/rekka/rekkamaru.html)|[Download](http://www.me.ccnw.ne.jp/retuzan/rekka/download/lk.html)|
 |Creator's Comment|I tried to make the difficulty relatively easy. <br>It ends quickly, so please watch the ending, everyone.|   |
 |Game Name|Creator|DL|
-|Made in Yashiyu|Samakuru-sama|[Download](/menu_game/ActionEditor/g01.zip)|
+|Made in Yashiyu|Samakuru-sama|[Download](/soft/ActionEditor/g01.zip)|
 |Creator's Comment|It was made in 3 days, so I'm thinking of making a sequel. <br>There are also secret elements, so please enjoy.|   |
 
 [To Top of Page](#START)
@@ -296,19 +298,19 @@ Action Editor Material Collection
 |rela X's shot materials!!|Shot Images|[rela X-sama](http://xxz.jp/relax/)|○|○|×|[Download](http://www.first-priority.yi.org/~relax/zisaten/materials/)|
 |Creator's Comment|As the name suggests, shot images. For details on modification, please see the link. <br>Whether you use them or not is up to you.|   |   |   |   |   |
 |Material Name|Type|Creator|Distribution|Modification|Use Outside Action Editor|DL|
-|Plain Block Collection|Block Images|chiyo-sama|○|○|○|[Download](/menu_game/ActionEditor/m04.zip)|
+|Plain Block Collection|Block Images|chiyo-sama|○|○|○|[Download](/soft/ActionEditor/m04.zip)|
 |Creator's Comment|Since the colors haven't been adjusted, some blocks that flicker are included.|   |   |   |   |   |
 |Material Name|Type|Creator|Distribution|Modification|Use Outside Action Editor|DL|
 |YAKU's Material Collection|General|[YAKU-sama](http://yakusoen.web.fc2.com/)|○|○|○|[Download](http://yakusoen.web.fc2.com/material.html)|
 |Creator's Comment|Unauthorized use, secondary distribution, and reprinting of modified items are OK. Copyright notice and usage report are optional.|   |   |   |   |   |
 |Material Name|Type|Creator|Distribution|Modification|Use Outside Action Editor|DL|
-|Title 3DVer|Title Image|Acid-sama|○|○|×|[Download](/menu_game/ActionEditor/m03.zip)|
+|Title 3DVer|Title Image|Acid-sama|○|○|×|[Download](/soft/ActionEditor/m03.zip)|
 |Creator's Comment|I just made it 3D as is.|   |   |   |   |   |
 |Material Name|Type|Creator|Distribution|Modification|Use Outside Action Editor|DL|
 |K's Material|Various|[K_-sama](http://www.geocities.jp/flatk_fullswitch/)|○|○|○|[Download](http://www.geocities.jp/flatk_fullswitch/material.html)|
 |Creator's Comment|Basically, you can use them freely, but please do not commit etiquette violations such as falsifying copyright.|   |   |   |   |   |
 |Material Name|Type|Creator|Distribution|Modification|Use Outside Action Editor|DL|
-|Modified Title Art|Title Image|[kusut-sama](http://happytown.orahoo.com/kusut_game/)|×|×|×|[Download](/menu_game/ActionEditor/m01.zip)|
+|Modified Title Art|Title Image|[kusut-sama](http://happytown.orahoo.com/kusut_game/)|×|×|×|[Download](/soft/ActionEditor/m01.zip)|
 |Creator's Comment||   |   |   |   |   |
 
 [To Top of Page](#START)

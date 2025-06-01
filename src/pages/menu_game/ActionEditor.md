@@ -204,13 +204,13 @@ v1.93に続き、またまた多くの方々にご迷惑をおかけすること
 |---|---|---|
 アクションエディターゲーム集
 |ゲーム名|制作者|DL|
-|DY復旧事業（イージー版）|ZOO様|[ダウンロード](/menu_game/ActionEditor/g22.zip)|
+|DY復旧事業（イージー版）|ZOO様|[ダウンロード](/soft/ActionEditor/g22.zip)|
 |制作者のコメント|DYのイージー版です。前と比べるとかなり簡単になっていると思います・・・・たぶん。|   |
 |ゲーム名|制作者|DL|
 |タンポーの旅 悪の力編|[チコ様](http://www.geocities.jp/takahidechikorin/)|[ダウンロード](http://www.geocities.jp/takahidechikorin/aku.html)|
 |制作者のコメント|公開に何日かかりましたやら…っていうよりも完全クリアがんばってください！  <br>最初は簡単でストーリーが進んでいくと難しくなっていきます。|   |
 |ゲーム名|制作者|DL|
-|鉄の城|なす様|[ダウンロード](/menu_game/ActionEditor/g21.zip)|
+|鉄の城|なす様|[ダウンロード](/soft/ActionEditor/g21.zip)|
 |制作者のコメント|適当に作ったゲームですが、プレイしていただけると嬉しいです。|   |
 |ゲーム名|制作者|DL|
 |飛んでけヤシーユ　力尽きるまで  <br>イージーバジョン|[一樹様](http://www3.tok2.com/home/kazukikazuki2/)|[ダウンロード](http://www3.tok2.com/home/kazukikazuki2/daunro-do.htm)|
@@ -219,43 +219,43 @@ v1.93に続き、またまた多くの方々にご迷惑をおかけすること
 |飛んでけヤシーユ　力尽きるまで|[一樹様](http://www3.tok2.com/home/kazukikazuki2/)|[ダウンロード](http://www3.tok2.com/home/kazukikazuki2/daunro-do.htm)|
 |制作者のコメント|パクリゲーできたよー(^o^)ノ  <br>さあクリアがんばってみよー！！（壊|   |
 |ゲーム名|制作者|DL|
-|DY復旧事業|ZOO様|[ダウンロード](/menu_game/ActionEditor/g20.zip)|
+|DY復旧事業|ZOO様|[ダウンロード](/soft/ActionEditor/g20.zip)|
 |制作者のコメント|３流ストーリーをベースにした通常全１２Ｗ、番外編全１１ステージの特大版。プレイする前に「☆★はじめに★☆」をさらっとでもいいので見て下さい。|   |
 |ゲーム名|制作者|DL|
-|GARAXY SAVIOUR -ASSAILANT-|Nob様|[ダウンロード](/menu_game/ActionEditor/g19.zip)|
+|GARAXY SAVIOUR -ASSAILANT-|Nob様|[ダウンロード](/soft/ActionEditor/g19.zip)|
 |制作者のコメント|ややシナリオ重視のシューティングです。難易度は少々高めです。  <br>GARAXY SAVIOURの別視点ですが、前作をやらなくても問題ありません。|   |
 |ゲーム名|制作者|DL|
-|Battle Arena!|カス丼様|[ダウンロード](/menu_game/ActionEditor/g18.zip)|
+|Battle Arena!|カス丼様|[ダウンロード](/soft/ActionEditor/g18.zip)|
 |制作者のコメント|ヤシーユが金目当てに戦うボス連続ゲームです。  <br>そしてその大会に忍び寄る影・・・要するに下らないゲームですよ(ぁ|   |
 |ゲーム名|制作者|DL|
-|GALAXY SAVIOR|Nob様|[ダウンロード](/menu_game/ActionEditor/g17.zip)|
+|GALAXY SAVIOR|Nob様|[ダウンロード](/soft/ActionEditor/g17.zip)|
 |制作者のコメント|某有名シューティングゲームに少し似た横シューティングです。  <br>一部の素材は使っても構いません。(詳細はReadme参照)|   |
 |ゲーム名|制作者|DL|
-|Purot Basutar|デルタ様|[ダウンロード](/menu_game/ActionEditor/g16.zip)|
+|Purot Basutar|デルタ様|[ダウンロード](/soft/ActionEditor/g16.zip)|
 |制作者のコメント|ヤシーユがロボットを操縦して、サンタの造り出した量産マシンを倒していくゲームです。|   |
 |ゲーム名|制作者|DL|
-|サンタの逆襲|デルタ様|[ダウンロード](/menu_game/ActionEditor/g15.zip)|
+|サンタの逆襲|デルタ様|[ダウンロード](/soft/ActionEditor/g15.zip)|
 |制作者のコメント|サンタがヤシーユを倒しに行くゲームです。|   |
 |ゲーム名|制作者|DL|
-|棒人間の冒険|デルタ様|[ダウンロード](/menu_game/ActionEditor/g14.zip)|
+|棒人間の冒険|デルタ様|[ダウンロード](/soft/ActionEditor/g14.zip)|
 |制作者のコメント|棒人間が宝物を求め旅をするゲームです。  <br>難易度は普通です。|   |
 |ゲーム名|制作者|DL|
-|ヤシーユVSダークヤシーユ|デルタ様|[ダウンロード](/menu_game/ActionEditor/g13.zip)|
+|ヤシーユVSダークヤシーユ|デルタ様|[ダウンロード](/soft/ActionEditor/g13.zip)|
 |制作者のコメント|ヤシーユが魔王城に行き、魔王を倒すゲームです。難易度は高いです。  <br>ステージの数が多い所が多いですが、頑張ってクリアしてください。|   |
 |ゲーム名|制作者|DL|
 |機械城|[リザルド様](http://hp25.0zero.jp/458/tll26k/)|[ダウンロード](http://www.geocities.jp/riza_rudo/Kikaijyo.html)|
 |制作者のコメント|暴走したロボットを止めるストーリーのゲームです。  <br>人によってはクリアに３０分も使わないので、時間が余り無いという人にオススメです。|   |
 |ゲーム名|制作者|DL|
-|ヤシーユパーティ|アフォ様|[ダウンロード](/menu_game/ActionEditor/g12.zip)|
+|ヤシーユパーティ|アフォ様|[ダウンロード](/soft/ActionEditor/g12.zip)|
 |制作者のコメント|年末の恒例ソフト化目指します！|   |
 |ゲーム名|制作者|DL|
-|レジェンドウォーズ|リオン様|[ダウンロード](/menu_game/ActionEditor/g10.zip)|
+|レジェンドウォーズ|リオン様|[ダウンロード](/soft/ActionEditor/g10.zip)|
 |制作者のコメント|後半とにかく難しい。ストーリーはアレですが是非プレイしてみてください。  <br>あと主人公の赤髪の剣士のみ使ってOKです。(←絵のことみたいです by管理人)|   |
 |ゲーム名|制作者|DL|
-|ヤシーユの伝説|列火丸様|[ダウンロード](/menu_game/ActionEditor/g09.zip)|
+|ヤシーユの伝説|列火丸様|[ダウンロード](/soft/ActionEditor/g09.zip)|
 |制作者のコメント|レジェンドオブヤシーユのリメイクです。|   |
 |ゲーム名|制作者|DL|
-|ヤシーユとスターバスターズ|カサタク様|[ダウンロード](/menu_game/ActionEditor/g08.zip)|
+|ヤシーユとスターバスターズ|カサタク様|[ダウンロード](/soft/ActionEditor/g08.zip)|
 |制作者のコメント|ゲーム性重視のオーソドックスなアクションゲームです。  <br>序盤は簡単ですがゲームが進むとどんどん難しくなります。|   |
 |ゲーム名|制作者|DL|
 |不審者の旅|[チコ様](http://www.geocities.jp/takahidechikorin/index.html)|[ダウンロード](http://www.geocities.jp/takahidechikorin/husinsha.html)|
@@ -279,7 +279,7 @@ v1.93に続き、またまた多くの方々にご迷惑をおかけすること
 |イルスと魔剣 Another Sides|[K_様](http://www.geocities.jp/flatk_fullswitch/)|[ダウンロード](http://www.geocities.jp/flatk_fullswitch/irusuAS.html)|
 |制作者のコメント|イルスとグレシルの旅の裏で起こっていたヘイズの旅の物語。  <br>本編のネタバレも含んでいますので本編をクリアしてない人は本編からお願いします。|   |
 |ゲーム名|制作者|DL|
-|鈴木君の大冒険|スターター様|[ダウンロード](/menu_game/ActionEditor/g04.zip)|
+|鈴木君の大冒険|スターター様|[ダウンロード](/soft/ActionEditor/g04.zip)|
 |制作者のコメント|あの鈴木が冒険する難易度低めなゲームです  <br>微妙に隠し要素があります。|   |
 |ゲーム名|制作者|DL|
 |アクエディ版第三者の魔王|[kusut様](http://happytown.orahoo.com/kusut_game/)|[ダウンロード](http://www3.tok2.com/home/kusut/Daisan_action.lzh)|
@@ -291,7 +291,7 @@ v1.93に続き、またまた多くの方々にご迷惑をおかけすること
 |レジェンドオブナイト|[列火丸様](http://www.me.ccnw.ne.jp/akira/rekka/rekkamaru.html)|[ダウンロード](http://www.me.ccnw.ne.jp/retuzan/rekka/download/lk.html)|
 |制作者のコメント|わりと難易度を簡単にしたつもりです。  <br>すぐ終わるのでみなさんエンディングを見てください。|   |
 |ゲーム名|制作者|DL|
-|メイドインヤシーユ|さまくる様|[ダウンロード](/menu_game/ActionEditor/g01.zip)|
+|メイドインヤシーユ|さまくる様|[ダウンロード](/soft/ActionEditor/g01.zip)|
 |制作者のコメント|３日で出来たので２も作ろうかと思ってます。  <br>ひみつ要素もありますので楽しんでください。|   |
 
 [このページの先頭へ](/menu_game/ActionEditor/#START)
@@ -317,19 +317,19 @@ v1.93に続き、またまた多くの方々にご迷惑をおかけすること
 |rela Xのshot materials!!|ショット画像|[rela X様](http://xxz.jp/relax/)|○|○|×|[ダウンロード](http://www.first-priority.yi.org/~relax/zisaten/materials/)|
 |制作者のコメント|その名の通り、ショット画像。加工についての詳細はリンク先をご覧下さい。  <br>使うも使わないも、あなた次第。|   |   |   |   |   |
 |素材名|種別|制作者|配布|加工|アクエディ以外での利用|DL|
-|地味なブロック集|ブロック画像|chiyo様|○|○|○|[ダウンロード](/menu_game/ActionEditor/m04.zip)|
+|地味なブロック集|ブロック画像|chiyo様|○|○|○|[ダウンロード](/soft/ActionEditor/m04.zip)|
 |制作者のコメント|色の調整をしてないので、一部点滅してしまうブロックが入っています。|   |   |   |   |   |
 |素材名|種別|制作者|配布|加工|アクエディ以外での利用|DL|
 |YAKUの素材集|総合|[YAKU様](http://yakusoen.web.fc2.com/)|○|○|○|[ダウンロード](http://yakusoen.web.fc2.com/material.html)|
 |制作者のコメント|加工したものの無断使用・二次配布・転載はＯＫ、著作権表示・使用報告は任意|   |   |   |   |   |
 |素材名|種別|制作者|配布|加工|アクエディ以外での利用|DL|
-|タイトル 3DVer|タイトル画像|アシッド様|○|○|×|[ダウンロード](/menu_game/ActionEditor/m03.zip)|
+|タイトル 3DVer|タイトル画像|アシッド様|○|○|×|[ダウンロード](/soft/ActionEditor/m03.zip)|
 |制作者のコメント|そのまま３Dにしました。|   |   |   |   |   |
 |素材名|種別|制作者|配布|加工|アクエディ以外での利用|DL|
 |K's Material|色々|[K_様](http://www.geocities.jp/flatk_fullswitch/)|○|○|○|[ダウンロード](http://www.geocities.jp/flatk_fullswitch/material.html)|
 |制作者のコメント|基本的に自由に使ってもらって構いませんが著作権を偽るなどのマナー違反はしないようにお願いします。|   |   |   |   |   |
 |素材名|種別|制作者|配布|加工|アクエディ以外での利用|DL|
-|タイトル絵改|タイトル画像|[kusut様](http://happytown.orahoo.com/kusut_game/)|×|×|×|[ダウンロード](/menu_game/ActionEditor/m01.zip)|
+|タイトル絵改|タイトル画像|[kusut様](http://happytown.orahoo.com/kusut_game/)|×|×|×|[ダウンロード](/soft/ActionEditor/m01.zip)|
 |制作者のコメント||   |   |   |   |   |
 
 [このページの先頭へ](/menu_game/ActionEditor/#START)

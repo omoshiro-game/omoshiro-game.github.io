@@ -1,107 +1,107 @@
 ---
-title: 「レジェンドオブヤシーユ4」アイテムデータ
+title: Legend of Yashiyu 4 Item Data
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Game Walkthrough
     url: /menu_game_capture/
   - name: Rejiyashi 4
     url: /menu_game_capture/#LOY4
-  - name: 「レジェンドオブヤシーユ4」アイテムデータ
+  - name: Legend of Yashiyu 4 Item Data
     url: /menu_game_capture/yashiyu4_itemdata/
 ---
 
-## 「レジェンドオブヤシーユ4」アイテムデータ
+## "Legend of Yashiyu 4" Item Data
 
-■　データの見方  
-・値段は買値の事で、売値はこの75％になります。  
-・アイテム名の頭にある漢字1文字はアイテムのカテゴリーを表しています。（※道　…使いきりのアイテム、他…「そのた」の装備品）  
+■ How to Read the Data  
+・Price refers to the purchase price; the selling price is 75% of this.  
+・The single Kanji character at the beginning of each item name indicates the item category. (※道 ... Consumable item, 他 ... "Other" equipment)  
   
-■　アイテムのレベルについて  
-レジヤシ4ではアイテムにレベルの概念があり、万屋のアイテムのレベルは敵レベルと同じになります。  
+■ About Item Level  
+In Rejiyashi 4, items have a level concept, and the level of items in shops will be the same as the enemy level.  
   
-●　アイテムレベルに対応したアイテムの効果値を求める式  
-アイテムの効果値　＝　アイテムレベル1の効果値　＋　追加値×（アイテムレベル－１）  
+● Formula for calculating item effect value based on item level  
+Item Effect Value = Item Level 1 Effect Value + Added Value × (Item Level - 1)  
   
   
 
-|名前|説明|値段|追加値|備考|
+|Name|Description|Price|Added Value|Notes|
 |---|---|---|---|---|
-|道　やくそう|ＨＰを200回復|20|150|－|
-|道　ふしぎそう|ＳＰを30回復|200|30|－|
-|道　どくけし|「どく」、「ふはい」を取り除き、ＨＰを50回復|20|50|-|
-|道　にわとり|「ねむり」を取り除き、ＨＰを100回復|20|100|-|
-|道　せいすい|「のろい」、「ふういん」を取り除き、ＨＰを50回復|20|50|-|
-|道　ふっかつやく|生き返らせる（ＨＰ＝50）|60|50|-|
-|道　かえしのたま|生き返らせる（ＨＰ＝200）|200|150|-|
-|名前|説明|値段|追加値|備考|
-|紋　はじまりのもん|こうげき＋70（95％）|50|75|-|
-|紋　そこそこのもん|こうげき＋75（95％）|200|75|-|
-|紋　りょうしつのもん|こうげき＋82（95％）|600|75||
-|紋　たのみのもん|こうげき＋92（95％）|2000|75|-|
-|紋　すごいもん|こうげき＋105（95％）|6000|75|-|
-|紋　ゆうきのもん|こうげき＋120（95％）|18000|75|-|
-|紋　でんせつのもん|こうげき＋150（95％）|38000|75|-|
-|紋　おおきめのもん|こうげき＋95（85％）|250|115|-|
-|紋　だいのもん|こうげき＋110（85％）|2500|115|-|
-|紋　きょだいのもん|こうげき＋160（85％）|22000|115|-|
-|紋　ひっさつのもん|こうげき＋105（80％）　ブレーク＋10|800|105|-|
-|紋　はかいのもん|こうげき＋130（80％）　ブレーク＋15|8000|105|-|
-|紋　ほうかいのもん|こうげき＋180（80％）　ブレーク＋20|50000|105|-|
-|紋　ひっちゅうのもん|こうげき＋95（100％）|3000|60|-|
-|紋　かりうどのもん|こうげき＋125（100％）|27000|60|-|
-|紋　まりょくのもん|こうげき＋80（95％）　まりょく＋10|750|75|-|
-|紋　ちえのもん|こうげき＋100（95％）　まりょく＋20|7200|75|-|
-|紋　けんじゃのもん|こうげき＋130（95％）　まりょく＋30|45000|75|-|
-|紋　まもりのもん|こうげき＋80（95％）　まもり＋10|750|75|-|
-|紋　たてのもん|こうげき＋100（95％）　まもり＋20|7200|75|-|
-|紋　だいちのもん|こうげき＋130（95％）　まもり＋30|45000|75|-|
-|紋　ていこうのもん|こうげき＋80（95％）　ていこう＋10|750|75|-|
-|紋　いにしえのもん|こうげき＋100（95％）　ていこう＋20|7200|75|-|
-|紋　ごずのもん|こうげき＋130（95％）　ていこう＋30|45000|75|-|
-|紋　じゃのめのもん|こうげき＋70（90％）　＋どく（50％）|250|75|-|
-|紋　ひつじのもん|こうげき＋77（90％）　＋ねむり（50％）|900|75|-|
-|紋　まふうじのもん|こうげき＋87（90％）　＋ふういん（50％）|2500|75|-|
-|紋　がきのもん|こうげき＋100（90％）　＋のろい（50％）|7500|75|-|
-|紋　あくまのもん|こうげき＋110（90％）　＋ふはい（50％）|25000|75|-|
-|紋　しにがみのもん|こうげき＋130（85％）　＋し（50％）|42000|75|-|
-|紋　じごくのもん|こうげき＋140（85％）　＋いろいろ（30％）|56000|75|どく、ふはい、ねむり、ふういん、のろい各30％|
-|名前|説明|値段|追加値|備考|
-|飾　てっこう|まもり＋5|100|50|-|
-|飾　いいてっこう|まもり＋10|300|50|-|
-|飾　すごいてっこう|まもり＋20|900|50|-|
-|飾　さとりのてっこう|まもり＋30|2500|50|-|
-|飾　きせきのてっこう|まもり＋40|7000|50|-|
-|飾　かみのてっこう|まもり＋50|14000|50|-|
-|飾　オーブ|ていこう＋5|100|50|-|
-|飾　いいオーブ|ていこう＋10|300|50|-|
-|飾　すごいオーブ|ていこう＋20|900|50|-|
-|飾　さとりのオーブ|ていこう＋30|2500|50|-|
-|飾　きせきのオーブ|ていこう＋40|7000|50|-|
-|飾　かみのオーブ|ていこう＋50|14000|50|-|
-|飾　おまもり|まもり＋3　ていこう＋3|100|30|-|
-|飾　いいおまもり|まもり＋7　ていこう＋7|300|30|-|
-|飾　すごいおまもり|まもり＋12　ていこう＋12|900|30|-|
-|飾　さとりのおまもり|まもり＋18　ていこう＋18|2500|30|-|
-|飾　きせきのおまもり|まもり＋24　ていこう＋24|7000|30|-|
-|飾　かみのおまもり|まもり＋30　ていこう＋30|14000|30|-|
-|飾　うでわ|こうげき＋10|500|40|-|
-|飾　ちからのうでわ|こうげき＋25|3200|40|-|
-|飾　きしんのうでわ|こうげき＋40|17000|40|-|
-|飾　かんむり|まりょく＋10|500|40|-|
-|飾　ちえのかんむり|まりょく＋25|3200|40|-|
-|飾　つきのかんむり|まりょく＋40|17000|40|-|
-|飾　たすき|こうげき＋10　まりょく＋10|1000|30|-|
-|飾　とうしのたすき|こうげき＋20　まりょく＋20|8000|30|-|
-|飾　きぼうのたすき|こうげき＋30　まりょく＋30|21000|30|-|
-|飾　ほのおのおまもり|ていこう＋10　火耐性|3000|10|フィールドマップ右上にいる商人から購入できる。|
-|飾　ひかりのおまもり|ていこう＋10　光耐性|3000|10|フィールドマップ右上にいる商人から購入できる。|
-|飾　やみのおまもり|ていこう＋10　闇耐性|3000|10|フィールドマップ右上にいる商人から購入できる。|
-|飾　まむしのタグ|まりょく＋10　「どく」、「ふはい」耐性|500|10|-|
-|飾　ふどうのタグ|まりょく＋10　「ねむり」、「ふういん」耐性|1500|10|-|
-|飾　はじゃのタグ|まりょく＋10　「し」、「のろい」耐性|3000|10|-|
-|飾　けんこうのタグ|まりょく＋10　ステータス異常にかかりにくくなる|10000|10|各ステータス異常（「し」は除く）を40％で無効化。|
-|飾　はんのうブーツ|まもり＋10　はんのう＋1|12000|10|-|
-|飾　じゅず|まもり＋10　せいしん＋10|12000|10|-|
-|飾　せいみつシール|こうげき＋10　めいちゅう＋10|6000|10|-|
-|飾　かんつうシール|こうげき＋10　ブレーク＋10|6000|10|-|
-|名前|説明|値段|追加値|備考|
+|Consumable Herb|Restores 200 HP|20|150|-|
+|Consumable Mysterious Herb|Restores 30 SP|200|30|-|
+|Consumable Antidote|Removes "Poison", "Decay", restores 50 HP|20|50|-|
+|Consumable Chicken|Removes "Sleep", restores 100 HP|20|100|-|
+|Consumable Holy Water|Removes "Curse", "Seal", restores 50 HP|20|50|-|
+|Consumable Revive Potion|Revives (HP=50)|60|50|-|
+|Consumable Revival Orb|Revives (HP=200)|200|150|-|
+|Name|Description|Price|Added Value|Notes|
+|Crest Beginning Crest|Attack +70 (95%)|50|75|-|
+|Crest Decent Crest|Attack +75 (95%)|200|75|-|
+|Crest Fine Crest|Attack +82 (95%)|600|75||
+|Crest Reliable Crest|Attack +92 (95%)|2000|75|-|
+|Crest Amazing Crest|Attack +105 (95%)|6000|75|-|
+|Crest Courage Crest|Attack +120 (95%)|18000|75|-|
+|Crest Legendary Crest|Attack +150 (95%)|38000|75|-|
+|Crest Large Crest|Attack +95 (85%)|250|115|-|
+|Crest Great Crest|Attack +110 (85%)|2500|115|-|
+|Crest Giant Crest|Attack +160 (85%)|22000|115|-|
+|Crest Critical Crest|Attack +105 (80%) Break +10|800|105|-|
+|Crest Destruction Crest|Attack +130 (80%) Break +15|8000|105|-|
+|Crest Collapse Crest|Attack +180 (80%) Break +20|50000|105|-|
+|Crest Sure-Hit Crest|Attack +95 (100%)|3000|60|-|
+|Crest Hunter's Crest|Attack +125 (100%)|27000|60|-|
+|Crest Magic Crest|Attack +80 (95%) Magic +10|750|75|-|
+|Crest Wisdom Crest|Attack +100 (95%) Magic +20|7200|75|-|
+|Crest Sage's Crest|Attack +130 (95%) Magic +30|45000|75|-|
+|Crest Guard Crest|Attack +80 (95%) Defense +10|750|75|-|
+|Crest Shield Crest|Attack +100 (95%) Defense +20|7200|75|-|
+|Crest Earth Crest|Attack +130 (95%) Defense +30|45000|75|-|
+|Crest Resistance Crest|Attack +80 (95%) Resistance +10|750|75|-|
+|Crest Ancient Crest|Attack +100 (95%) Resistance +20|7200|75|-|
+|Crest Gozu Crest|Attack +130 (95%) Resistance +30|45000|75|-|
+|Crest Serpent Eye Crest|Attack +70 (90%) +Poison (50%)|250|75|-|
+|Crest Sheep Crest|Attack +77 (90%) +Sleep (50%)|900|75|-|
+|Crest Magic Seal Crest|Attack +87 (90%) +Seal (50%)|2500|75|-|
+|Crest Demon Crest|Attack +100 (90%) +Curse (50%)|7500|75|-|
+|Crest Evil Crest|Attack +110 (90%) +Decay (50%)|25000|75|-|
+|Crest Death God Crest|Attack +130 (85%) +Death (50%)|42000|75|-|
+|Crest Hell Crest|Attack +140 (85%) +Various (30%)|56000|75|Poison, Decay, Sleep, Seal, Curse each 30%|
+|Name|Description|Price|Added Value|Notes|
+|Accessory Gauntlet|Defense +5|100|50|-|
+|Accessory Good Gauntlet|Defense +10|300|50|-|
+|Accessory Great Gauntlet|Defense +20|900|50|-|
+|Accessory Enlightenment Gauntlet|Defense +30|2500|50|-|
+|Accessory Miracle Gauntlet|Defense +40|7000|50|-|
+|Accessory God's Gauntlet|Defense +50|14000|50|-|
+|Accessory Orb|Resistance +5|100|50|-|
+|Accessory Good Orb|Resistance +10|300|50|-|
+|Accessory Great Orb|Resistance +20|900|50|-|
+|Accessory Enlightenment Orb|Resistance +30|2500|50|-|
+|Accessory Miracle Orb|Resistance +40|7000|50|-|
+|Accessory God's Orb|Resistance +50|14000|50|-|
+|Accessory Charm|Defense +3 Resistance +3|100|30|-|
+|Accessory Good Charm|Defense +7 Resistance +7|300|30|-|
+|Accessory Great Charm|Defense +12 Resistance +12|900|30|-|
+|Accessory Enlightenment Charm|Defense +18 Resistance +18|2500|30|-|
+|Accessory Miracle Charm|Defense +24 Resistance +24|7000|30|-|
+|Accessory God's Charm|Defense +30 Resistance +30|14000|30|-|
+|Accessory Bracer|Attack +10|500|40|-|
+|Accessory Power Bracer|Attack +25|3200|40|-|
+|Accessory Demonic God Bracer|Attack +40|17000|40|-|
+|Accessory Crown|Magic +10|500|40|-|
+|Accessory Wisdom Crown|Magic +25|3200|40|-|
+|Accessory Moon Crown|Magic +40|17000|40|-|
+|Accessory Sash|Attack +10 Magic +10|1000|30|-|
+|Accessory Fighting Spirit Sash|Attack +20 Magic +20|8000|30|-|
+|Accessory Hope Sash|Attack +30 Magic +30|21000|30|-|
+|Accessory Flame Charm|Resistance +10 Fire Resistance|3000|10|Can be purchased from merchant in top right of field map.|
+|Accessory Light Charm|Resistance +10 Light Resistance|3000|10|Can be purchased from merchant in top right of field map.|
+|Accessory Dark Charm|Resistance +10 Dark Resistance|3000|10|Can be purchased from merchant in top right of field map.|
+|Accessory Viper Tag|Magic +10 "Poison", "Decay" Resistance|500|10|-|
+|Accessory Immovable Tag|Magic +10 "Sleep", "Seal" Resistance|1500|10|-|
+|Accessory Exorcism Tag|Magic +10 "Death", "Curse" Resistance|3000|10|-|
+|Accessory Health Tag|Magic +10 Less susceptible to status ailments|10000|10|Invalidates each status ailment (excluding "Death") by 40%.|
+|Accessory Reaction Boots|Defense +10 Reaction +1|12000|10|-|
+|Accessory Rosary|Defense +10 Spirit +10|12000|10|-|
+|Accessory Precision Seal|Attack +10 Accuracy +10|6000|10|-|
+|Accessory Ogre Seal|Attack +10 Break +10|6000|10|-|
+|Name|Description|Price|Added Value|Notes|

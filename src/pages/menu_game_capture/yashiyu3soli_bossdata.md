@@ -1,46 +1,46 @@
 ---
-title: "Rejiyashi 3 Solitude Boss Data"
-h1: "Rejiyashi 3 Solitude Boss Data"
-description: Boss data for the free RPG "Rejiyashi 3 Solitude".
+title: 「レジヤシ3 ソリチュード」ボスデータ
+h1: 「レジヤシ3 ソリチュード」ボスデータ
+description: 無料RPG「レジヤシ3 ソリチュード」のボスデータです。
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game Walkthrough Table of Contents
+  - name: ゲーム攻略　目次
     url: /menu_game_capture/
-  - name: "Legend of Yashiyu 3"
+  - name: 「レジェンドオブヤシーユ3」
     url: /menu_game_capture/#LOY3
-  - name: "Rejiyashi 3 Solitude Boss Data"
+  - name: 「レジヤシ3 ソリチュード」ボスデータ
     url: /menu_game_capture/yashiyu3soli_bossdata/
 keywords:
-- Boss
+- ボス
 - RPG
-- Role-playing game
-- Game walkthrough
-- Data
-- Game
-- Free
-- Fun
-- Game development
+- ロープレ
+- ゲーム攻略
+- データ
+- ゲーム
+- 無料
+- おもしろ
+- ゲーム制作
 ---
 
-## "Rejiyashi 3 Solitude" Boss Data
+## 「レジヤシ3 ソリチュード」ボスデータ
 
-I believe they are **arranged in the order of their appearance, roughly following the scenario**.  
-You can either follow the scenario progression or jump straight to the end (bottom).  
-Also, maximizing the window might make it easier to view.  
+**ある程度シナリオに沿って、出現する順番に並んでいる**と思います。  
+シナリオの進行に合わせて見ていくのも良し、いきなり最後（一番下まで）まで見るも良し。  
+あと、ウインドウを最大化すると見やすくなると思います。  
   
-■ How to Read the Data  
-・"Night" refers to the rate of change in "Attack (Atk)", "Defense (Def)", "Magic (Mag)", and "Resistance (Res)" at night. For example, 120 means the ability becomes 120% of its original value at night.  
+■　データの見方  
+・「夜」とは夜になった時の「こうげき（攻）」、「まもり（守）」、「まりょく（魔）」、「ていこう（抗）」の変化率で、例えば120なら夜の時に本来の120%の能力になります。  
   
-・The single Kanji character at the beginning of each skill name indicates the skill category. (※異→Status Ailment, 場→Field, no character→Other)  
+・スキルの頭にある漢字1文字はスキルのカテゴリーを表しています。（※異→ステータス異常系、場→フィールド系、文字なし→その他）  
   
-・"Fire", "Light", "Dark", and "Lower" indicate elemental resistances or weaknesses.  
-－ → No resistance  
-○ → Resistance  
-× → Weakness  
+・「火」、「光」、「闇」、「下」はそれぞれの属性耐性や弱点です。  
+－　→　耐性なし  
+○　→　耐性あり  
+×　→　弱点  
   
-■ Useful to know!? Enemy AI  
-・Field-type skills are only used when the field is clear.  
-・If SP is insufficient, they will resort to normal attacks.  
+■　知っておくと便利！？　敵の思考ルーチン  
+・フィールド系のスキルはフィールドが空いている時にしか使用しない。  
+・SPが足りない時は通常攻撃になる。  
   
 
 
@@ -67,27 +67,27 @@ Also, maximizing the window might make it easier to view.
     <col width="150">
     </colgroup><tbody>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Berserker</td>
+        <td>バーサーカー</td>
         <td>330</td>
         <td>50</td>
         <td>35</td>
@@ -104,39 +104,39 @@ Also, maximizing the window might make it easier to view.
         <td>15</td>
         <td>100</td>
         <td>3</td>
-        <td>Ailment Poison Mist<br>
-        Dark Sphere</td>
-        <td>Phys(Fire) Flame<br>
-        Fire High Heat</td>
-        <td>Field Oath of Fire<br>
+        <td>異　ポイズンミスト<br>
+        闇　スフィア</td>
+        <td>武(火)　えんねつ<br>
+        火　ハイ・ヒート</td>
+        <td>場　ほのおのちかい<br>
         </td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">If HP is below half, "Field Oath of Fire". Status ailment resistance is not perfect.</td>
+        <th>備考</th>
+        <td colspan="19">HPが半分以下になると「場　ほのおのちかい」。　ステータス異常耐性が完璧ではない。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Belphegor</td>
+        <td>ベルフェゴ</td>
         <td>500</td>
         <td>100</td>
         <td>50</td>
@@ -153,38 +153,38 @@ Also, maximizing the window might make it easier to view.
         <td>20</td>
         <td>100</td>
         <td>4</td>
-        <td>Phys(Dark) Darkness<br>
-        Time Shake</td>
-        <td>Heal Heal<br>
-        Dark Dem</td>
+        <td>武(闇)　あんこく<br>
+        時　シェイク</td>
+        <td>回　ヒール<br>
+        闇　デム</td>
         <td>　</td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">If HP is below half, "Heal Heal". Status ailment resistance is not perfect.</td>
+        <th>備考</th>
+        <td colspan="19">HPが半分以下になると「回　ヒール」。　ステータス異常耐性が完璧ではない。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Belphegor</td>
+        <td>ベルフェゴ</td>
         <td>500</td>
         <td>100</td>
         <td>50</td>
@@ -201,38 +201,38 @@ Also, maximizing the window might make it easier to view.
         <td>25</td>
         <td>120</td>
         <td>5</td>
-        <td>Light Cross<br>
-        Light High Ray</td>
-        <td>Light High Cross<br>
-        Light Glimmer</td>
+        <td>光　クロス<br>
+        光　ハイ・レイ</td>
+        <td>光　ハイ・クロス<br>
+        光　グリ</td>
         <td>　</td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">If HP is below half, "Light High Cross". Status ailment resistance is not perfect.</td>
+        <th>備考</th>
+        <td colspan="19">HPが半分以下になると「光　ハイ・クロス」。　ステータス異常耐性が完璧ではない。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Belphegor</td>
+        <td>ベルフェゴ</td>
         <td>500</td>
         <td>100</td>
         <td>50</td>
@@ -249,42 +249,42 @@ Also, maximizing the window might make it easier to view.
         <td>50</td>
         <td>200</td>
         <td>7</td>
-        <td>Field Wandering Time<br>
-        Supp Protect<br>
-        Fire Heat</td>
-        <td>Dark High Sphere<br>
-        Light High Cross<br>
-        Supp Decline</td>
+        <td>場　さまようじかん<br>
+        補　プロテクト<br>
+        火　ヒート</td>
+        <td>闇　ハイ・スフィア<br>
+        光　ハイ・クロス<br>
+        補　デクライン</td>
         <td><br>
         <br>
         </td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">If battle prolongs, "Supp Protect".</td>
+        <th>備考</th>
+        <td colspan="19">戦闘が長引くと「補　プロテクト」。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Akuryoku Majin</td>
+        <td>あくりょくまじん</td>
         <td>650</td>
         <td>70</td>
         <td>80</td>
@@ -301,37 +301,37 @@ Also, maximizing the window might make it easier to view.
         <td>50</td>
         <td>100</td>
         <td>7</td>
-        <td>Dark Darkness<br>
-        Phys Akuryoku Press</td>
+        <td>闇　ダークネス<br>
+        武　あくりょくぷれす</td>
         <td>　</td>
         <td>　</td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">If Akuryoku Majin is two or fewer, "Akuryoku Press". Status ailment resistance is not perfect.</td>
+        <th>備考</th>
+        <td colspan="19">あくりょくまじんが二人以下になると「あくりょくぷれす」。　ステータス異常耐性が完璧ではない。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Forest Guardian</td>
+        <td>もりのばんにん</td>
         <td>300</td>
         <td>60</td>
         <td>105</td>
@@ -348,39 +348,39 @@ Also, maximizing the window might make it easier to view.
         <td>50</td>
         <td>50</td>
         <td>7</td>
-        <td>Field Earth's Guard<br>
-        Ailment Mystery Gust</td>
-        <td>Heal Heal<br>
-        Light High Cross</td>
-        <td>Phys(Dark) Darkness<br>
+        <td>場　だいちのまもり<br>
+        異　ミステリーガスト</td>
+        <td>回　ヒール<br>
+        光　ハイ・クロス</td>
+        <td>武(闇)　あんこく<br>
         </td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">Just a mid-boss, so stats do not recover. Uses "Field Earth's Guard" then "Ailment Mystery Gust". Status ailment resistance is minion-level.</td>
+        <th>備考</th>
+        <td colspan="19">ただの中ボスなので、ステータスは回復しない。　「場　だいちのまもり」→「異　ミステリーガスト」の順に使う。　ステータス異常耐性はザコ並み。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Tothref of the Forest</td>
+        <td>もりのトスレフ</td>
         <td>1500</td>
         <td>300</td>
         <td>120</td>
@@ -397,42 +397,42 @@ Also, maximizing the window might make it easier to view.
         <td>300</td>
         <td>1000</td>
         <td>17</td>
-        <td>Field Healing Drop<br>
-        Supp Enhance<br>
-        Light Cross</td>
-        <td>Field Flame Wall<br>
-        Phys(Dark) Darkness<br>
-        Supp All Down</td>
-        <td>Light Luminar<br>
-        Light Thunder<br>
-        Light Drought</td>
+        <td>場　いやしのしずく<br>
+        補　エンハンス<br>
+        光　クロス</td>
+        <td>場　ほのおのかべ<br>
+        武(闇)　あんこく<br>
+        補　オールダウン</td>
+        <td>光　ルミナー<br>
+        光　サンダー<br>
+        光　ドラウト</td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">"Field Healing Drop" on Turn 1. If HP is below half, "Field Flame Wall", "Light Luminar".</td>
+        <th>備考</th>
+        <td colspan="19">1ターン目に「場　いやしのしずく」。　HPが半分以下になると「場　ほのおのかべ」、「光　ルミナー」。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Master Robo</td>
+        <td>マスターロボ</td>
         <td>2000</td>
         <td>100</td>
         <td>140</td>
@@ -449,38 +449,38 @@ Also, maximizing the window might make it easier to view.
         <td>400</td>
         <td>500</td>
         <td>20</td>
-        <td>Phys Power Arm<br>
-        Supp Backfire</td>
-        <td>Fire High Heat<br>
-        Fire Blaze</td>
+        <td>武　パワーアーム<br>
+        補　バックファイア</td>
+        <td>火　ハイ・ヒート<br>
+        火　ブレイズ</td>
         <td>　</td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">If battle prolongs, "Supp Backfire".</td>
+        <th>備考</th>
+        <td colspan="19">戦闘が長引くと「補　バックファイア」。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Yellow Dragon</td>
+        <td>イエロードラゴン</td>
         <td>1700</td>
         <td>300</td>
         <td>190</td>
@@ -505,31 +505,31 @@ Also, maximizing the window might make it easier to view.
         回　ヒールアクア</td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">"Light Holy Breath" during the day. If HP is 80% or below, "Heal Heal Aqua".</td>
+        <th>備考</th>
+        <td colspan="19">昼の時に「光　ホーリーブレス」。　HPが80％以下になると「回　ヒールアクア」。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Black Dragon</td>
+        <td>ブラックドラゴン</td>
         <td>1700</td>
         <td>300</td>
         <td>150</td>
@@ -554,31 +554,31 @@ Also, maximizing the window might make it easier to view.
         </td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">"Dark Dark Breath" at night.</td>
+        <th>備考</th>
+        <td colspan="19">夜の時に「闇　ダークブレス」。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Red Dragon</td>
+        <td>レッドドラゴン</td>
         <td>1700</td>
         <td>200</td>
         <td>160</td>
@@ -603,31 +603,31 @@ Also, maximizing the window might make it easier to view.
         補　ハイ・メルティ</td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">Powerful area magic "Dragon Breath" after "Charge". If battle prolongs, "Supp Dragon Shield".</td>
+        <th>備考</th>
+        <td colspan="19">「チャージ」の後に強力な全体魔法「ドラゴンブレス」。　戦闘が長引くと「補　ドラゴンシールド」。</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
-        <th>Atk</th>
-        <th>Def</th>
-        <th>Mag</th>
-        <th>Res</th>
-        <th>Rct</th>
-        <th>Spr</th>
-        <th>Night</th>
-        <th>Fire</th>
-        <th>Light</th>
-        <th>Dark</th>
-        <th>Lower</th>
+        <th>攻</th>
+        <th>守</th>
+        <th>魔</th>
+        <th>抗</th>
+        <th>反</th>
+        <th>精</th>
+        <th>夜</th>
+        <th>火</th>
+        <th>光</th>
+        <th>闇</th>
+        <th>下</th>
         <th>Exp</th>
         <th>S</th>
         <th>BP</th>
-        <th colspan="3">Skills</th>
+        <th colspan="3">スキル</th>
     </tr>
     <tr>
-        <td>Death God</td>
+        <td>しにがみ</td>
         <td>1700</td>
         <td>200</td>
         <td>170</td>
@@ -653,11 +653,11 @@ Also, maximizing the window might make it easier to view.
         <td>　</td>
     </tr>
     <tr>
-        <th>Notes</th>
-        <td colspan="19">High chance of "Supp Hurricane" on Turn 1. If Death God is two and it's late night, "Time Return". Can also inflict "Sleep" and "Curse"...</td>
+        <th>備考</th>
+        <td colspan="19">1ターン目に高確率で「補　ハリケーン」。　しにがみが二人いて、夜の後半なら「時　リターン」。　「ねむり」と「のろい」にかけることも…</td>
     </tr>
     <tr>
-        <th>Name</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
         <th>攻</th>
@@ -873,7 +873,7 @@ Also, maximizing the window might make it easier to view.
         <td colspan="19">　</td>
     </tr>
     <tr>
-        <th>名字</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
         <th>攻</th>
@@ -1620,12 +1620,14 @@ Also, maximizing the window might make it easier to view.
         <td>2500</td>
         <td>38</td>
         <td>場　とざされたひかり<br>
-        時　リターン<br>
-        補　ハリケーン</td>
+        異　ドゥーム<br>
+        時　リターン</td>
         <td>闇　ハング<br>
         闇　ハイ・クラウド<br>
         火　ハイ・ブレイズ</td>
-        <td>　</td>
+        <td>異　ダークシール<br>
+        補　ハリケーン<br>
+        </td>
     </tr>
     <tr>
         <th>備考</th>
@@ -1848,7 +1850,7 @@ Also, maximizing the window might make it easier to view.
         <td colspan="19">　</td>
     </tr>
     <tr>
-        <th>名字</th>
+        <th>名前</th>
         <th>HP</th>
         <th>SP</th>
         <th>攻</th>
@@ -2581,3 +2583,4 @@ Also, maximizing the window might make it easier to view.
     </tr>
     </tbody>
 </table>
+

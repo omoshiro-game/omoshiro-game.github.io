@@ -1,39 +1,39 @@
 ---
-title: 「レジェンドオブヤシーユ4」2周目以降の仕組み
+title: Legend of Yashiyu 4 Mechanism for 2nd Playthrough and Beyond
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Game Walkthrough
     url: /menu_game_capture/
   - name: Rejiyashi 4
     url: /menu_game_capture/#LOY4
-  - name: 「レジェンドオブヤシーユ4」2周目以降の仕組み
+  - name: Legend of Yashiyu 4 Mechanism for 2nd Playthrough and Beyond
     url: /menu_game_capture/yashiyu4_system/
 ---
 
-## 「レジェンドオブヤシーユ4」2周目以降の仕組み
+## "Legend of Yashiyu 4" Mechanism for 2nd Playthrough and Beyond
 
-ゲームをクリアすると、データを継承して物語の始めに戻されます。（ただし、お金は0になります）  
-そしてなんと、敵やお店の商品（持ち物ではない）のレベルが上がります！（詳細は各データのページをご覧下さい）  
+When you clear the game, your data is carried over and you are returned to the beginning of the story. (However, your money becomes 0).  
+And surprisingly, the level of enemies and shop items (not inventory) increases! (See each data page for details).  
   
-さらに、味方のＬＶの限界値も上がり、ＬＶが一定値に達すればスキルもレベルアップします。  
-ただし、「レストア」等の一部のスキルレベルは、必ず敵のレベルと同じになります。  
+Furthermore, the maximum level for allies also increases, and skills level up once a certain LV is reached.  
+However, some skill levels, such as "Restore", will always be the same as the enemy's level.  
   
-●　ＬＶの限界値  
-ＬＶの限界値　＝　敵のレベル（周回数）　×　100  
+● Max Level  
+Max Level = Enemy Level (Number of Playthroughs) × 100  
   
-※味方側の成長よりも敵側の成長の方が大きいです。  
-つまり、クリアするほど難易度が上がります。  
+*Enemy growth is greater than ally growth.  
+In other words, the more you clear, the higher the difficulty.  
   
 
-## レベルの下げ方
+## How to Lower Level
 
-メニュー画面の「かんきょう」→「てきのレベル」で敵のレベルを下げる事が出来ます。  
-敵のレベルを下げると、お店の商品、味方のLVの限界値も下がります。  
+You can lower the enemy level from the menu screen by going to "Environment" -> "Enemy Level".  
+Lowering the enemy level will also lower the level of shop items and the maximum level for allies.  
   
-ただし、一度レベルを下げるとその周をクリアするまで元に戻らないので注意が必要です。  
-少しややこしいのですが、レベルを下げた状態でクリアすると、次のレベルになるのではなく、過去にクリアした最高のレベルの次になります。  
+However, once you lower the level, it will not revert until you clear that playthrough, so be careful.  
+It's a bit complicated, but if you clear the game with a lowered level, it will not advance to the next level in sequence; instead, it will advance to the next level beyond the highest level you've cleared in the past.  
   
-例えば、今3周目（敵のレベル＝3）だとしましょう。  
-途中で1周目に戻りたくなって敵のレベルを1まで下げました。  
-そして、そのレベル1をクリアします。  
-するとレベルは（次の2ではなく）3まで戻ってくれます。
+For example, let's say you're currently on your 3rd playthrough (enemy level = 3).  
+You decide you want to go back to the 1st playthrough and lower the enemy level to 1.  
+Then, you clear that level 1.  
+The level will return to 3 (not the next 2).

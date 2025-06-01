@@ -5,9 +5,9 @@ breadcrumb:
   - name: Support
     url: /menu_support/
   - name: Action Editor 4 Help
-    url: ../
+    url: /menu_support/actioneditor4_help/
   - name: Item Settings
-    url: ../item/
+    url: /menu_support/actioneditor4_help/item/
 ---
 
 <a name="TOP"></a>

@@ -1,126 +1,117 @@
 ---
-title: 「レジェンドオブヤシーユ4」クラスデータ
+title: Legend of Yashiyu 4 Class Data
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Game Walkthrough
     url: /menu_game_capture/
   - name: Rejiyashi 4
     url: /menu_game_capture/#LOY4
-  - name: 「レジェンドオブヤシーユ4」クラスデータ
+  - name: Legend of Yashiyu 4 Class Data
     url: /menu_game_capture/yashiyu4_classdata/
 ---
 
-## 「レジェンドオブヤシーユ4」クラスデータ
+## "Legend of Yashiyu 4" Class Data
 
-各クラスのLV100(MAXではない)の時のステータスです。  
-スキルの頭にある漢字1文字はスキルのカテゴリーを表しています。（※魔→魔法剣、異→ステータス異常系、場→フィールド系、文字なし→その他）  
+These are the stats for each class at LV100 (not MAX).  
+The single Kanji character at the beginning of each skill name indicates the skill category. (※魔→Magic Sword, 異→Status Ailment, 場→Field, no character→Other)  
   
 
-|       |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Class | HP  | SP  | Atk | Def | Mag | Res | Rct | Spr | Brk | Res | Phys | Mag | Nin | Fire | Light | Dark | Ail | Heal | Cure | Supp |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| クラス   | HP  | SP  | 攻   | 守   | 魔   | 抗   | 反   | 精   | ブ   | 耐性  | 武   | 魔   | 忍   | 火   | 光   | 闇   | 異   | 回   | 治   | 補   |
-| こっぽうし | 990 | 578 | 348 | 332 | 236 | 252 | 11  | 10  | 10  |     | 4   |     |     |     |     |     |     |     | 1   |     |
-|       |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Bone Fist User | 990 | 578 | 348 | 332 | 236 | 252 | 11  | 10  | 10  |     | 4   |     |     |     |     |     |     |     | 1   |     |
+
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|習得スキル|L4　 武おうぎ  <br>L14 武おうぎ・かい  <br>L21 武こうま  <br>L28 武こうま・かい  <br>L30 治レストア|L35 武つむじ  <br>L42 武つむじ・かい  <br>L49 武しでん  <br>L56 武しでん・かい  <br>L60 治ソウルキャッチ|L63 武ひしょう  <br>L70 武ひしょう・かい  <br>L77 武しゅら  <br>L80 治リフレッシュ  <br>L84 武しゅら・かい|L91 武むらくも  <br>L98 武むらくも・かい|
+|Learned Skills|L4 Phys Ougi  <br>L14 Phys Ougi Kai  <br>L21 Phys Evil Spirit  <br>L28 Phys Evil Spirit Kai  <br>L30 Cure Restore|L35 Phys Tsumuji  <br>L42 Phys Tsumuji Kai  <br>L49 Phys Shiden  <br>L56 Phys Shiden Kai  <br>L60 Cure Soul Catch|L63 Phys Hisho  <br>L70 Phys Hisho Kai  <br>L77 Phys Shura  <br>L80 Cure Refresh  <br>L84 Phys Shura Kai|L91 Phys Murakumo  <br>L98 Phys Murakumo Kai|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|せいれいのきし|959|620|316|348|252|284|10|15|5|下||4|||1|||||1|
+|Spirit Knight|959|620|316|348|252|284|10|15|5|Lower||4|||1|||||1|
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|習得スキル|L10 魔（火）えんねつ  <br>L14 光ライト  <br>L15 魔（光）せんこう  <br>L18 光レイ  <br>L20 魔（闇）あんこく|L40 魔（火）ぐれん  <br>L45 魔（光）はじゃ  <br>L50 魔（闇）きこく  <br>L60 補リムーブ  <br>L65 補ベース|L70 魔（火）ほうおう  <br>L74 光プリズム  <br>L75 魔（光）つくよみ  <br>L78 光レクイエム  <br>L80 魔（闇）らせつ|L90 補リセット  <br>L95 補ディスペル|
+|Learned Skills|L10 Mag(Fire) Flame  <br>L14 Light Light  <br>L15 Mag(Light) Flash  <br>L18 Light Ray  <br>L20 Mag(Dark) Kikoku|L40 Mag(Fire) Guren  <br>L45 Mag(Light) Haja  <br>L50 Mag(Dark) Kikoku  <br>L60 Supp Remove  <br>L65 Supp Base|L70 Mag(Fire) Ho-oh  <br>L74 Light Prism  <br>L75 Mag(Light) Tsukuyomi  <br>L78 Light Requiem  <br>L80 Mag(Dark) Rasetsu|L90 Supp Reset  <br>L95 Supp Dispel|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|にんじゃ|927|662|332|316|268|252|12|5|5|火|||4|2|||||||
+|Ninja|927|662|332|316|268|252|12|5|5|Fire|||4|2|||||||
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|習得スキル|L9　忍ふうしゃ  <br>L13 忍ほむら  <br>L17 忍らいめい  <br>L21 忍おぼろ  <br>L31 火ナパム|L35 火ブレイズ  <br>L39 忍ふうしゃ・かい  <br>L43 忍ほむら・かい  <br>L47 忍らいめい・かい  <br>L51 忍おぼろ・かい|L53 火バースト  <br>L57 火クリメイシン  <br>L69 忍ふうしゃ・めつ  <br>L73 忍ほむら・めつ  <br>L77 忍らいめい・めつ|L81 忍おぼろ・めつ  <br>L83 火カジャ  <br>L87 火ヘル|
+|Learned Skills|L9 Nin Fusha  <br>L13 Nin Homura  <br>L17 Nin Raimei  <br>L21 Nin Oboro  <br>L31 Fire Napalm|L35 Fire Blaze  <br>L39 Nin Fusha Kai  <br>L43 Nin Homura Kai  <br>L47 Nin Raimei Kai  <br>L51 Nin Oboro Kai|L53 Fire Burst  <br>L57 Fire Cremation  <br>L69 Nin Fusha Metsu  <br>L73 Nin Homura Metsu  <br>L77 Nin Raimei Metsu|L81 Nin Oboro Metsu  <br>L83 Fire Kaja  <br>L87 Fire Hell|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|バーサーカー|1022|537|364|364|221|221|9|25|15||2||1|||1|||||
+|Berserker|1022|537|364|364|221|221|9|25|15||2||1|||1|||||
 
 |   |   |   |
 |---|---|---|
-|習得スキル|L7　武おうぎ  <br>L14 闇ディム  <br>L18 闇ダークネス  <br>L30 忍ふうしゃ  <br>L38 武つむじ|L50 忍ほむら  <br>L66 武ひしょう  <br>L74 闇アンサラー  <br>L78 闇デモン  <br>L96 武むらくも|
+|Learned Skills|L7 Phys Ougi  <br>L14 Dark Dim  <br>L18 Dark Darkness  <br>L30 Nin Fusha  <br>L38 Phys Tsumuji|L50 Nin Homura  <br>L66 Phys Hisho  <br>L74 Dark Answerer  <br>L78 Dark Demon  <br>L96 Phys Murakumo|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|ヒーラー|800|912|221|221|348|364|10|15|0||||||2|||4|3|2|
+|Healer|800|912|221|221|348|364|10|15|0||||||2|||4|3|2|
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|習得スキル|L3　回ヒール  <br>L10 治レストア  <br>L15 回ヒールオール  <br>L18 補スキン  <br>L20 回ヒールライブ  <br>L25 治ソウルコール|L27 補ブレイン  <br>L30 回ヒールレイ  <br>L32 光ルード  <br>L34 光スクリーン  <br>L36 回ヒールリーフ  <br>L40 補プロテクト|L43 治ソウルキャッチ  <br>L45 治リフレッシュ  <br>L47 回ヒールレイク  <br>L50 補フォート  <br>L52 回ヒールフォール  <br>L54 光サンダー|L56 補ノート  <br>L58 光セクレッド  <br>L60 補シールド  <br>L63 回ヒールブレス  <br>L65 治ソウルフル  <br>L76 回ヒールフル|L79 補ノーム  <br>L81 光ホーリー  <br>L83 補エア  <br>L85 光ジャッジ  <br>L87 回ヒールマリン|
+|Learned Skills|L3 Heal Heal  <br>L10 Cure Restore  <br>L15 Heal Heal All  <br>L18 Supp Skin  <br>L20 Heal Heal Live  <br>L25 Cure Soul Catch|L27 Supp Brain  <br>L30 Heal Heal Ray  <br>L32 Light Rude  <br>L34 Light Screen  <br>L36 Heal Heal Leaf  <br>L40 Supp Protect|L43 Cure Soul Catch  <br>L45 Cure Refresh  <br>L47 Heal Heal Lake  <br>L50 Supp Fort  <br>L52 Heal Heal Fall  <br>L54 Light Thunder|L56 Supp Note  <br>L58 Light Sacred  <br>L60 Supp Shield  <br>L63 Heal Heal Breath  <br>L65 Cure Soulful  <br>L76 Heal Full Heal|L79 Supp Gnome  <br>L81 Light Holy  <br>L83 Supp Air  <br>L85 Light Judge  <br>L87 Heal Heal Marine|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|シャーマン|831|828|252|268|332|332|10|5|5|光||||3|||2|3|4||
+|Shaman|831|828|252|268|332|332|10|5|5|Light||||3|||2|3|4||
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|習得スキル|L5　治レストア  <br>L9　異シール  <br>L12 回ヒールドロ  <br>L16 火バレット  <br>L20 治キュア  <br>L22 治ソウルコール|L24 火ブラスト  <br>L26 回ヒールコート  <br>L31 回ヒールアクア  <br>L34 異シールオール  <br>L36 火フレイム  <br>L38 治ソウルキャッチ|L40 治リフレッシュ  <br>L42 回ヒールエア  <br>L44 火プロード  <br>L47 回ヒールライト  <br>L50 治キュアライト  <br>L53 異カース|L56 火スカーレット  <br>L58 回ヒールメディ  <br>L60 治ソウルフル  <br>L62 火カタストロフ  <br>L65 回ヒールマナ  <br>L75 異カースオール|L82 回ヒールストーム  <br>L87 火コメット  <br>L90 治リバイブ  <br>L92 火インフェルノ|
+|Learned Skills|L5 Cure Restore  <br>L9 Ailment Seal  <br>L12 Heal Heal Dro  <br>L16 Fire Bullet  <br>L20 Cure Cure  <br>L22 Cure Soul Call|L24 Fire Blast  <br>L26 Heal Heal Coat  <br>L31 Heal Heal Aqua  <br>L34 Ailment Seal All  <br>L36 Fire Flame  <br>L38 Cure Soul Catch|L40 Cure Refresh  <br>L42 Heal Heal Air  <br>L44 Fire Broad  <br>L47 Heal Heal Light  <br>L50 Cure Cure Light  <br>L53 Ailment Curse|L56 Fire Scarlet  <br>L58 Heal Heal Medi  <br>L60 Cure Soulful  <br>L62 Fire Catastrophe  <br>L65 Heal Heal Mana  <br>L75 Ailment Curse All|L82 Heal Heal Storm  <br>L87 Fire Comet  <br>L90 Cure Revive  <br>L92 Fire Inferno|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|まどうし|736|870|236|236|364|348|11|10|0|火||||4|2|3|3||||
+|Mage|736|870|236|236|364|348|11|10|0|Fire||||4|2|3|3||||
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|習得スキル|L2　火ファイア  <br>L8　火ヒート  <br>L10 異ベノム  <br>L17 闇スフィア  <br>L19 異スリプ  <br>L21 闇クラウド  <br>L23 火ナパム  <br>L25 火カグツチS|L27 異ベノムオール  <br>L29 火ブレイズ  <br>L31 光ルード  <br>L33 火サラマンダーS  <br>L35 光スクリーン  <br>L37 闇ハング  <br>L39 異スリプオール  <br>L41 闇ファントム|L44 火バースト  <br>L48 火クリメイシン  <br>L50 光サンダー  <br>L52 異デコム  <br>L54 光セクレッド  <br>L57 闇デスペア  <br>L59 火カグツチM  <br>L61 闇トゥーム|L63 火サラマンダーM  <br>L65 火バローグ  <br>L68 火プロミネンス  <br>L72 異デコムオール  <br>L80 光ホーリー  <br>L83 火カグツチL  <br>L85 光ジャッジ  <br>L87 闇カオス|L89 火サラマンダーL  <br>L91 闇プルトン  <br>L94 火マーズ  <br>L96 異ファージ|
+|Learned Skills|L2 Fire Fire  <br>L8 Fire Heat  <br>L10 Ailment Venom  <br>L17 Dark Sphere  <br>L19 Ailment Sleep  <br>L21 Dark Cloud  <br>L23 Fire Napalm  <br>L25 Fire Kagutsuchi S|L27 Ailment Venom All  <br>L29 Fire Blaze  <br>L31 Light Rude  <br>L33 Fire Salamander S  <br>L35 Light Screen  <br>L37 Dark Hang  <br>L39 Ailment Sleep All  <br>L41 Dark Phantom|L44 Fire Burst  <br>L48 Fire Cremation  <br>L50 Light Thunder  <br>L52 Ailment Decom  <br>L54 Light Sacred  <br>L57 Dark Despair  <br>L59 Fire Kagutsuchi M  <br>L61 Dark Tomb|L63 Fire Salamander M  <br>L65 Fire Balrog  <br>L68 Fire Prominence  <br>L72 Ailment Decom All  <br>L80 Light Holy  <br>L83 Fire Kagutsuchi L  <br>L85 Light Judge  <br>L87 Dark Chaos|L89 Fire Salamander L  <br>L91 Dark Pluton  <br>L94 Fire Mars  <br>L96 Ailment Phage|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|けっかいし|768|787|252|252|316|332|9|10|5|火、光、闇、下|||||4|2||2||4|
+|Barrier User|768|787|252|252|316|332|9|10|5|Fire, Light, Dark, Lower|||||4|2||2||4|
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|習得スキル|L4　光ライト  <br>L7　光レイ  <br>L10 補コート  <br>L12 補メルティ  <br>L16 補クイック  <br>L22 光ルード  <br>L24 光ヴァンS  <br>L26 回ヒールライブ  <br>L28 光スクリーン|L30 補エンハンス  <br>L32 光トールS  <br>L33 補リムーブ  <br>L34 闇ペイン  <br>L36 補デクライン  <br>L38 闇スクリーム  <br>L40 回ヒールレイ  <br>L41 補ベース  <br>L42 補ウォール|L44 回ヒールリーフ  <br>L46 光サンダー  <br>L48 補ブースト  <br>L50 光セクレッド  <br>L52 補シェル  <br>L54 闇ビクティム  <br>L56 回ヒールレイク  <br>L58 補ブレス  <br>L60 光ヴァンM|L62 闇ポルター  <br>L64 光トールM  <br>L66 光プリズム  <br>L68 回ヒールアーク  <br>L70 光レクイエム  <br>L72 補アーリマン  <br>L74 補シルフ  <br>L76 補クロノス  <br>L78 補リセット|L80 回ヒールレイン  <br>L82 闇グリモア  <br>L84 補ディスペル  <br>L86 光ヴァンL  <br>L88 闇ギルテア  <br>L91 光トールL  <br>L94 光グングニル  <br>L98 光セフィロト|
+|Learned Skills|L4 Light Light  <br>L7 Light Ray  <br>L10 Supp Coat  <br>L12 Supp Melty  <br>L16 Supp Quick  <br>L22 Light Rude  <br>L24 Light Van S  <br>L26 Heal Heal Live  <br>L28 Light Screen|L30 Supp Enhance  <br>L32 Light Thor S  <br>L33 Supp Remove  <br>L34 Dark Pain  <br>L36 Supp Decline  <br>L38 Dark Scream  <br>L40 Heal Heal Ray  <br>L41 Supp Base  <br>L42 Supp Wall|L44 Heal Heal Leaf  <br>L46 Light Thunder  <br>L48 Supp Boost  <br>L50 Light Sacred  <br>L52 Supp Shell  <br>L54 Dark Victim  <br>L56 Heal Heal Lake  <br>L58 Supp Bless  <br>L60 Light Van M|L62 Dark Polter  <br>L64 Light Thor M  <br>L66 Light Prism  <br>L68 Heal Heal Arc  <br>L70 Light Requiem  <br>L72 Supp Ariman  <br>L74 Supp Sylph  <br>L76 Supp Chronos  <br>L78 Supp Reset|L80 Heal Heal Rain  <br>L82 Dark Grimoire  <br>L84 Supp Dispel  <br>L86 Light Van L  <br>L88 Dark Giltea  <br>L91 Light Thor L  <br>L94 Light Gungnir  <br>L98 Light Sephiroth|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|アサシン|863|662|332|300|332|268|12|0|10|闇|2|||1||4|2||||
+|Assassin|863|662|332|300|332|268|12|0|10|Dark|2|||1||4|2||||
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|習得スキル|L5　闇ディム  <br>L8　闇ダークネス  <br>L13 火ファイア  <br>L15 異ベノム  <br>L17 火ヒート  <br>L23 異ベノム|L25 闇フェンリルS  <br>L27 武こうま  <br>L29 闇スクリーム  <br>L31 闇ティアマトS  <br>L34 異ベノムオール  <br>L44 闇ビクティム|L48 闇ポルター  <br>L52 武しでん  <br>L55 闇フェンリルM  <br>L60 闇ティアマトM  <br>L63 闇アンサラー  <br>L65 異ドゥーム|L68 闇デモン  <br>L73 火バローグ  <br>L77 火プロミネンス  <br>L80 武しゅら  <br>L85 闇フェンリルL  <br>L90 闇ティアマトL|L94 闇エンド  <br>L98 闇ニブル|
+|Learned Skills|L5 Dark Dim  <br>L8 Dark Darkness  <br>L13 Fire Fire  <br>L15 Ailment Venom  <br>L17 Fire Heat  <br>L23 Ailment Venom|L25 Dark Fenrir S  <br>L27 Phys Evil Spirit  <br>L29 Dark Scream  <br>L31 Dark Tiamat S  <br>L34 Ailment Venom All  <br>L44 Dark Victim|L48 Dark Polter  <br>L52 Phys Shiden  <br>L55 Dark Fenrir M  <br>L60 Dark Tiamat M  <br>L63 Dark Answerer  <br>L65 Ailment Doom|L68 Dark Demon  <br>L73 Fire Balrog  <br>L77 Fire Prominence  <br>L80 Phys Shura  <br>L85 Dark Fenrir L  <br>L90 Dark Tiamat L|L94 Dark End  <br>L98 Dark Nibel|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|ソウルコレクター|831|745|268|252|300|316|11|20|0|光、闇|||||3|2||3|2||
+|Soul Collector|831|745|268|252|300|316|11|20|0|Light, Dark|||||3|2||3|2||
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|習得スキル|L10 光クロス  <br>L15 回ヒールドロ  <br>L19 光ドラウト  <br>L23 治キュア  <br>L25 治ソウルコール  <br>L27 回ヒールコート|L29 闇ペイン  <br>L31 闇スクリーム  <br>L33 回ヒールアクア  <br>L37 光ボルト  <br>L41 光ルミナー  <br>L43 回ヒールエア|L47 闇ビクティム  <br>L49 回ヒールライト  <br>L51 闇ポルター  <br>L55 治キュアライト  <br>L57 光パニッシュ  <br>L59 回ヒールメディ|L61 光スターライト  <br>L71 回ヒールマナ  <br>L77 闇グリモア  <br>L81 闇ギルテア  <br>L83 回ヒールストーム  <br>L87 光オベリスク|L91 光アカシック|
+|Learned Skills|L10 Light Cross  <br>L15 Heal Heal Dro  <br>L19 Light Drought  <br>L23 Cure Cure  <br>L25 Cure Soul Call  <br>L27 Heal Heal Coat|L29 Dark Pain  <br>L31 Dark Scream  <br>L33 Heal Heal Aqua  <br>L37 Light Volt  <br>L41 Light Luminar  <br>L43 Heal Heal Air|L47 Dark Victim  <br>L49 Heal Heal Light  <br>L51 Dark Polter  <br>L55 Cure Cure Light  <br>L57 Light Punish  <br>L59 Heal Heal Medi|L61 Light Starlight  <br>L71 Heal Heal Mana  <br>L77 Dark Grimoire  <br>L81 Dark Giltea  <br>L83 Heal Heal Storm  <br>L87 Light Obelisk|L91 Light Akashic|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|シールドナイト|895|703|300|364|284|300|10|10|5|下||||2|||4|2||3|
+|Shield Knight|895|703|300|364|284|300|10|10|5|Lower||||2|||4|2||3|
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|習得スキル|L5　異スリプ  <br>L8　補メルティ  <br>L10 異ベノム  <br>L15 補スキン  <br>L17 補コート  <br>L19 異カース  <br>L21 補パリシュ  <br>L23 異スリプオール|L25 異シール  <br>L27 回ヒールライブ  <br>L29 異ベノムオール  <br>L31 火ナパム  <br>L33 補プロテクト  <br>L35 火ブレイズ  <br>L37 回ヒールレイ  <br>L39 補エンハンス|L41 異カースオール  <br>L43 回ヒールリーフ  <br>L45 補フォート  <br>L46 異シールオール  <br>L47 補ウォール  <br>L49 補フォース  <br>L51 火バースト  <br>L53 補デクライン|L54 異デコム  <br>L55 回ヒールレイク  <br>L57 火クリメイシン  <br>L59 補シールド  <br>L61 補シェル  <br>L66 回ヒールアーク  <br>L69 異デコムオール  <br>L72 補ノーム|L73 異ドゥーム  <br>L75 補シルフ  <br>L79 回ヒールレイン  <br>L81 補オーディン  <br>L83 火カジャ  <br>L85 火ヘル  <br>L87 補アーリマン  <br>L89 異ファージ|
+|Learned Skills|L5 Ailment Sleep  <br>L8 Supp Melty  <br>L10 Ailment Venom  <br>L15 Supp Skin  <br>L17 Supp Coat  <br>L19 Ailment Curse  <br>L21 Supp Parish  <br>L23 Ailment Sleep All|L25 Ailment Seal  <br>L27 Heal Heal Live  <br>L29 Ailment Venom All  <br>L31 Fire Napalm  <br>L33 Supp Protect  <br>L35 Fire Blaze  <br>L37 Heal Heal Ray  <br>L39 Supp Enhance|L41 Ailment Curse All  <br>L43 Heal Heal Leaf  <br>L45 Supp Fort  <br>L46 Ailment Seal All  <br>L47 Supp Wall  <br>L49 Supp Force  <br>L51 Fire Burst  <br>L53 Supp Decline|L54 Ailment Decom  <br>L55 Heal Heal Lake  <br>L57 Fire Cremation  <br>L59 Supp Shield  <br>L61 Supp Shell  <br>L66 Heal Heal Arc  <br>L69 Ailment Decom All  <br>L72 Supp Gnome|L73 Ailment Doom  <br>L75 Supp Sylph  <br>L79 Heal Heal Rain  <br>L81 Supp Odin  <br>L83 Fire Kaja  <br>L85 Fire Hell  <br>L87 Supp Ariman  <br>L89 Ailment Phage|
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Class|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Brk|Res|Phys|Mag|Nin|Fire|Light|Dark|Ail|Heal|Cure|Supp|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|クラス|HP|SP|攻|守|魔|抗|反|精|ブ|耐性|武|魔|忍|火|光|闇|異|回|治|補|
-|たびびと|895|703|300|284|300|284|10|15|5||1|1|1|1|1|1|1|1|1|1|
+|Traveler|895|703|300|284|300|284|10|15|5||1|1|1|1|1|1|1|1|1|1|
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|習得スキル|L6　武おうぎ  <br>L12 光ライト  <br>L14 闇ディム  <br>L16 火ファイア  <br>L18 回ヒール  <br>L20 火ヒート|L22 闇ダークネス  <br>L24 光レイ  <br>L30 武（闇）あんこく  <br>L32 回ヒールオール  <br>L34 治レストア  <br>L42 忍らいめい|L48 異スリプ  <br>L52 忍おぼろ  <br>L58 回ヒールフォール  <br>L60 武（光）せんこう  <br>L63 異スリプオール  <br>L65 補ブレス|L69 回ヒールブレス  <br>L71 武ひしょう  <br>L73 光プリズム  <br>L75 闇アンサラー  <br>L77 火バローグ  <br>L80 火プロミネンス|L82 闇デモン  <br>L84 光レクイエム  <br>L90 武（火）えんねつ  <br>L99 治リバイブ|
+|Learned Skills|L6 Phys Ougi  <br>L12 Light Light  <br>L14 Dark Dim  <br>L16 Fire Fire  <br>L18 Heal Heal  <br>L20 Fire Heat|L22 Dark Darkness  <br>L24 Light Ray  <br>L30 Phys(Dark) Darkness  <br>L32 Heal Heal All  <br>L34 Cure Restore  <br>L42 Nin Raimei|L48 Ailment Sleep  <br>L52 Nin Oboro  <br>L58 Heal Heal Fall  <br>L60 Phys(Light) Flash  <br>L63 Ailment Sleep All  <br>L65 Supp Bless|L69 Heal Heal Breath  <br>L71 Phys Hisho  <br>L73 Light Prism  <br>L75 Dark Answerer  <br>L77 Fire Balrog  <br>L80 Fire Prominence|L82 Dark Demon  <br>L84 Light Requiem  <br>L90 Phys(Fire) Flame  <br>L99 Cure Revive|

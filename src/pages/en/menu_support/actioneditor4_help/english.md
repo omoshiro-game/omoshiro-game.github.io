@@ -1,13 +1,25 @@
 ---
-title: How to Make it English-friendly?
+title: How to Make it English-friendly? | Action Editor 4 Help | Support | Omoshiro Game Shrine
+h1: How to Make it English-friendly?
+description: Online help for the action game creation software "Action Editor 4". "How to Make it English-friendly?" is a page within "Omoshiro Game Shrine".
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Support
-    url: /menu_support/
-  - name: Action Editor 4 Help
-    url: /menu_support/actioneditor4_help/
-  - name: How to Make it English-friendly?
-    url: /menu_support/actioneditor4_help/english/
+- name: Support
+  url: /menu_support/
+- name: Action Editor 4 Help
+  url: /menu_support/actioneditor4_help/
+- name: How to Make it English-friendly?
+  url: /menu_support/actioneditor4_help/english/
+keywords: 
+- Help
+- Action Game
+- Action Editor
+- Creation Software
+- Tool
+- Fun
+- Free
+- Game
+- Online
 ---
 
 <a name="TOP"></a>

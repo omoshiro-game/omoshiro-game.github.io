@@ -1,5 +1,7 @@
 ---
 title: 英語圏向けにするには？　|　アクションエディター4 ヘルプ　|　サポート　｜　おもしろゲーム神殿
+h1: 英語圏向けにするには？
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「英語圏向けにするには？」は「おもしろゲーム神殿」内のページです
 layout: /src/layouts/Base.astro
 breadcrumb:
 - name: サポート
@@ -8,8 +10,16 @@ breadcrumb:
   url: /menu_support/actioneditor4_help/
 - name: 英語圏向けにするには？
   url: /menu_support/actioneditor4_help/english/
-h1: 英語圏向けにするには？
-description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「英語圏向けにするには？」は「おもしろゲーム神殿」内のページです
+keywords: 
+- ヘルプ
+- アクションゲーム
+- アクションエディター
+- 制作ソフト
+- ツール
+- おもしろ
+- 無料
+- ゲーム
+- オンライン
 ---
 
 <a name="TOP"></a>

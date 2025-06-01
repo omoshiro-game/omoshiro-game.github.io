@@ -78,5 +78,5 @@ For feedback, site requests, and other matters please use the [New BBS issues tr
 
 <Past Logs> (No new posts)  
 [Game BBS](/patio_game/patio.cgi)  
-[Special BBS](/en/menu_special_bbs/)
+[Special BBS](/menu_special_bbs/)
 ```

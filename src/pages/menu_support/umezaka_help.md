@@ -1,11 +1,24 @@
 ---
-title: うめざかくん160k ヘルプ
+title: うめざかくん160k ヘルプ　|　サポート　｜　おもしろゲーム神殿
+h1: うめざかくん160k ヘルプ
+description: 投手育成野球ゲーム「うめざかくん160k」のオンラインヘルプです。
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: サポート
     url: /menu_support/
   - name: うめざかくん160k ヘルプ
     url: /menu_support/umezaka_help/
+keywords: 
+- うめざかくん160k
+- 野球
+- 投手
+- 育成
+- データ
+- 成績
+- ヘルプ
+- おもしろ
+- 無料
+- ゲーム
 ---
 
 <a name="TOP"></a>

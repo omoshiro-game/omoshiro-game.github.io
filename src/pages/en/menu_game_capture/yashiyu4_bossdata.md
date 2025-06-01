@@ -1,142 +1,219 @@
 ---
-title: 「レジェンドオブヤシーユ4」ボスデータ
+title: Legend of Yashiyu 4 Boss Data
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Game Walkthrough
     url: /menu_game_capture/
   - name: Rejiyashi 4
     url: /menu_game_capture/#LOY4
-  - name: 「レジェンドオブヤシーユ4」ボスデータ
+  - name: Legend of Yashiyu 4 Boss Data
     url: /menu_game_capture/yashiyu4_bossdata/
 ---
 
-## 「レジェンドオブヤシーユ4」ボスデータ
+## "Legend of Yashiyu 4" Boss Data
 
-見づらければ、ウインドウを最大化して下さい。  
+If it's hard to see, please maximize the window.  
   
-■　データの見方  
-・「型」はボスタイプの事で、2周目以降のステータスの追加値を決めるものです。  
+■ How to Read the Data  
+・"Type" refers to the boss type, which determines the bonus stats for the 2nd playthrough and beyond.  
   
-・「夜」とは夜になった時の「こうげき（攻）」、「まもり（守）」、「まりょく（魔）」、「ていこう（抗）」の変化率で、例えば120なら夜の時に本来の120％の能力になります。  
+・"Night" refers to the rate of change in "Attack (Atk)", "Defense (Def)", "Magic (Mag)", and "Resistance (Res)" at night. For example, 120 means the ability becomes 120% of its original value at night.  
   
-・スキルの頭にある漢字1文字はスキルのカテゴリーを表しています。（※魔→魔法剣、異→ステータス異常系、場→フィールド系、文字なし→その他）  
+・The single Kanji character at the beginning of each skill name indicates the skill category. (※魔→Magic Sword, 異→Status Ailment, 場→Field, no character→Other)  
   
-・「火」、「光」、「闇」、「下」はそれぞれの属性耐性や弱点です。  
-－　→　耐性なし  
-○　→　耐性あり  
-×　→　弱点  
+・"Fire", "Light", "Dark", and "Lower" indicate elemental resistances or weaknesses.  
+－ → No resistance  
+○ → Resistance  
+× → Weakness  
   
-■　知っておくと便利！？　敵の思考ルーチン  
-・フィールド系のスキルはフィールドが空いている時にしか使用しない。  
-・SPが足りない時は通常攻撃になる。（ただし、反撃時にSPが足りない場合は何もしない）  
+■ Useful to know！？ Enemy AI  
+・Field-type skills are only used when the field is clear.  
+・If SP is insufficient, they will resort to normal attacks. (However, if SP is insufficient during a counterattack, they will do nothing).  
   
-■　2周目以降のステータス  
-HP　＝　1周目の値　＋　○○×（敵レベル－１）  
-SP　＝　1周目の値　＋　○○×（敵レベル－１）  
-こうげき　＝　1周目の値　＋　｛○○ + （○○×100÷夜の能力変化率）｝÷2　×　（敵レベル－１）  
-まもり　＝　1周目の値　＋　｛○○ + （○○×100÷夜の能力変化率）｝÷2　×　（敵レベル－１）  
-まりょく　＝　1周目の値　＋　｛○○ + （○○×100÷夜の能力変化率）｝÷2　×　（敵レベル－１）  
-ていこう　＝　1周目の値　＋　｛○○ + （○○×100÷夜の能力変化率）｝÷2　×　（敵レベル－１）  
-スキルレベル　＝　敵レベル  
+■ 2nd Playthrough and Beyond Stats  
+HP = 1st Playthrough Value + ○○ × (Enemy Level - 1)  
+SP = 1st Playthrough Value + ○○ × (Enemy Level - 1)  
+Attack = 1st Playthrough Value + {○○ + (○○ × 100 ÷ Night Ability Change Rate)} ÷ 2 × (Enemy Level - 1)  
+Defense = 1st Playthrough Value + {○○ + (○○ × 100 ÷ Night Ability Change Rate)} ÷ 2 × (Enemy Level - 1)  
+Magic = 1st Playthrough Value + {○○ + (○○ × 100 ÷ Night Ability Change Rate)} ÷ 2 × (Enemy Level - 1)  
+Resistance = 1st Playthrough Value + {○○ + (○○ × 100 ÷ Night Ability Change Rate)} ÷ 2 × (Enemy Level - 1)  
+Skill Level = Enemy Level  
   
-「こうげき」～「ていこう」の計算は少し複雑ですが、単に夜の能力変化を考慮しているだけ。  
-「こうげき」なら、敵レベルが1上がるごとに○○くらいUPします。  
+The calculation for "Attack" to "Resistance" is a bit complex, but it simply takes into account the night ability change.  
+For "Attack", it increases by about ○○ for every 1 enemy level.  
   
-「○○」はボスタイプによって異なります。  
-以下の表をご覧下さい。
+"○○" varies by boss type.  
+Please refer to the table below.  
 
-|   |   |   |   |   |   |   |
+||HP|SP|Atk|Def|Mag|Res|
 |---|---|---|---|---|---|---|
-||HP|SP|攻|守|魔|抗|
-|Aタイプ|5000|1000|420|170|560|170|
-|Bタイプ|2600|900|350|165|420|165|
-|Cタイプ|1800|800|290|160|300|160|
-|Dタイプ|1400|700|250|155|220|155|
-|Fタイプ|1000|500|140|145|120|145|
-|Gタイプ|5000|1000|370|170|340|170|
+|Type A|5000|1000|420|170|560|170|
+|Type B|2600|900|350|165|420|165|
+|Type C|1800|800|290|160|300|160|
+|Type D|1400|700|250|155|220|155|
+|Type F|1000|500|140|145|120|145|
+|Type G|5000|1000|370|170|340|170|
 
   
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|がけっぷちせんし|A|1300|200|210|200|160|190|9|5|100|－|－|×|×|30|80|40|武かぶとわり  <br>補メルティ  <br>火フレオル||
-|備考|HPが半分以下で昼の前半になると「補メルティ」。　ステータス異常耐性は「し」30％、その他が50％。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ロージン|C|750|50|180|150|130|180|10|20|100|－|－|－|－|30|20|20|武とっしん  <br>光ライト||
-|備考|必ず「こうげき」の高いキャラを狙う。　ステータス異常耐性は全部50％。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|もりのロージン|A|2000|200|250|200|180|250|9|20|70|×|－|－|－|130|160|50|補ブレス  <br>治レストア  <br>回ヒールドロ  <br>異ベノムオール  <br>異スリプ  <br>光ドラウト||
-|備考|序盤に「補ブレス」と「異ベノムオール」を1回ずつ使う。　ステータス異常耐性は「し」30％、「どく」「ふはい」30％、「のろい」50％。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ネラーウス|C|1500|300|220|170|120|140|9|5|100|○|－|－|－|250|60|20|魔（闇）あんこく  <br>火ブラスト  <br>補フォース||
-|備考|必ず「HP」の低いキャラを狙う。　一体でかつ昼になると「補フォース」を使うことがある。　ステータス異常耐性は「し」10％、その他が30％。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|トウコウ|G|6000|1500|250|190|150|160|12|10|120|－|－|－|－|1000|300|50|武おうぎ  <br>武こうま  <br>武こまいぬ  <br>火バレット  <br>闇スフィア  <br>光スクリーン|異デコム  <br>異シール|
-|備考|2回連続で行動。　ＨＰが70％以下になると「武こまいぬ」を使いだす。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|まどうしフード|C|2500|600|250|170|250|220|10|5|100|－|－|－|－|400|100|5|闇ディム  <br>闇ペイン  <br>闇ダークネス  <br>闇スクリーム  <br>闇ビクティム  <br>補スロウ||
-|備考|昼の前半になると「補スロウ」。　魔法攻撃が多い。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|シャドー|F|600|300|250|500|180|180|9|0|100|－|×|○|○|200|100|10|補メルティ  <br>闇ディム||
-|備考|アンデッド。　「補メルティ」をよく使う。　ステータス異常耐性は全部30％。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|モードク|A|9000|1500|470|220|220|190|11|5|100|×|－|×|×|1400|700|30|武とっしん  <br>異カース  <br>忍ほむら・かい  <br>異ガスト||
-|備考|夜になると「異ガスト」を連発。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|トウコウ(2回目)|G|6500|2000|270|180|180|180|12|10|120|－|－|－|－|2000|1000|40|武こうま  <br>武つむじ  <br>武こまいぬ  <br>武おろち  <br>火ナパム  <br>闇ペイン|光ルミナー  <br>異デコム  <br>異シール|
-|備考|2回連続で行動。　ＨＰが70％以下になると「武こまいぬ」、40％以下になると「武おろち」を使いだす。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ほのおのノルフェト|A|9000|800|450|300|400|300|11|5|70|○|－|×|－|2500|2000|30|火バースト  <br>火スカーレット  <br>火クリメイシン  <br>火カタストロフ  <br>魔（火）ぐれん  <br>火カジャ|場ほのおのちかい  <br>火ファイア|
-|備考|武器攻撃に対して「火ファイア」で反撃。　ＨＰが50％以下になると高確率で「場ほのおのちかい」。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|こおりのグレイシア|A|8000|1000|360|320|350|220|11|0|130|×|○|－|－|3000|2500|30|武しでん  <br>光スターライト  <br>フリーズ  <br>異スリプオール  <br>補エンハンス  <br>補プロテクト|グレーシャ|
-|備考|ＨＰが50％以下になると「グレーシャ」を連発。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|つるぎのバーサ|A|8500|800|400|250|200|200|11|20|100|－|－|－|×|3500|3000|30|武つむじ  <br>忍らいめい  <br>忍らいめい・かい  <br>武ひしょう  <br>武りゅうじん  <br>場アイテムふうじ||
-|備考|毎ターン「こうげき」が5％上昇。　ＨＰが50％以下になると高確率で「場アイテムふうじ」。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ときのムタ|A|7500|1100|430|300|400|400|16|0|100|－|－|－|○|4000|3500|30|異ファージ  <br>回ヒールライト  <br>時シェイク  <br>補アーリマン  <br>補リムーブ  <br>補スロウ|光パニッシュ  <br>闇デスペア  <br>闇デモン|
-|備考|昼は補助中心、夜は魔法攻撃中心。　HPが50％以下になると「回ヒールライト」。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ノルフェト|D|2300|400|370|250|280|250|8|5|70|○|－|×|－|1200|3000|10|魔（火）ぐれん  <br>火バースト  <br>火スカーレット  <br>火カジャ  <br>火クリメイシン  <br>火カタストロフ|火ファイア|
-|備考|武器攻撃に対して「火ファイア」で反撃。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|グレイシア|D|2300|400|350|370|260|250|8|0|130|×|○|－|－|1200|3000|10|武しでん  <br>光スターライト  <br>フリーズ  <br>グレーシャ  <br>異スリプ  <br>補プロテクト|補エンハンス|
-|備考|昼なら補助スキルを使うことがある。　今回は残りHPに関係なく「グレーシャ」を使ってくるが、使用頻度は低め。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|バーサ|D|2700|350|270|250|130|200|8|20|100|－|－|－|×|1200|3000|10|武つむじ  <br>武ひしょう  <br>忍らいめい  <br>忍らいめい・かい  <br>武りゅうじん||
-|備考|毎ターン「こうげき」が5％上昇。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ムタ|D|2000|500|290|300|270|400|12|0|100|－|－|－|○|1200|3000|10|異ファージ  <br>時シェイク  <br>補スロウ  <br>補アーリマン  <br>闇デモン  <br>闇デスペア|光パニッシュ  <br>回ヒールライト|
-|備考|昼は補助中心、夜は魔法攻撃中心。　HPが50％以下になると「回ヒールライト」。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|こころのまおうスピルト|B|5000|3000|600|400|450|400|11|10|50|－|－|－|－|3000|2000|10|火カジャ  <br>火ヘル  <br>光ホーリー  <br>光ジャッジ  <br>闇グリモア  <br>闇ギルテア|補エア|
-|備考|毎ターン「HP」が5％回復。　HPが50％以下になると「補エア」を使うことがある。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|スピルト・セカンド|B|7500|3000|500|300|350|300|11|10|100|－|－|－|－|6000|4000|20|武しゅら  <br>光オベリスク  <br>闇カオス  <br>フリーズ  <br>異ドゥーム  <br>異ファージ|タスラム  <br>ハルマゲ|
-|備考|※Ver1.41以前ではボスタイプがAになっています！|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|まじゅうトウコウ|G|9000|2000|350|300|220|240|10|10|120|－|×|○|○|7000|5000|30|武つむじ  <br>武ひしょう  <br>武こまいぬ  <br>武おろち  <br>武してん  <br>闇ポルター|闇デモン|
-|備考|2回連続で行動。　ＨＰが70％以下になると「武おろち」、40％以下になると「武してん」を使いだす。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ぎんりゅう|B|6000|1000|400|5000|250|100|10|20|100|－|×|－|×|4000|3000|10|武とっしん  <br>魔（闇）らせつ  <br>忍おぼろ・めつ  <br>闇プルトン  <br>ドラブレス||
-|備考|一体になると50％近い確率で「ドラブレス」。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|きんりゅう|B|6000|1000|400|100|250|5000|10|20|100|－|－|×|×|4000|3000|10|武とっしん  <br>魔（光）つくよみ  <br>忍らいめい・めつ  <br>光アカシック  <br>ドラブレス||
-|備考|一体になると50％近い確率で「ドラブレス」。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ヤーソン|A|6000|2000|480|330|330|330|13|50|100|－|○|－|○|8000|6000|20|武むらくも  <br>火マーズ  <br>光セフィロト  <br>異シールオール  <br>時ラプス  <br>回ヒールフル||
-|備考|HPが50％以下になると「回ヒールフル」。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ダークヤシーユ|A|9000|2000|450|330|250|250|13|5|140|－|－|○|－|8000|6000|20|武ひしょう  <br>武しゅら  <br>火スカーレット  <br>闇トゥーム  <br>闇ニブル  <br>補ブレイブ|補フラッド|
-|備考|一定の間隔で「補ブレイブ」。　HPが50％以下になると「闇ニブル」を使いだす。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|ミクトル|F|1700|1000|400|300|330|300|10|0|20|－|○|－|－|1300|1000|3|火フレイム  <br>光プリズム  <br>光セクレッド  <br>回ヒール  <br>場やみのかべ||
-|備考|三体以下になると「場やみのかべ」。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|スピルト・サード|B|6500|1500|450|300|300|300|12|20|100|－|－|－|－|10000|5000|20|火マーズ  <br>火ムスペル  <br>光グングニル  <br>光セフィロト  <br>闇エンド  <br>闇ニブル|タスラム  <br>フィルムール|
-|備考||   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|名前|型|HP|SP|攻|守|魔|抗|反|精|夜|火|光|闇|下|Exp|S|BP|スキル|   |
-|スピルト・ファイナル|A|9000|3000|500|400|350|400|12|0|100|－|－|－|－|20000|0|20|武むらくも  <br>魔（火）ほうおう  <br>魔（光）つくよみ  <br>魔（闇）らせつ  <br>フリーズ  <br>グレーシャ|異ドゥーム  <br>場さまようじかん  <br>チャージ  <br>ラグナロク|
-|備考|1ターン目に必ず「場さまようじかん」。　「チャージ」の次のターンに全体攻撃魔法「ラグナロク」を放つ。|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Cliffside Warrior|A|1300|200|210|200|160|190|9|5|100|－|－|×|×|30|80|40|Phys Helmet Split<br>Supp Melty<br>Fire Flame Ray|
+
+**Notes**: If HP is below half and it's early day, "Supp Melty". Status ailment resistance: "Death" 30%, others 50%.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rojin|C|750|50|180|150|130|180|10|20|100|－|－|－|－|30|20|20|Phys Charge<br>Light Light||
+
+**Notes**: Always targets the character with high "Attack". Status ailment resistance is all 50%.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Forest Rojin|A|2000|200|250|200|180|250|9|20|70|×|－|－|－|130|160|50|Supp Bless<br>Cure Restore<br>Heal Heal Drop<br>Ailment Venom All<br>Ailment Sleep<br>Light Drought||
+
+**Notes**: Uses "Supp Bless" and "Ailment Venom All" once each at the beginning. Status ailment resistance: "Death" 30%, "Poison", "Decay" 30%, "Curse" 50%.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Nerlaus|C|1500|300|220|170|120|140|9|5|100|○|－|－|－|250|60|20|Mag(Dark) Darkness<br>Fire Blast<br>Supp Force||
+
+**Notes**: Always targets characters with low "HP". May use "Supp Force" when alone and it's daytime. Status ailment resistance: "Death" 10%, others 30%.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Toukou|G|6000|1500|250|190|150|160|12|10|120|－|－|－|－|1000|300|50|Phys Ougi<br>Phys Evil Spirit<br>Phys Komainu<br>Fire Bullet<br>Dark Sphere<br>Light Screen|Ailment Decom<br>Ailment Seal|
+
+**Notes**: Acts twice consecutively. Starts using "Phys Komainu" when HP is 70% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Mage Hood|C|2500|600|250|170|250|220|10|5|100|－|－|－|－|400|100|5|Dark Dim<br>Dark Pain<br>Dark Darkness<br>Dark Scream<br>Dark Victim<br>Supp Slow||
+
+**Notes**: Uses "Supp Slow" when it's early day. Mostly uses magic attacks.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Shadow|F|600|300|250|500|180|180|9|0|100|－|×|○|○|200|100|10|Supp Melty<br>Dark Dim||
+
+**Notes**: Undead. Often uses "Supp Melty". Status ailment resistance is all 30%.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Modok|A|9000|1500|470|220|220|190|11|5|100|×|－|×|×|1400|700|30|Phys Charge<br>Ailment Curse<br>Nin Homura Kai<br>Ailment Gust||
+
+**Notes**: Repeatedly uses "Ailment Gust" at night.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Toukou (2nd Time)|G|6500|2000|270|180|180|180|12|10|120|－|－|－|－|2000|1000|40|Phys Evil Spirit<br>Phys Tsumuji<br>Phys Komainu<br>Phys Orochi<br>Fire Napalm<br>Dark Pain|Light Luminar<br>Ailment Decom<br>Ailment Seal|
+
+**Notes**: Acts twice consecutively. Starts using "Phys Komainu" when HP is 70% or below, "Phys Orochi" when 40% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Flame Norfeto|A|9000|800|450|300|400|300|11|5|70|○|－|×|－|2500|2000|30|Fire Burst<br>Fire Scarlet<br>Fire Cremation<br>Fire Catastrophe<br>Mag(Fire) Guren<br>Fire Kaja|Field Oath of Fire<br>Fire Fire|
+
+**Notes**: Counterattacks physical attacks with "Fire Fire". High chance of "Field Oath of Fire" when HP is 50% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Ice Gracia|A|8000|1000|360|320|350|220|11|0|130|×|○|－|－|3000|2500|30|Phys Shiden<br>Light Starlight<br>Freeze<br>Ailment Sleep All<br>Supp Enhance<br>Supp Protect|Glacier|
+
+**Notes**: Repeatedly uses "Glacier" when HP is 50% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Sword Bersa|A|8500|800|400|250|200|200|11|20|100|－|－|－|×|3500|3000|30|Phys Tsumuji<br>Nin Raimei<br>Nin Raimei Kai<br>Phys Hisho<br>Phys Ryujin<br>Field Item Seal||
+
+**Notes**: Attack increases by 5% every turn. High chance of "Field Item Seal" when HP is 50% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Time Muta|A|7500|1100|430|300|400|400|16|0|100|－|－|－|○|4000|3500|30|Ailment Phage<br>Heal Heal Light<br>Time Shake<br>Supp Ariman<br>Supp Remove<br>Supp Slow|Light Punish<br>Dark Despair<br>Dark Demon|
+
+**Notes**: Auxiliary-focused during the day, magic attack-focused at night. "Heal Heal Light" when HP is 50% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Norfeto|D|2300|400|370|250|280|250|8|5|70|○|－|×|－|1200|3000|10|Mag(Fire) Guren<br>Fire Burst<br>Fire Scarlet<br>Fire Kaja<br>Fire Cremation<br>Fire Catastrophe|Fire Fire|
+
+**Notes**: Counterattacks physical attacks with "Fire Fire".
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Glacia|D|2300|400|350|370|260|250|8|0|130|×|○|－|－|1200|3000|10|Phys Shiden<br>Light Starlight<br>Freeze<br>Glacier<br>Ailment Sleep<br>Supp Protect|Supp Enhance|
+
+**Notes**: May use auxiliary skills during the day. This time, it uses "Glacier" regardless of remaining HP, but usage frequency is low.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Bersa|D|2700|350|270|250|130|200|8|20|100|－|－|－|×|1200|3000|10|Phys Tsumuji<br>Phys Hisho<br>Nin Raimei<br>Nin Raimei Kai<br>Phys Ryujin||
+
+**Notes**: Attack increases by 5% every turn.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Muta|D|2000|500|290|300|270|400|12|0|100|－|－|－|○|1200|3000|10|Ailment Phage<br>Time Shake<br>Supp Slow<br>Supp Ariman<br>Dark Demon<br>Dark Despair|Light Punish<br>Heal Heal Light|
+
+**Notes**: Auxiliary-focused during the day, magic attack-focused at night. "Heal Heal Light" when HP is 50% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Demon King Spilt of Heart|B|5000|3000|600|400|450|400|11|10|50|－|－|－|－|3000|2000|10|Fire Kaja<br>Fire Hell<br>Light Holy<br>Light Judge<br>Dark Grimoire<br>Dark Giltea|Supp Air|
+
+**Notes**: HP recovers by 5% every turn. May use "Supp Air" when HP is 50% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Spilt Second|B|7500|3000|500|300|350|300|11|10|100|－|－|－|－|6000|4000|20|Phys Shura<br>Light Obelisk<br>Dark Chaos<br>Freeze<br>Ailment Doom<br>Ailment Phage|Taslam<br>Halmage|
+
+**Notes**: ※Boss type was A in Ver1.41 and earlier!
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Beast Toukou|G|9000|2000|350|300|220|240|10|10|120|－|×|○|○|7000|5000|30|Phys Tsumuji<br>Phys Hisho<br>Phys Komainu<br>Phys Orochi<br>Phys Shiten<br>Dark Polter|Dark Demon|
+
+**Notes**: Acts twice consecutively. Starts using "Phys Orochi" when HP is 70% or below, "Phys Shiten" when 40% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Silver Dragon|B|6000|1000|400|5000|250|100|10|20|100|－|×|－|×|4000|3000|10|Phys Charge<br>Mag(Dark) Rasetsu<br>Nin Oboro Metsu<br>Dark Pluton<br>Dragon Breath||
+
+**Notes**: If alone, "Dragon Breath" with nearly 50% probability.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Gold Dragon|B|6000|1000|400|100|250|5000|10|20|100|－|－|×|×|4000|3000|10|Phys Charge<br>Mag(Light) Tsukuyomi<br>Nin Raimei Metsu<br>Light Akashic<br>Dragon Breath||
+
+**Notes**: If alone, "Dragon Breath" with nearly 50% probability.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Yason|A|6000|2000|480|330|330|330|13|50|100|－|○|－|○|8000|6000|20|Phys Murakumo<br>Fire Mars<br>Light Sephiroth<br>Ailment Seal All<br>Time Lapse<br>Heal Full Heal||
+
+**Notes**: If HP is 50% or below, "Heal Full Heal".
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Dark Yashiyu|A|9000|2000|450|330|250|250|13|5|140|－|－|○|－|8000|6000|20|Phys Hisho<br>Phys Shura<br>Fire Scarlet<br>Dark Tomb<br>Dark Nibel<br>Supp Brave|Supp Flood|
+
+**Notes**: Uses "Supp Brave" at regular intervals. Starts using "Dark Nibel" when HP is 50% or below.
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Mictor|F|1700|1000|400|300|330|300|10|0|20|－|○|－|－|1300|1000|3|Fire Flame<br>Light Prism<br>Light Sacred<br>Heal Heal<br>Field Dark Wall||
+
+**Notes**: If three or fewer, "Field Dark Wall".
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Spilt Third|B|6500|1500|450|300|300|300|12|20|100|－|－|－|－|10000|5000|20|Fire Mars<br>Fire Muspel<br>Light Gungnir<br>Light Sephiroth<br>Dark End<br>Dark Nibel|Taslam<br>Filmour|
+
+**Notes**: 
+
+|Name|Type|HP|SP|Atk|Def|Mag|Res|Rct|Spr|Night|Fire|Light|Dark|Lower|Exp|S|BP|Skills|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Spilt Final|A|9000|3000|500|400|350|400|12|0|100|－|－|－|－|20000|0|20|Phys Murakumo<br>Mag(Fire) Phoenix<br>Mag(Light) Tsukuyomi<br>Mag(Dark) Rasetsu<br>Freeze<br>Glacier|Ailment Doom<br>Field Wandering Time<br>Charge<br>Ragnarok|
+
+**Notes**: Always uses "Field Wandering Time" on Turn 1. Fires area magic "Ragnarok" on the next turn after "Charge".
