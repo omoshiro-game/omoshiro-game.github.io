@@ -38,7 +38,6 @@ const _keywords = keywords ? keywords : lang == "ja" ? "アクションゲーム
 	title={SITE_TITLE}
 	href={new URL('rss.xml', Astro.site)}
 />
-<!-- <meta name="generator" content={Astro.generator} /> -->
 
 <!-- Font preloads -->
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
@@ -50,7 +49,7 @@ const _keywords = keywords ? keywords : lang == "ja" ? "アクションゲーム
 <!-- Primary Meta Tags -->
 <title>{title}</title>
 <meta name="title" content={title} />
-
+<meta itemprop="name" content={lang == "ja" ? "おもしろゲーム神殿" : "Omoshiro-game"}>
 <meta name="keywords" content={_keywords}/>	
 <meta name="description" content={description} />
 
