@@ -31,13 +31,17 @@ og:
 **アクションエディター4で制作したゲームは、各自ホームページ等で気軽に配布できます。**  
 詳細は付属の「ゲームの配布について.html」（旧名「二次配布について.html」）をご覧下さい。
 
-|アクションエディター4　[最新版をダウンロード(zip)](/soft/ActionEditor4/ActionEditor4.zip)|   |
+<a href="/soft/ActionEditor4/ActionEditor4.zip" class="AhrefsAnalytics-event-download" style="aspect-ratio: 26 / 6; height: 60px; display: block; background: #479300; border-radius: 10px;">
+  <img src="/images/DL_AE4.png" alt="ア公式ダウンロードリンク：ゲーム制作ソフト「アクションエディター4」Windows版（無料）" style="width: 260px; height: 60px;">
+</a>
+
+|アクションエディター4　<a class="AhrefsAnalytics-event-download-legacy" href="/soft/ActionEditor4/ActionEditor4.zip">最新版をダウンロード(zip)</a> |   |
 |---|---|
 |バージョン|10.20|
 |ジャンル|アクションゲーム制作ソフト|
 |対象人数|1人|
 |ソフト種別|フリーソフト（無料）|
-|動作確認|Windows10、8、7、Vista、XP|
+|動作確認|Windows11、10、8、7、Vista、XP|
 |初期版公開|2008/9/26|
 |最新版公開|2020/12/24|
 |コメント|アクションエディターシリーズ最新作です。  <br>**プログラミング不要**で2Dアクションゲームが楽しく作れます。  <br>高い開発効率となかなかの自由度があります。  <br>**アクションゲームだけでなくアクションRPG、シューティングゲーム、パズルゲーム等の制作も可能**です。|

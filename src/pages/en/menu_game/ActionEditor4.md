@@ -34,7 +34,11 @@ There is also a collection of games created with Action Editor 4.
 **Games created with Action Editor 4 can be freely distributed on your own website, etc.**  
 For details, please refer to the included "About Game Distribution.html" (formerly "About Secondary Distribution.html").  
 
-|Action Editor 4 [Download Latest Version (zip)](/soft/ActionEditor4/ActionEditor4.zip)|   |
+<a href="/soft/ActionEditor4/ActionEditor4.zip" class="AhrefsAnalytics-event-download" style="aspect-ratio: 26 / 6; height: 60px; display: block; background: #479300; border-radius: 10px;">
+  <img src="/images/DL_AE4_EN.png" alt="Official download link: Game production software Action Editor 4 Windows version (free)" style="width: 260px; height: 60px;">
+</a>
+
+|Action Editor 4 <a class="AhrefsAnalytics-event-download-legacy" href="/soft/ActionEditor4/ActionEditor4.zip">Download Latest Version (zip)</a> |   |
 |---|---|
 |Version|10.20|
 |Genre|Action Game Creation Software|
