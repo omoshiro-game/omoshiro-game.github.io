@@ -47,6 +47,24 @@ div#sidebar{
 }
 
 
+@media screen and (max-width: 520px) {
+	div#sidebar {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 10px;
+		float: none;
+	}
+
+	div#sidebar .menu:first-child {
+		grid-column: 1;
+		grid-row: 1 / span 3;
+	}
+
+	div#sidebar .menu:not(:first-child) {
+		grid-column: 2;
+	}
+}
+
 /*サイドバー内のPタグ*/
 div#sidebar p{
 	margin: 15px;
