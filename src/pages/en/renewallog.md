@@ -1888,7 +1888,7 @@ og:
     Added Rejiyashi 3's "Item Data" to "Game-Specific Data Collection"  
       
 - -2005/3/28-  
-    Added "Omoshiro Game Chat" to menu (borrowed [Free Rental Chat - Net4u](https://web.archive.org/web/20220410111758/http://www.net4u.org/))  
+    Added "Omoshiro Game Chat" to menu (borrowed [Free Rental Chat - Net4u](http://www.net4u.org/))  
       
 - -2005/3/26-  
     Uploaded game character theme "Dark Yashiyu's Theme"  
