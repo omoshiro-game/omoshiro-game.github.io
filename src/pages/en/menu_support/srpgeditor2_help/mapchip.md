@@ -1,3 +1,4 @@
+---
 title: Map Chip Placement | Simulation RPG Editor 2 Help | Support | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
