@@ -18,6 +18,26 @@ og:
 
 ## Recent Updates
 
+- -2025/06/09-  
+    Good news for SRPG creators!  
+    
+    The **Simulation RPG Editor 2 help guide** has been updated.  
+    You can find the latest version here: [Simulation RPG Editor 2 Help](/en/menu_support/srpgeditor2_help/)  
+    
+    Additionally, I've taken the time to clean out some old, broken links across the site.  
+    Please report any out-of-date resources or broken link!
+
+- -2025/06/08-  
+    Thinking of creating a new action game, but unsure where to start or which tool to use?  
+    
+    To help you out, we've put together a brief comparison between ACTION EDITOR 4 and 『ACTION GAME MAKER』, a popular modern tool.  
+    
+    Whether you prioritize ease of use, system requirements, or engine features, our guide might just help you find what's best for you.  
+    
+    Check out our comparison guide between [**ACTION EDITOR 4** and **ACTION GAME MAKER** !](/en/menu_gametool/action-editor-vs-action-game-maker/)  
+    
+    Hopefully, this will give you the nudge you need to start creating your games!
+
 - -2025/05/25-  
     Long time no see.  
     

@@ -11,7 +11,7 @@
     [
       { "name": { "ja": "募集事項", "en": "Announcements" }, "url": "/menu_collect/", "rel": "nofollow" },
       { "name": { "ja": "MIDIのダウンロード", "en": "MIDI Downloads" }, "url": "/menu_midi/", "rel": "nofollow" },
-      { "name": { "ja": "管理人へメール", "en": "Contact Admin" }, "url": "/menu_mail/", "rel": "nofollow" },
+      { "name": { "ja": "アクションエディター4 vs. 『ACTION GAME MAKER』", "en": "Action Editor 4 vs. 『ACTION GAME MAKER』" }, "url": "/menu_gametool/action-editor-vs-action-game-maker/", "rel": "dofollow" },
       { "name": { "ja": "リンク集", "en": "Links" }, "url": "/menu_link/", "rel": "nofollow" },
       { "name": { "ja": "サイトマップ", "en": "Sitemap" }, "url": "/sitemap/", "rel": "nofollow" }
     ]

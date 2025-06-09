@@ -25,3 +25,9 @@ List of game production software
 |[Action Editor+](/en/menu_game/ActionEditorPlus/) <br> and its collection | Action game production software <br> (You can also create shooting games, etc.) |☆☆☆|
 |[Simulation RPG Editor](/en/menu_game/SRPGEditor/) <br> and its collection | Simulation RPG production software |☆☆|
 |[Action Editor](/en/menu_game/ActionEditor/) <br> and its collection | Action game production software <br> (You can also create shooting games, etc.) |☆☆|
+
+To help you out, we've put together a brief comparison between ACTION EDITOR 4 and 『ACTION GAME MAKER』, a popular modern tool.  
+
+Whether you prioritize ease of use, system requirements, or engine features, our guide might just help you find what's best for you.  
+
+Check out our comparison guide between [**ACTION EDITOR 4** and **ACTION GAME MAKER** !](/en/menu_gametool/action-editor-vs-action-game-maker/)  
