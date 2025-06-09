@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3
   - name: 「レジェンドオブヤシーユ3」ボスデータ
     url: /menu_game_capture/yashiyu3_bossdata/
+description: 無料RPG「レジェンドオブヤシーユ3」のボスデータです。
 ---
 
 ## 「レジェンドオブヤシーユ3」ボスデータ

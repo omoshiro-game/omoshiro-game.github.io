@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY
   - name: Formulas
     url: /menu_game_capture/yashiyu_technique/
+description: Formulas for the free RPG "Legend of Yashiyu".
 ---
 
 ## "Legend of Yashiyu" Formulas

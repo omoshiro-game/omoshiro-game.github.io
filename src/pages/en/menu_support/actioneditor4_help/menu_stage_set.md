@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: "Stage > Stage Settings"
     url: /menu_support/actioneditor4_help/menu_stage_set/
+description: Online help for the action game creation software "Action Editor 4". "Stage > Stage Settings" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

@@ -8,6 +8,8 @@ breadcrumb:
     url: /menu_game_capture/#NAKAMA
   - name: シナリオデータ
     url: /menu_game_capture/nakama_scenariodata/
+description: 無料RPG「ヤシーユと仲間」のシナリオデータです。
+
 ---
 
 ## 「ヤシーユと仲間」シナリオデータ

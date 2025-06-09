@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: Other > Bitmap Conversion Tool
     url: /menu_support/actioneditor4_help/menu_others_bmpconvert/
+description: Online help for the action game creation software "Action Editor 4". "Other > Bitmap Conversion Tool" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

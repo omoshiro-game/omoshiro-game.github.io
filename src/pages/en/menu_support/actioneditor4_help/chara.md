@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: Character Settings
     url: /menu_support/actioneditor4_help/chara/
+description: Online help for the action game creation software "Action Editor 4". "Character Settings" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

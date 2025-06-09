@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: File Explanation
     url: /menu_support/actioneditor4_help/file/
+description: Online help for the action game creation software "Action Editor 4". "File Explanation" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

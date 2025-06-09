@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: 「レジェンドオブヤシーユ2」フィールドマップ
     url: /menu_game_capture/yashiyu2_fieldmap/
+description: 無料RPG「レジェンドオブヤシーユ2」のフィールドマップです。
 ---
 
 ## 「レジェンドオブヤシーユ2」フィールドマップ

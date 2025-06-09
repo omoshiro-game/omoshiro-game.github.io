@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: How to Improve Performance?
     url: /menu_support/actioneditor4_help/light/
+description: Online help for the action game creation software "Action Editor 4". "How to Improve Performance?" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

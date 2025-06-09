@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3
   - name: 「レジェンドオブヤシーユ3」各クラスの平均ステータス
     url: /menu_game_capture/yashiyu3_classdata/
+description: 無料RPG「レジェンドオブヤシーユ3」の各クラスの平均ステータスです。
 ---
 
 ## LVMAXでの平均ステータス

@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: Stage and Palette Editing
     url: /menu_support/actioneditor4_help/stage/
+description: Online help for the action game creation software "Action Editor 4". "Stage and Palette Editing" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: Legend of Yashiyu 4 Class Data
     url: /menu_game_capture/yashiyu4_classdata/
+description: Class data for the free RPG "Legend of Yashiyu 4".
 ---
 
 ## "Legend of Yashiyu 4" Class Data

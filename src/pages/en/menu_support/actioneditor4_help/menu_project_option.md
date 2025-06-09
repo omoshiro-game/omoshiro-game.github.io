@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: "Project > Project Options"
     url: /menu_support/actioneditor4_help/menu_project_option/
+description: Online help for the action game creation software "Action Editor 4". "Project > Project Options" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

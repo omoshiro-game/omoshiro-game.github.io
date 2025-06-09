@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: 「レジェンドオブヤシーユ2」計算式＆テクニック等
     url: /menu_game_capture/yashiyu2_technique/
+description: 無料RPG「レジェンドオブヤシーユ2」の計算式＆テクニック等です。
 ---
 
 ## 「レジェンドオブヤシーユ2」計算式＆テクニック等

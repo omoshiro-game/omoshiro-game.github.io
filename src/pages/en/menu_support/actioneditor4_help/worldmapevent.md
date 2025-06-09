@@ -1,13 +1,14 @@
 ---
-title: World Map Chip Placement
+title: World Map Event Placement
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Support
     url: /menu_support/
   - name: Action Editor 4 Help
     url: /menu_support/actioneditor4_help/
-  - name: World Map Chip Placement
+  - name: World Map Event Placement
     url: /menu_support/actioneditor4_help/worldmapevent/
+description: Online help for the action game creation software "Action Editor 4". "World Map Event Placement" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

@@ -6,6 +6,16 @@ breadcrumb:
     url: /menu_support/
   - name: シミュレーションRPGエディター よくある質問
     url: /menu_support/srpgeditor_qa/
+keywords:
+  - シミュレーションRPGエディター
+  - シミュレーションRPG
+  - 制作ソフト
+  - ツール
+  - おもしろゲーム
+  - 無料ゲーム
+  - ゲーム
+  - サポート
+description: シミュレーションRPG制作ソフト「シミュレーションRPGエディター」における、よくある質問をまとめてみました。
 ---
 
 ## シミュレーションRPGエディター よくある質問　目次

@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: 「レジェンドオブヤシーユ4」アイテムデータ
     url: /menu_game_capture/yashiyu4_itemdata/
+description: 無料RPG「レジェンドオブヤシーユ4」のアイテムデータです。
 ---
 
 ## 「レジェンドオブヤシーユ4」アイテムデータ

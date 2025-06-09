@@ -32,7 +32,7 @@ Map Chip Palette Window
 
 [![Screenshot of Map Chip Palette Window](/menu_support/srpgeditor2_help/mapchip/mapchip.jpg)](/menu_support/srpgeditor2_help/mapchip/mapchip.jpg)
 
-This map chip palette data can be edited in [Database "Terrain"](../land/).  
+This map chip palette data can be edited in [Database "Terrain"](../db_land/).  
 To place map chips, click and select the map chip you want from the map chip palette.  
 Then click on the stage map to place the map chip according to the current pen.  
 **Right-clicking (dragging also possible) on the stage map allows you to memorize the map chip at the cursor position. (This is the eyedropper function.)**  

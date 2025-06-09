@@ -8,6 +8,8 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: About This Help
     url: /menu_support/actioneditor4_help/about/
+description: Online help for the action game creation software "Action Editor 4". "About This Help" is a page within "Omoshiro Game Shrine".
+h1: About This Help
 ---
 
 ## About This Help

@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: 「レジェンドオブヤシーユ2」スキルデータ
     url: /menu_game_capture/yashiyu2_skilldata/
+description: 無料RPG「レジェンドオブヤシーユ2」のスキルデータです。
 ---
 
 ## 「レジェンドオブヤシーユ2」スキルデータ

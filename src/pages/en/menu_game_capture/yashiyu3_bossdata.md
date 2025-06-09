@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3
   - name: Legend of Yashiyu 3 Boss Data
     url: /menu_game_capture/yashiyu3_bossdata/
+description: Boss data for the free RPG "Legend of Yashiyu 3".
 ---
 
 ## "Legend of Yashiyu 3" Boss Data

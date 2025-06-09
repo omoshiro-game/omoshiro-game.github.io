@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#NAKAMA
   - name: スキルデータ
     url: /menu_game_capture/nakama_skilldata/
+description: 無料RPG「ヤシーユと仲間」のスキルデータです。
 ---
 
 ## 「ヤシーユと仲間」スキルデータ

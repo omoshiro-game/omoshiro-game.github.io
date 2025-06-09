@@ -4,6 +4,7 @@ layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Browser Games Collection
     url: /menu_browsergame/
+description: A collection of free browser games. Browser games can be played instantly. Card games available.
 ---
 
 <a name="START"></a>

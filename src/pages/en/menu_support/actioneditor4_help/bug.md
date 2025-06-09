@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: Unfixable Bugs, aka Specifications
     url: /menu_support/actioneditor4_help/bug/
+description: Online help for the action game creation software "Action Editor 4". "Unfixable Bugs, aka Specifications" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

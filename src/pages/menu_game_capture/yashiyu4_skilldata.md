@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: 「レジェンドオブヤシーユ4」スキルデータ
     url: /menu_game_capture/yashiyu4_skilldata/
+description: 無料RPG「レジェンドオブヤシーユ4」のスキルデータです。
 ---
 
 ## 「レジェンドオブヤシーユ4」スキルデータ

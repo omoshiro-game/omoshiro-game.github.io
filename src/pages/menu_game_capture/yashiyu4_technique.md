@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: 「レジェンドオブヤシーユ4」計算式
     url: /menu_game_capture/yashiyu4_technique/
+description: 無料RPG「レジェンドオブヤシーユ4」の計算式です。
 ---
 
 ## 「レジェンドオブヤシーユ4」計算式

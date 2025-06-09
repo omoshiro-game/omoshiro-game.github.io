@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY
   - name: Item Data
     url: /menu_game_capture/yashiyu_itemdata/
+description: Item data for the free RPG "Legend of Yashiyu".
 ---
 
 ## "Legend of Yashiyu" Item Data

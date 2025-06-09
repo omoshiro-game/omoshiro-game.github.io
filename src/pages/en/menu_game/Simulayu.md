@@ -1,11 +1,16 @@
 ---
-title: Simulayu
+title: Simulayu | Game Download | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Game Download
-    url: /menu_game/
-  - name: Simulayu
-    url: /menu_game/Simulayu/
+- name: Game Download
+  url: /menu_game/
+- name: Simulayu
+  url: /menu_game/Simulayu/
+h1: Simulayu
+description: Download the simulation RPG "Simulayu". It offers replayability due to random elements in character stats, learned skills, and shop inventory, and you can raise any number of characters, so you can play with peace of mind. After clearing the game, you can play through any number of times with the same data.
+og:
+  title: Simulation RPG "Simulayu"
+  description: Download the simulation RPG "Simulayu".
 ---
 
 ## Simulation RPG Simulayu (Free)

@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: 「レジェンドオブヤシーユ2」ボスデータ
     url: /menu_game_capture/yashiyu2_bossdata/
+description: 無料RPG「レジェンドオブヤシーユ2」のボスデータです。
 ---
 
 ## 「レジェンドオブヤシーユ2」ボスデータ

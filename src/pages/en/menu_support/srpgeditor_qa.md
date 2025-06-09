@@ -6,6 +6,16 @@ breadcrumb:
     url: /menu_support/
   - name: Simulation RPG Editor FAQ
     url: /menu_support/srpgeditor_qa/
+keywords:
+  - Simulation RPG Editor
+  - Simulation RPG
+  - Creation Software
+  - Tool
+  - Fun Game
+  - Free Game
+  - Game
+  - Support
+description: A compilation of frequently asked questions for the simulation RPG creation software "Simulation RPG Editor".
 ---
 
 ## Simulation RPG Editor FAQ Table of Contents

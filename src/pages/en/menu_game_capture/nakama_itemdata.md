@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#NAKAMA
   - name: Item Data
     url: /menu_game_capture/nakama_itemdata/
+description: Item data for the free RPG "Yashiyu and Friends".
 ---
 
 ## "Yashiyu and Friends" Item Data

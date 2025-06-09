@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#NAKAMA
   - name: Scenario Data
     url: /menu_game_capture/nakama_scenariodata/
+description: Scenario data for the free RPG "Yashiyu and Friends".
 ---
 
 ## "Yashiyu and Friends" Scenario Data

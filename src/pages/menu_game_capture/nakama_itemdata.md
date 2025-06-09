@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#NAKAMA
   - name: アイテムデータ
     url: /menu_game_capture/nakama_itemdata/
+description: 無料RPG「ヤシーユと仲間」のアイテムデータです。
 ---
 
 ## 「ヤシーユと仲間」アイテムデータ

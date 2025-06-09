@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: 「レジェンドオブヤシーユ2」アイテムデータ
     url: /menu_game_capture/yashiyu2_itemdata/
+description: 無料RPG「レジェンドオブヤシーユ2」のアイテムデータです。
 ---
 
 ## 「レジェンドオブヤシーユ2」アイテムデータ

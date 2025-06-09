@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: レジェンドオブヤシーユ4」ザコデータ
     url: /menu_game_capture/yashiyu4_zakodata/
+description: 無料RPG「レジェンドオブヤシーユ4」のザコデータです。
 ---
 
 ## レジェンドオブヤシーユ4」ザコデータ

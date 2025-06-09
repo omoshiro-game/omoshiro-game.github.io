@@ -78,5 +78,5 @@ description: おもしろゲーム神殿の各ゲーム・ツールのサポー�
 ---
 
 ＜過去ログ＞（書き込み不可）  
-[ゲームBBS](/patio_game/patio.cgi)  
+<!-- [ゲームBBS](/patio_game/patio.cgi)   -->
 [とくしゅBBS](/joyful_publicity/joyful/)

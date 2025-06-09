@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: Image Standards
     url: /menu_support/actioneditor4_help/bmp/
+description: Online help for the action game creation software "Action Editor 4". "Image Standards" is a page within "Omoshiro Game Shrine".
 ---
 
 ## Image Standards

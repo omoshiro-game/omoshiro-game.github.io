@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#NAKAMA
   - name: Skill Data
     url: /menu_game_capture/nakama_skilldata/
+description: Skill data for the free RPG "Yashiyu and Friends".
 ---
 
 ## "Yashiyu and Friends" Skill Data

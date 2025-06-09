@@ -8,6 +8,17 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: 「ステージ」＞「ステージの設定」
     url: /menu_support/actioneditor4_help/menu_stage_set/
+keywords:
+  - ヘルプ
+  - アクションゲーム
+  - アクションエディター
+  - 制作ソフト
+  - ツール
+  - おもしろ
+  - 無料
+  - ゲーム
+  - オンライン
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「「ステージ」＞「ステージの設定」」は「おもしろゲーム神殿」内のページです
 ---
 
 <a name="TOP"></a>

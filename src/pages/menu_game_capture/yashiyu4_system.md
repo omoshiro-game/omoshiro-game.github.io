@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: 「レジェンドオブヤシーユ4」2周目以降の仕組み
     url: /menu_game_capture/yashiyu4_system/
+description: 無料RPG「レジェンドオブヤシーユ4」の2周目以降の仕組みです。
 ---
 
 ## 「レジェンドオブヤシーユ4」2周目以降の仕組み

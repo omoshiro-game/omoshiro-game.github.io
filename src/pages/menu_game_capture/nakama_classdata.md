@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#NAKAMA
   - name: クラスデータ
     url: /menu_game_capture/nakama_classdata/
+description: 無料RPG「ヤシーユと仲間」のクラスデータです。
 ---
 
 ## 「ヤシーユと仲間」クラスデータ

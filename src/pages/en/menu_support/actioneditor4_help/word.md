@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: Explanation of Terms
     url: /menu_support/actioneditor4_help/word/
+description: Online help for the action game creation software "Action Editor 4". "Explanation of Terms" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

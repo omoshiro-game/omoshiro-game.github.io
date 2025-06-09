@@ -8,6 +8,17 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: ワールドマップチップの配置
     url: /menu_support/actioneditor4_help/worldmapchip/
+keywords:
+  - ヘルプ
+  - アクションゲーム
+  - アクションエディター
+  - 制作ソフト
+  - ツール
+  - おもしろ
+  - 無料
+  - ゲーム
+  - オンライン
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「ワールドマップチップの配置」は「おもしろゲーム神殿」内のページです
 ---
 
 ## ワールドマップチップの配置

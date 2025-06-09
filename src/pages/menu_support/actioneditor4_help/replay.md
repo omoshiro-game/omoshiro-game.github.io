@@ -8,6 +8,17 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: リプレイについて
     url: /menu_support/actioneditor4_help/replay/
+keywords:
+  - ヘルプ
+  - アクションゲーム
+  - アクションエディター
+  - 制作ソフト
+  - ツール
+  - おもしろ
+  - 無料
+  - ゲーム
+  - オンライン
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「リプレイについて」は「おもしろゲーム神殿」内のページです
 ---
 
 <a name="TOP"></a>

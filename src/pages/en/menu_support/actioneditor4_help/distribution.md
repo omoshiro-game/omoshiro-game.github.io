@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: About Game Distribution
     url: /menu_support/actioneditor4_help/distribution/
+description: Online help for the action game creation software "Action Editor 4". "About Game Distribution" is a page within "Omoshiro Game Shrine".
 ---
 
 ## About Game Distribution

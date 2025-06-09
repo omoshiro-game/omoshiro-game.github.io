@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: 「レジェンドオブヤシーユ2」ザコデータ（ふくろたたきモード）
     url: /menu_game_capture/yashiyu2_zakospdata/
+description: 無料RPG「レジェンドオブヤシーユ2」のザコデータ（ふくろたたき）です。
 ---
 
 ## 「レジェンドオブヤシーユ2」ザコデータ（ふくろたたきモード）

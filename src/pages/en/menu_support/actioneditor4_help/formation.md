@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: Formation Settings
     url: /menu_support/actioneditor4_help/formation/
+description: Online help for the action game creation software "Action Editor 4". "Formation Settings" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

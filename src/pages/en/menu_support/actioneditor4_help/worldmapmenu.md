@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: World Map Menu
     url: /menu_support/actioneditor4_help/worldmapmenu/
+description: Online help for the action game creation software "Action Editor 4". "World Map Menu" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

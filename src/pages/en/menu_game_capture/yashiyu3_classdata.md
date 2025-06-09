@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3
   - name: Legend of Yashiyu 3 Average Class Stats
     url: /menu_game_capture/yashiyu3_classdata/
+description: Class stats for the free RPG "Legend of Yashiyu 3".
 ---
 
 ## Average Stats at LVMAX

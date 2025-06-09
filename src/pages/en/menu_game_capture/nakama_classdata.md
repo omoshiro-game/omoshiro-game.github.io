@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#NAKAMA
   - name: Class Data
     url: /menu_game_capture/nakama_classdata/
+description: Class data for the free RPG "Yashiyu and Friends".
 ---
 
 ## "Yashiyu and Friends" Class Data

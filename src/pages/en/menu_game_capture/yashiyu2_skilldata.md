@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: Skill Data
     url: /menu_game_capture/yashiyu2_skilldata/
+description: Skill data for the free RPG "Legend of Yashiyu 2".
 ---
 
 ## "Legend of Yashiyu 2" Skill Data

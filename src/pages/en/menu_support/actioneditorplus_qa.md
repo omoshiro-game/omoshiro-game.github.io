@@ -6,6 +6,17 @@ breadcrumb:
     url: /menu_support/
   - name: Action Editor+ FAQ
     url: /menu_support/actioneditorplus_qa/
+keywords:
+  - Action Editor
+  - Action Editor+
+  - Action Game
+  - Creation Software
+  - Tool
+  - Fun Game
+  - Free Game
+  - Game
+  - Support
+description: A compilation of frequently asked questions for the action game creation software "Action Editor+".
 ---
 
 ## Action Editor+ FAQ Table of Contents

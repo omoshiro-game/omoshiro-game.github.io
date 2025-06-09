@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: Minion Data
     url: /menu_game_capture/yashiyu2_zakodata/
+description: Minion data for the free RPG "Legend of Yashiyu 2".
 ---
 
 ## "Legend of Yashiyu 2" Minion Data

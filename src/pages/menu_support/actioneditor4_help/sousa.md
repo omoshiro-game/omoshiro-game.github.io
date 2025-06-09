@@ -8,6 +8,17 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: 操作方法
     url: /menu_support/actioneditor4_help/sousa/
+keywords:
+  - ヘルプ
+  - アクションゲーム
+  - アクションエディター
+  - 制作ソフト
+  - ツール
+  - おもしろ
+  - 無料
+  - ゲーム
+  - オンライン
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「操作方法」は「おもしろゲーム神殿」内のページです
 ---
 ## 操作方法　目次
 

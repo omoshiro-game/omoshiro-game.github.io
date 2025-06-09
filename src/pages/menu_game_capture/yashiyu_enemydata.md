@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY
   - name: 「レジェンドオブヤシーユ」敵データ
     url: /menu_game_capture/yashiyu_enemydata/
+description: 無料RPG「レジェンドオブヤシーユ」の敵データです。
 ---
 
 ## ザコデータ

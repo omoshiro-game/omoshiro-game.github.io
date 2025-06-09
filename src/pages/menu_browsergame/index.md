@@ -4,6 +4,7 @@ layout: /src/layouts/Base.astro
 breadcrumb:
   - name: ブラウザゲーム集
     url: /menu_browsergame/
+description: 無料ブラウザゲーム集です。ブラウザゲームはその場ですぐ遊べます。カードゲームあります。
 ---
 ## ゲーム一覧
 

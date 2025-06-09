@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: World Map Chip Placement
     url: /menu_support/actioneditor4_help/worldmapchip/
+description: Online help for the action game creation software "Action Editor 4". "World Map Chip Placement" is a page within "Omoshiro Game Shrine".
 ---
 
 ## World Map Chip Placement

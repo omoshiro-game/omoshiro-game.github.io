@@ -117,7 +117,7 @@ This folder is generated when the editor or game starts for the first time.
 ● "image" folder  
 Contains images (.png) used by both the editor and the game.  
 
-> For image standards, refer to ["Image Standards"](../image).  
+> For image standards, refer to ["Image Standards"](../image/).  
   
 ● "e_image" folder  
 Contains images (.bmp) used only by the editor.  
@@ -128,20 +128,20 @@ Music used in the game.
 Supports Midi (.mid) and OggVorbis (.ogg) formats.  
 It is recommended to put your own files in this folder as well.  
 
-> For how to register files as assets, refer to [Database "BGM"](../db_bgm).  
+> For how to register files as assets, refer to [Database "BGM"](../db_bgm/).  
   
 ● "wave" folder  
 Sound effects used in the game.  
 **Only PCM wave format is supported; other formats (such as ADPCM) will not play in the game even if they play in the editor.**  
 It is recommended to put your own files in this folder as well.  
 
-> For how to register files as assets, refer to [Database "Sound Effect"](../db_se).  
+> For how to register files as assets, refer to [Database "Sound Effect"](../db_se/).  
   
 ● "csv" folder  
 Empty by default, but if you export an Excel-editable CSV file from the database, the file will be saved in this folder.  
 CSV files can be edited in Excel and loaded into the database. (Always edit with Excel).  
 
-> For details on CSV files and Excel usage, refer to ["Interoperability with Excel"](../csv).  
+> For details on CSV files and Excel usage, refer to ["Interoperability with Excel"](../csv/).  
 
 [Back to top of page](#top)
 

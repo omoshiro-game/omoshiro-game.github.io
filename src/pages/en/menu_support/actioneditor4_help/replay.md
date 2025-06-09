@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: About Replays
     url: /menu_support/actioneditor4_help/replay/
+description: Online help for the action game creation software "Action Editor 4". "About Replays" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

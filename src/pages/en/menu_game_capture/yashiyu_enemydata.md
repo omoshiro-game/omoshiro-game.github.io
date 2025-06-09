@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY
   - name: Enemy Data
     url: /menu_game_capture/yashiyu_enemydata/
+description: Enemy data for the free RPG "Yashiyu and Friends".
 ---
 
 ## Minion Data

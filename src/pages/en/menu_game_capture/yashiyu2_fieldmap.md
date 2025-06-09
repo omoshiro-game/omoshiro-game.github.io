@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: Field Map
     url: /menu_game_capture/yashiyu2_fieldmap/
+description: Field Map data for the free RPG "Legend of Yashiyu 2".
 ---
 
 ## "Legend of Yashiyu 2" Field Map

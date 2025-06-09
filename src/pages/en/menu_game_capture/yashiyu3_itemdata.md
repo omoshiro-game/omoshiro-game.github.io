@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3_SOLITUDE
   - name: Legend of Yashiyu 3 Item Data
     url: /menu_game_capture/yashiyu3_itemdata/
+description: Item Data for the free RPG "Legend of Yashiyu 3".
 ---
 
 ## "Legend of Yashiyu 3" Item Data

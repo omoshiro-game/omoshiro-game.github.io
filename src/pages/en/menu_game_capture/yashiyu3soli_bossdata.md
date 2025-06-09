@@ -1,7 +1,6 @@
 ---
 title: "Rejiyashi 3 Solitude Boss Data"
 h1: "Rejiyashi 3 Solitude Boss Data"
-description: Boss data for the free RPG "Rejiyashi 3 Solitude".
 layout: /src/layouts/Base.astro
 breadcrumb:
   - name: Game Walkthrough Table of Contents
@@ -10,6 +9,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3
   - name: "Rejiyashi 3 Solitude Boss Data"
     url: /menu_game_capture/yashiyu3soli_bossdata/
+description: Boss data for the free RPG "Rejiyashi 3 Solitude".
 keywords:
 - Boss
 - RPG

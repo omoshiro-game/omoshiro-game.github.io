@@ -1,11 +1,13 @@
 ---
-title: When the Gamepad Doesn't Work
+title: When the Gamepad Doesn't Work | Support | Omoshiro Game Shrine
 layout: /src/layouts/Base.astro
 breadcrumb:
-  - name: Support
-    url: /menu_support/
-  - name: When the Gamepad Doesn't Work
-    url: /menu_support/gamepad_preferred_device/
+- name: Support
+  url: /menu_support/
+- name: When the Gamepad Doesn't Work
+  url: /menu_support/gamepad_preferred_device/
+h1: When the Gamepad Doesn't Work
+description: When the gamepad doesn't work, set the preferred device from Windows Control Panel.
 ---
 
 <a name="TOP"></a>

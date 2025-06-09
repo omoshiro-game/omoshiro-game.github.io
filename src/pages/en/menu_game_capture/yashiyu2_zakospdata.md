@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: Minion Data (Beat Up Mode)
     url: /menu_game_capture/yashiyu2_zakospdata/
+description: Minion data (Beat Up Mode) for the free RPG "Legend of Yashiyu 2".
 ---
 
 ## "Legend of Yashiyu 2" Minion Data (Beat Up Mode)

@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: Ally Data
     url: /menu_game_capture/yashiyu2_frienddata/
+description: Ally data for the free RPG "Legend of Yashiyu 2".
 ---
 
 ## "Legend of Yashiyu 2" Ally Data

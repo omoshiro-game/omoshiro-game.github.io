@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: Character Animation
     url: /menu_support/actioneditor4_help/animation/
+description: Online help for the action game creation software "Action Editor 4". "Character Animation" is a page within "Omoshiro Game Shrine".
 ---
 
 ## Character Animation

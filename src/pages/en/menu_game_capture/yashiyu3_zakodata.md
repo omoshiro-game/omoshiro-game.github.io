@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3_SOLITUDE
   - name: Legend of Yashiyu 3 Minion Data
     url: /menu_game_capture/yashiyu3_zakodata/
+description: Minion data for the free RPG "Legend of Yashiyu 3".
 ---
 
 ## "Legend of Yashiyu 3" Minion Data

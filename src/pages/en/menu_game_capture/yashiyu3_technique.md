@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3_SOLITUDE
   - name: Legend of Yashiyu 3 Formulas
     url: /menu_game_capture/yashiyu3_technique/
+description: Formulas for the free RPG "Legend of Yashiyu 3".
 ---
 
 ## "Legend of Yashiyu 3" Formulas

@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: About Packaging (How to Use Enigma Virtual Box)
     url: /menu_support/actioneditor4_help/packaging/
+description: Online help for the action game creation software "Action Editor 4". "About Packaging (How to Use Enigma Virtual Box)" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

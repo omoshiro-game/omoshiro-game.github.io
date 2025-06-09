@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY2
   - name: 「レジェンドオブヤシーユ2」仲間データ
     url: /menu_game_capture/yashiyu2_frienddata/
+description: 無料RPG「レジェンドオブヤシーユ2」の仲間データです。
 ---
 
 ## 「レジェンドオブヤシーユ2」仲間データ

@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: Legend of Yashiyu 4 Mechanism for 2nd Playthrough and Beyond
     url: /menu_game_capture/yashiyu4_system/
+description: Mechanism for 2nd Playthrough for the free RPG "Legend of Yashiyu 4".
 ---
 
 ## "Legend of Yashiyu 4" Mechanism for 2nd Playthrough and Beyond

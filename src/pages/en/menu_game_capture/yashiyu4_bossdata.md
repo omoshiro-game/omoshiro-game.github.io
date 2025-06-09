@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: Legend of Yashiyu 4 Boss Data
     url: /menu_game_capture/yashiyu4_bossdata/
+description: Boss data for the free RPG "Legend of Yashiyu 4".
 ---
 
 ## "Legend of Yashiyu 4" Boss Data

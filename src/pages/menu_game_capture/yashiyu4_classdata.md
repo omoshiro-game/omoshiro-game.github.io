@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: 「レジェンドオブヤシーユ4」クラスデータ
     url: /menu_game_capture/yashiyu4_classdata/
+description: 無料RPG「レジェンドオブヤシーユ4」のクラスデータです。
 ---
 
 ## 「レジェンドオブヤシーユ4」クラスデータ

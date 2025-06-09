@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY3
   - name: 「レジェンドオブヤシーユ3」ザコデータ
     url: /menu_game_capture/yashiyu3_zakodata/
+description: 無料RPG「レジェンドオブヤシーユ3」のザコデータです。
 ---
 
 ## 「レジェンドオブヤシーユ3」ザコデータ

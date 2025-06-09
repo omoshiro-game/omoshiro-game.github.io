@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY4
   - name: 「レジェンドオブヤシーユ4」ボスデータ
     url: /menu_game_capture/yashiyu4_bossdata/
+description: 無料RPG「レジェンドオブヤシーユ4」のボスデータです。
 ---
 
 ## 「レジェンドオブヤシーユ4」ボスデータ

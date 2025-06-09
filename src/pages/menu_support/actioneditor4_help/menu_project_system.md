@@ -8,6 +8,17 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: 「プロジェクト」＞「システム」
     url: /menu_support/actioneditor4_help/menu_project_system/
+keywords:
+  - ヘルプ
+  - アクションゲーム
+  - アクションエディター
+  - 制作ソフト
+  - ツール
+  - おもしろ
+  - 無料
+  - ゲーム
+  - オンライン
+description: アクションゲーム制作ソフト「アクションエディター4」のオンラインヘルプ。「「プロジェクト」＞「システム」」は「おもしろゲーム神殿」内のページです
 ---
 
 <a name="TOP"></a>

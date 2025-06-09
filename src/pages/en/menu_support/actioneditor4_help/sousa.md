@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_support/actioneditor4_help/
   - name: How to Operate
     url: /menu_support/actioneditor4_help/sousa/
+description: Online help for the action game creation software "Action Editor 4". "How to Operate" is a page within "Omoshiro Game Shrine".
 ---
 
 <a name="TOP"></a>

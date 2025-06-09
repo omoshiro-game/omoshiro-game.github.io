@@ -8,6 +8,7 @@ breadcrumb:
     url: /menu_game_capture/#LOY
   - name: 「レジェンドオブヤシーユ」計算式
     url: /menu_game_capture/yashiyu_technique/
+description: 無料RPG「レジェンドオブヤシーユ」の計算式です。
 ---
 
 ## 「レジェンドオブヤシーユ」計算式
