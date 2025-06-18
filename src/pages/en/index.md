@@ -39,16 +39,15 @@ og:
     Hopefully, this will give you the nudge you need to start creating your games!
 
 - -2025/05/25-  
-    Long time no see.  
-    
-    I've decided to bring the site back online after several years.  
-    That said, it’s not like there’s any new release or anything.  
-    It’s more like… I just felt a bit sad that the old stuff wasn’t viewable anymore,  
-    so I figured I’d at least make it public again.  
-    
-    As for what comes next — that’s totally undecided.  
-    If expectations get too high, it turns into pressure, so I’d really appreciate it  
-    if you could just take it easy and enjoy what’s here.  
+    It's been a long time.  
+
+    ...Though I should say, I am not Anton.  
+    From now on, this site will be operated by a group of volunteers, primarily myself, "YAKU" and "Phoebe" on behalf of Mr. Anton.  
+
+    We firmly believe Mr. Anton himself would not wish for the excellent content he left behind to simply vanish from this world, and it is our intention to keep this content alive here.  
+    Should Mr. Anton ever return, we will proceed with analyzing and updating the Action Editor on the condition that all copyrights are returned to him. *(We will not monetize the tool.)*  
+
+    To be perfectly honest, I myself have no idea how long this will take or how far we can go, and I'm filled with apprehension, but if you could take it lightly and stick around patiently, I would be most grateful.  
     
     (If I find small bugs during this reboot, I’ll quietly fix them here and there.)  
 
