@@ -151,6 +151,9 @@ keywords:
 - 直感的なビジュアルインターフェース
 - プログラミング的思考がなくても理解できる
 
+
+![WoY16 Bullet Demo.png](/menu_game/ActionEditor4/WoY16 Bullet Demo.png)  
+
 ## アクションエディター4で始めよう！
 
 ### 初心者向けガイド
