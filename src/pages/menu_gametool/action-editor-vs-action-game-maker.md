@@ -152,7 +152,8 @@ keywords:
 - プログラミング的思考がなくても理解できる
 
 
-![WoY16 Bullet Demo.png](/menu_game/ActionEditor4/WoY16 Bullet Demo.png)  
+![WoY16 Bullet Demo.png](/menu_game/ActionEditor4/WoY16%20Bullet%20Demo.png)
+
 
 ## アクションエディター4で始めよう！
 
